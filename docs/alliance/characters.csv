@@ -4,47 +4,47 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Admiral Ackbar",67,39,2,0,0,0
 "Admiral Piett",58,6,2,1,0,22
 "Ahsoka Tano",67,54,20,8,0,51
-"Ahsoka Tano (Fulcrum)",59,9,0,0,0,4
+"Ahsoka Tano (Fulcrum)",60,9,0,0,0,4
 "Amilyn Holdo",59,9,3,2,0,6
-"Asajj Ventress",65,53,18,6,36,45
+"Asajj Ventress",65,53,18,6,37,45
 "Aurra Sing",53,11,1,1,4,5
-"B1 Battle Droid",57,40,26,10,0,36
-"B2 Super Battle Droid",56,36,21,2,0,34
+"B1 Battle Droid",57,40,26,11,0,36
+"B2 Super Battle Droid",56,36,22,2,0,34
 "BB-8",59,41,7,5,0,64
 "Barriss Offee",56,19,0,0,0,14
 "Bastila Shan",64,56,13,7,50,0
-"Bastila Shan (Fallen)",61,48,28,9,0,48
+"Bastila Shan (Fallen)",61,48,28,10,0,48
 "Baze Malbus",55,12,0,0,0,0
 "Biggs Darklighter",66,35,7,0,0,0
 "Bistan",63,2,0,0,0,0
 "Boba Fett",65,56,9,4,0,45
 "Bodhi Rook",61,1,0,0,0,0
 "Bossk",64,53,23,6,53,41
-"C-3PO",50,45,27,13,0,88
+"C-3PO",50,45,28,13,0,88
 "CC-2224 "Cody"",63,18,0,0,7,0
 "CT-21-0408 "Echo"",63,38,10,4,0,28
 "CT-5555 "Fives"",66,35,13,6,0,59
 "CT-7567 "Rex"",62,45,13,6,0,35
 "Cad Bane",64,49,0,0,0,0
 "Canderous Ordo",59,38,0,0,0,22
-"Captain Han Solo",42,13,12,0,0,8
+"Captain Han Solo",42,14,12,1,0,8
 "Captain Phasma",65,23,9,8,12,0
 "Cara Dune",56,2,0,0,0,4
 "Carth Onasi",61,45,0,0,43,0
 "Cassian Andor",63,17,0,0,0,8
-"Chewbacca",53,41,23,8,0,80
-"Chief Chirpa",58,40,1,1,49,0
+"Chewbacca",53,41,23,8,0,82
+"Chief Chirpa",58,41,1,1,49,0
 "Chief Nebit",58,4,0,0,0,0
 "Chirrut Îmwe",65,16,0,0,0,0
 "Chopper",67,31,1,1,0,0
 "Clone Sergeant - Phase I",67,27,0,0,0,0
 "Clone Wars Chewbacca",67,3,0,0,0,1
 "Colonel Starck",50,20,6,0,0,14
-"Commander Luke Skywalker",60,54,37,15,52,108
+"Commander Luke Skywalker",60,54,38,15,52,108
 "Coruscant Underworld Police",59,0,0,0,0,0
 "Count Dooku",66,50,11,6,0,39
-"Dark Trooper",44,0,0,0,0,1
-"Darth Malak",37,33,18,12,0,68
+"Dark Trooper",45,0,0,0,0,1
+"Darth Malak",37,34,18,12,0,71
 "Darth Maul",64,36,4,0,13,0
 "Darth Nihilus",62,34,3,3,17,26
 "Darth Revan",45,44,37,21,45,90
@@ -60,7 +60,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Eeth Koth",59,3,0,0,0,0
 "Embo",55,5,0,0,2,3
 "Emperor Palpatine",66,58,30,14,51,52
-"Enfys Nest",59,26,1,0,0,22
+"Enfys Nest",59,27,1,0,0,23
 "Ewok Elder",67,51,0,0,0,0
 "Ewok Scout",67,24,0,0,0,0
 "Ezra Bridger",67,47,0,0,0,26
@@ -68,36 +68,36 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "First Order Executioner",60,33,9,9,0,0
 "First Order Officer",64,36,8,8,0,0
 "First Order SF TIE Pilot",58,13,7,0,0,0
-"First Order Stormtrooper",66,16,8,8,0,13
+"First Order Stormtrooper",66,16,9,8,0,13
 "First Order TIE Pilot",67,33,9,1,0,12
 "Gamorrean Guard",34,1,0,0,0,0
 "Gar Saxon",62,3,0,0,1,0
 "Garazeb "Zeb" Orrelios",67,18,1,1,0,17
 "General Grievous",62,45,19,11,42,42
-"General Hux",56,12,9,9,0,16
-"General Kenobi",55,52,46,27,0,49
+"General Hux",56,13,9,9,0,16
+"General Kenobi",55,52,46,28,0,49
 "General Skywalker",21,19,11,9,19,56
-"General Veers",64,32,6,0,0,22
-"Geonosian Brood Alpha",50,45,13,7,43,47
+"General Veers",64,32,6,0,0,23
+"Geonosian Brood Alpha",50,45,14,8,43,47
 "Geonosian Soldier",67,51,3,2,0,0
-"Geonosian Spy",62,47,4,1,0,0
-"Grand Admiral Thrawn",62,46,16,7,20,46
-"Grand Master Yoda",65,59,32,15,33,60
+"Geonosian Spy",62,47,5,1,0,0
+"Grand Admiral Thrawn",62,46,16,7,21,46
+"Grand Master Yoda",65,59,32,16,33,60
 "Grand Moff Tarkin",67,45,9,0,16,23
 "Greedo",65,38,1,0,0,17
-"Greef Karga",58,8,1,1,0,17
-"HK-47",63,47,18,5,0,84
+"Greef Karga",58,10,1,1,0,17
+"HK-47",63,47,19,5,0,84
 "Han Solo",64,52,19,12,0,50
 "Hera Syndulla",66,33,2,1,0,17
-"Hermit Yoda",49,37,14,6,0,49
+"Hermit Yoda",49,37,15,6,0,50
 "Hoth Rebel Scout",64,4,0,0,0,0
 "Hoth Rebel Soldier",65,3,0,0,0,0
-"IG-100 MagnaGuard",67,34,6,1,0,24
+"IG-100 MagnaGuard",67,34,7,1,0,24
 "IG-11",52,2,0,0,0,2
 "IG-86 Sentinel Droid",67,4,0,0,0,0
 "IG-88",64,50,0,0,0,19
 "Ima-Gun Di",53,2,0,0,0,0
-"Imperial Probe Droid",44,2,0,0,0,1
+"Imperial Probe Droid",45,2,0,0,0,1
 "Imperial Super Commando",59,1,0,0,0,0
 "Jango Fett",64,43,3,1,25,31
 "Jawa",65,3,0,0,0,0
@@ -107,7 +107,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Jedi Knight Anakin",61,53,26,13,0,47
 "Jedi Knight Guardian",66,1,0,0,0,0
 "Jedi Knight Luke Skywalker",8,8,8,7,8,8
-"Jedi Knight Revan",52,50,39,22,50,100
+"Jedi Knight Revan",52,50,39,22,50,101
 "Jedi Master Luke Skywalker",4,4,4,4,4,19
 "Jolee Bindo",64,53,17,7,0,53
 "Juhani",60,38,0,0,0,24
@@ -117,9 +117,9 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Kit Fisto",52,1,0,0,0,0
 "Kuiil",54,2,0,0,0,4
 "Kylo Ren",64,41,12,10,0,35
-"Kylo Ren (Unmasked)",65,37,18,13,39,33
+"Kylo Ren (Unmasked)",65,37,18,13,40,34
 "L3-37",59,3,0,0,0,1
-"Lando Calrissian",65,33,12,4,0,0
+"Lando Calrissian",65,33,13,4,0,0
 "Lobot",56,3,0,0,0,0
 "Logray",63,30,0,0,0,23
 "Luke Skywalker (Farmboy)",67,16,1,0,4,4
@@ -128,14 +128,14 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Magmatrooper",64,2,1,0,0,0
 "Mission Vao",61,44,2,0,0,42
 "Mob Enforcer",61,0,0,0,0,0
-"Moff Gideon",55,3,0,0,2,2
+"Moff Gideon",55,4,0,0,2,2
 "Mon Mothma",55,6,5,4,10,9
 "Mother Talzin",65,35,6,2,38,29
 "Nightsister Acolyte",50,10,0,0,0,0
 "Nightsister Initiate",63,5,2,2,0,2
 "Nightsister Spirit",65,13,1,0,0,0
 "Nightsister Zombie",65,40,3,1,0,0
-"Nute Gunray",63,41,1,0,0,22
+"Nute Gunray",63,41,1,0,0,23
 "Obi-Wan Kenobi (Old Ben)",65,37,6,4,0,30
 "Old Daka",63,39,6,1,0,30
 "Padmé Amidala",55,42,31,12,47,46
@@ -156,7 +156,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Resistance Trooper",60,29,5,3,0,0
 "Rey",1,1,1,1,1,5
 "Rey (Jedi Training)",47,45,25,15,45,81
-"Rey (Scavenger)",65,51,4,2,0,16
+"Rey (Scavenger)",65,52,4,2,0,16
 "Rose Tico",54,5,3,2,0,1
 "Royal Guard",67,16,6,0,0,0
 "Sabine Wren",66,21,2,1,0,16
@@ -167,8 +167,8 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Sith Assassin",58,2,0,0,0,0
 "Sith Empire Trooper",56,26,10,1,0,0
 "Sith Eternal Emperor",1,1,1,1,1,5
-"Sith Marauder",57,12,5,3,0,0
-"Sith Trooper",58,9,8,8,0,10
+"Sith Marauder",57,12,6,3,0,0
+"Sith Trooper",58,9,8,8,0,11
 "Snowtrooper",67,9,2,0,0,0
 "Stormtrooper",66,12,1,0,0,1
 "Stormtrooper Han",66,26,1,0,0,8

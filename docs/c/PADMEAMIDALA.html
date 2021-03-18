@@ -221,12 +221,12 @@ Plotly.newPlot('mc-0', traces, layout)
 }
 </script><h2>Alliance Demographic Data</h2>Based on 55 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_PADMEAMIDALA"><img src="https://swgoh.gg/game-asset/a/leaderskill_PADMEAMIDALA/" style="width: 30px" /> Unwavering Courage</td><td>While they have Protection Up, Light Side allies resist all debuffs and can't be critically hit</td><td>47</td><td>85%</td></tr><tr><td data-order="uniqueskill_PADMEAMIDALA01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_PADMEAMIDALA01/" style="width: 30px" /> Always a Choice</td><td>This Protection Up can't be prevented or dispelled and is increased to 40% if Padmé is their leader</td><td>46</td><td>84%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 2, 1, 0, 0, 1, 0, 3, 3, 3, 0, 0, 11, 1, 2, 2, 6, 8, 6, 2, 4, 0 ],
+    y: [ 2, 1, 0, 0, 1, 0, 3, 2, 4, 0, 0, 11, 1, 2, 2, 6, 8, 5, 3, 4, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 3.6363636363636362, 5.454545454545454, 5.454545454545454, 5.454545454545454, 7.2727272727272725, 7.2727272727272725, 12.727272727272727, 18.18181818181818, 23.636363636363633, 23.636363636363633, 23.636363636363633, 43.63636363636363, 45.45454545454545, 49.090909090909086, 52.72727272727272, 63.636363636363626, 78.18181818181817, 89.09090909090908, 92.72727272727272, 99.99999999999999, 99.99999999999999 ],
+    y: [ 3.6363636363636362, 5.454545454545454, 5.454545454545454, 5.454545454545454, 7.2727272727272725, 7.2727272727272725, 12.727272727272727, 16.363636363636363, 23.636363636363637, 23.636363636363637, 23.636363636363637, 43.63636363636364, 45.45454545454546, 49.09090909090909, 52.72727272727273, 63.63636363636363, 78.18181818181817, 87.27272727272727, 92.72727272727272, 99.99999999999999, 99.99999999999999 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -246,5 +246,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-03-14 18:24:06 +0000</font>
+<font size="-2">Generated 2021-03-18 03:23:03 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
