@@ -17,11 +17,11 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Baze Malbus",55,12,0,0,0,0
 "Biggs Darklighter",66,35,7,0,0,0
 "Bistan",63,2,0,0,0,0
-"Bo-Katan Kryze",41,0,0,0,0,0
+"Bo-Katan Kryze",44,0,0,0,0,0
 "Boba Fett",65,56,9,4,0,46
 "Bodhi Rook",61,1,0,0,0,0
 "Bossk",64,53,23,6,53,41
-"C-3PO",50,45,28,14,0,88
+"C-3PO",50,45,28,15,0,88
 "CC-2224 "Cody"",63,18,0,0,7,0
 "CT-21-0408 "Echo"",63,38,10,4,0,28
 "CT-5555 "Fives"",66,35,13,6,0,59
@@ -41,11 +41,11 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Clone Sergeant - Phase I",67,27,0,0,0,0
 "Clone Wars Chewbacca",67,3,0,0,0,1
 "Colonel Starck",50,20,6,0,0,14
-"Commander Luke Skywalker",60,54,38,15,52,108
+"Commander Luke Skywalker",60,54,38,15,53,108
 "Coruscant Underworld Police",59,0,0,0,0,0
 "Count Dooku",66,50,11,6,0,39
 "Dark Trooper",46,0,0,0,0,1
-"Darth Malak",37,34,18,12,0,71
+"Darth Malak",37,34,18,12,0,72
 "Darth Maul",64,36,4,0,13,0
 "Darth Nihilus",62,34,3,3,17,26
 "Darth Revan",45,44,37,21,45,90
@@ -79,10 +79,10 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "General Kenobi",55,52,47,28,0,49
 "General Skywalker",21,19,11,9,19,56
 "General Veers",64,32,6,0,0,23
-"Geonosian Brood Alpha",50,45,14,8,43,47
-"Geonosian Soldier",67,51,3,2,0,0
+"Geonosian Brood Alpha",50,45,15,8,43,47
+"Geonosian Soldier",67,51,4,2,0,0
 "Geonosian Spy",62,47,6,1,0,0
-"Grand Admiral Thrawn",62,46,16,7,21,46
+"Grand Admiral Thrawn",62,46,17,7,21,46
 "Grand Master Yoda",65,59,32,16,33,60
 "Grand Moff Tarkin",67,45,9,0,16,23
 "Greedo",65,38,1,0,0,17
@@ -148,8 +148,8 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Princess Leia",67,39,6,0,0,16
 "Qi'ra",59,18,0,0,0,8
 "Qui-Gon Jinn",65,22,0,0,7,0
-"R2-D2",65,53,21,8,0,102
-"Range Trooper",60,6,1,0,0,0
+"R2-D2",65,53,21,9,0,102
+"Range Trooper",60,6,2,0,0,0
 "Rebel Officer Leia Organa",60,15,12,2,0,11
 "Resistance Hero Finn",57,3,3,3,0,4
 "Resistance Hero Poe",55,4,3,3,0,2
@@ -178,9 +178,9 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "T3-M4",64,24,0,0,0,17
 "TIE Fighter Pilot",67,19,0,0,0,0
 "Talia",67,23,1,1,0,0
-"Teebo",66,17,0,0,0,0
-"The Armorer",48,0,0,0,0,0
-"The Mandalorian",60,11,1,1,7,14
+"Teebo",66,18,0,0,0,0
+"The Armorer",48,0,0,0,0,1
+"The Mandalorian",60,12,1,1,7,14
 "The Mandalorian (Beskar Armor)",1,0,0,0,0,1
 "Threepio & Chewie",53,7,5,5,0,5
 "Tusken Raider",62,1,0,0,0,0
@@ -194,7 +194,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Wampa",49,30,22,8,0,51
 "Wat Tambor",49,13,0,0,0,25
 "Wedge Antilles",65,30,6,0,0,0
-"Wicket",62,49,1,0,0,31
+"Wicket",62,49,1,0,0,32
 "Young Han Solo",60,3,0,0,0,2
 "Young Lando Calrissian",60,6,0,0,0,3
 "Zaalbar",63,44,1,0,0,40

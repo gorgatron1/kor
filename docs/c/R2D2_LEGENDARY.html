@@ -290,12 +290,12 @@ Plotly.newPlot('mc-1', traces, layout)
 }
 </script><h2>Alliance Demographic Data</h2>Based on 65 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_R2D2_LEGENDARY01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_R2D2_LEGENDARY01/" style="width: 30px" /> Combat Analysis</td><td>While R2-D2 is active, whenever a Light Side ally scores a Critical Hit, dispel all debuffs on them</td><td>50</td><td>77%</td></tr><tr><td data-order="uniqueskill_R2D2_LEGENDARY02"><img src="https://swgoh.gg/game-asset/a/uniqueskill_R2D2_LEGENDARY02/" style="width: 30px" /> Number Crunch</td><td>At the start of battle, and when R2-D2 is revived, other Droid, Galactic Republic, Rebel, and Resistance allies gain 10% of R2-D2's Max Protection, Offense, Max Health, and Potency until R2-D2 is defeated</td><td>52</td><td>80%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 1, 0, 1, 0, 2, 2, 3, 3, 3, 6, 23, 0, 1, 1, 4, 7, 3, 0, 5, 0 ],
+    y: [ 0, 1, 0, 1, 0, 2, 2, 3, 3, 3, 6, 23, 0, 1, 1, 4, 6, 4, 0, 5, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 1.5384615384615385, 1.5384615384615385, 3.076923076923077, 3.076923076923077, 6.153846153846154, 9.230769230769232, 13.846153846153847, 18.461538461538463, 23.07692307692308, 32.307692307692314, 67.69230769230771, 67.69230769230771, 69.23076923076924, 70.76923076923077, 76.92307692307693, 87.69230769230771, 92.30769230769232, 92.30769230769232, 100.00000000000001, 100.00000000000001 ],
+    y: [ 0.0, 1.5384615384615385, 1.5384615384615385, 3.076923076923077, 3.076923076923077, 6.153846153846154, 9.230769230769232, 13.846153846153847, 18.461538461538463, 23.07692307692308, 32.307692307692314, 67.69230769230771, 67.69230769230771, 69.23076923076924, 70.76923076923077, 76.92307692307693, 86.15384615384616, 92.30769230769232, 92.30769230769232, 100.00000000000001, 100.00000000000001 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -315,5 +315,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-03-19 17:58:03 +0000</font>
+<font size="-2">Generated 2021-03-20 15:26:54 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
