@@ -389,12 +389,12 @@ Plotly.newPlot('mc-2', traces, layout)
 }
 </script><h2>Alliance Demographic Data</h2>Based on 51 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_DARTHTRAYA"><img src="https://swgoh.gg/game-asset/a/leaderskill_DARTHTRAYA/" style="width: 30px" /> Compassion is Weakness</td><td>When an enemy uses an ability outside of their turn, they take damage equal to 35% of their Max Health. This damage can't defeat enemies. When an enemy gains a buff outside of their turn, they lose 50% Offense until the end of their next turn</td><td>31</td><td>61%</td></tr><tr><td data-order="uniqueskill_DARTHTRAYA01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_DARTHTRAYA01/" style="width: 30px" /> Lord of Betrayal</td><td>At the start of each Sith ally's turn, Traya dispels all debuffs on them and deals damage equal to 5% of their Max Health for each debuff dispelled</td><td>28</td><td>55%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 0, 0, 1, 1, 1, 1, 15, 3, 1, 6, 20, 0, 0, 0, 1, 1, 0, 0, 0, 0 ],
+    y: [ 0, 0, 0, 1, 1, 1, 1, 14, 4, 1, 6, 20, 0, 0, 0, 1, 1, 0, 0, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 0.0, 0.0, 1.9607843137254901, 3.9215686274509802, 5.88235294117647, 7.8431372549019605, 37.254901960784316, 43.13725490196079, 45.09803921568628, 56.86274509803922, 96.07843137254903, 96.07843137254903, 96.07843137254903, 96.07843137254903, 98.03921568627452, 100.0, 100.0, 100.0, 100.0, 100.0 ],
+    y: [ 0.0, 0.0, 0.0, 1.9607843137254901, 3.9215686274509802, 5.88235294117647, 7.8431372549019605, 35.294117647058826, 43.13725490196079, 45.09803921568628, 56.86274509803922, 96.07843137254903, 96.07843137254903, 96.07843137254903, 96.07843137254903, 98.03921568627452, 100.0, 100.0, 100.0, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -414,5 +414,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-03-29 16:54:51 +0000</font>
+<font size="-2">Generated 2021-03-31 15:31:33 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
