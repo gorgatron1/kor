@@ -308,14 +308,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 65 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="specialskill_HERASYNDULLAS301"><img src="https://swgoh.gg/game-asset/a/specialskill_HERASYNDULLAS301/" style="width: 30px" /> Play to Strengths</td><td>+25% Potency, Dispel all debuffs, and if the target is Phoenix reduce their cooldowns by 1 and grant them 50% Turn Meter</td><td>18</td><td>28%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 64 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="specialskill_HERASYNDULLAS301"><img src="https://swgoh.gg/game-asset/a/specialskill_HERASYNDULLAS301/" style="width: 30px" /> Play to Strengths</td><td>+25% Potency, Dispel all debuffs, and if the target is Phoenix reduce their cooldowns by 1 and grant them 50% Turn Meter</td><td>19</td><td>30%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 1, 1, 2, 0, 0, 0, 19, 9, 5, 16, 10, 0, 0, 1, 0, 0, 0, 1, 0, 0 ],
+    y: [ 0, 0, 1, 3, 0, 0, 0, 18, 9, 5, 16, 10, 0, 0, 1, 0, 0, 0, 1, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 1.5384615384615385, 3.076923076923077, 6.153846153846154, 6.153846153846154, 6.153846153846154, 6.153846153846154, 35.38461538461539, 49.23076923076923, 56.92307692307693, 81.53846153846155, 96.92307692307693, 96.92307692307693, 96.92307692307693, 98.46153846153847, 98.46153846153847, 98.46153846153847, 98.46153846153847, 100.0, 100.0, 100.0 ],
+    y: [ 0.0, 0.0, 1.5625, 6.25, 6.25, 6.25, 6.25, 34.375, 48.4375, 56.25, 81.25, 96.875, 96.875, 96.875, 98.4375, 98.4375, 98.4375, 98.4375, 100.0, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -335,5 +335,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-05-10 20:19:36 +0000</font>
+<font size="-2">Generated 2021-05-13 22:46:50 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

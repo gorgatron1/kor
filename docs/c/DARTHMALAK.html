@@ -300,12 +300,12 @@ Plotly.newPlot('mc-1', traces, layout)
 }
 </script><h2>Alliance Demographic Data</h2>Based on 38 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_DARTHMALAK01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_DARTHMALAK01/" style="width: 30px" /> Gnawing Terror</td><td>Add at the end of each turn, enemies who inflicted Damage Over Time on Darth Malak or critically hit him this turn are inflicted with Fear for 1 turn, which can't be resisted or evaded</td><td>38</td><td>100%</td></tr><tr><td data-order="uniqueskill_DARTHMALAK02"><img src="https://swgoh.gg/game-asset/a/uniqueskill_DARTHMALAK02/" style="width: 30px" /> Jaws of Life</td><td>Add the first time Darth Malak reaches each of these thresholds, he gains a bonus turn and the cooldown of Drain Life is reset</td><td>38</td><td>100%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 9, 4, 0, 0, 3, 4, 1, 10, 0, 6, 0 ],
+    y: [ 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 9, 4, 0, 0, 3, 4, 0, 9, 2, 6, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.631578947368421, 2.631578947368421, 26.31578947368421, 36.84210526315789, 36.84210526315789, 36.84210526315789, 44.73684210526315, 55.263157894736835, 57.89473684210525, 84.21052631578947, 84.21052631578947, 99.99999999999999, 99.99999999999999 ],
+    y: [ 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.631578947368421, 2.631578947368421, 26.31578947368421, 36.84210526315789, 36.84210526315789, 36.84210526315789, 44.73684210526315, 55.263157894736835, 55.263157894736835, 78.94736842105263, 84.21052631578947, 99.99999999999999, 99.99999999999999 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -325,5 +325,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-05-10 20:19:36 +0000</font>
+<font size="-2">Generated 2021-05-13 22:46:50 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
