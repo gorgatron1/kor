@@ -374,12 +374,12 @@ Plotly.newPlot('mc-2', traces, layout)
 }
 </script><h2>Alliance Demographic Data</h2>Based on 62 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_MAUL"><img src="https://swgoh.gg/game-asset/a/leaderskill_MAUL/" style="width: 30px" /> Dancing Shadows</td><td>Sith allies gain Stealth for 1 turn on Evade, can't be Critically Hit while Stealthed, gain Advantage for 2 turns whenever Stealth expires, and gain all "on Evade" bonuses at the start of each encounter</td><td>14</td><td>23%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 2, 0, 0, 1, 0, 5, 4, 13, 2, 9, 14, 8, 0, 0, 0, 0, 4, 0, 0, 0, 0 ],
+    y: [ 2, 0, 0, 1, 1, 5, 4, 13, 2, 8, 14, 8, 0, 0, 0, 0, 4, 0, 0, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 3.225806451612903, 3.225806451612903, 3.225806451612903, 4.838709677419354, 4.838709677419354, 12.903225806451612, 19.354838709677416, 40.32258064516129, 43.54838709677419, 58.064516129032256, 80.64516129032258, 93.54838709677419, 93.54838709677419, 93.54838709677419, 93.54838709677419, 93.54838709677419, 100.0, 100.0, 100.0, 100.0, 100.0 ],
+    y: [ 3.225806451612903, 3.225806451612903, 3.225806451612903, 4.838709677419354, 6.451612903225806, 14.516129032258064, 20.967741935483872, 41.935483870967744, 45.16129032258065, 58.064516129032256, 80.64516129032258, 93.54838709677419, 93.54838709677419, 93.54838709677419, 93.54838709677419, 93.54838709677419, 100.0, 100.0, 100.0, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -399,5 +399,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-05-13 22:46:50 +0000</font>
+<font size="-2">Generated 2021-05-16 19:16:40 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

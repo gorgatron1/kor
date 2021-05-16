@@ -278,14 +278,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 63 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_KYLORENUNMASKED"><img src="https://swgoh.gg/game-asset/a/leaderskill_KYLORENUNMASKED/" style="width: 30px" /> Merciless Pursuit</td><td>+15% Critical Damage, +5 Speed, +5% Turn Meter Gain, and when a First Order ally gains a status effect they recover 5% Health and 5% Protection</td><td>41</td><td>65%</td></tr><tr><td data-order="uniqueskill_KYLORENUNMASKED01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_KYLORENUNMASKED01/" style="width: 30px" /> Scarred</td><td>Kylo gains Taunt for 1 turn at the start of each encounter and has double Counter Chance while Taunting</td><td>35</td><td>56%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 63 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_KYLORENUNMASKED"><img src="https://swgoh.gg/game-asset/a/leaderskill_KYLORENUNMASKED/" style="width: 30px" /> Merciless Pursuit</td><td>+15% Critical Damage, +5 Speed, +5% Turn Meter Gain, and when a First Order ally gains a status effect they recover 5% Health and 5% Protection</td><td>42</td><td>67%</td></tr><tr><td data-order="uniqueskill_KYLORENUNMASKED01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_KYLORENUNMASKED01/" style="width: 30px" /> Scarred</td><td>Kylo gains Taunt for 1 turn at the start of each encounter and has double Counter Chance while Taunting</td><td>37</td><td>59%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 1, 2, 0, 1, 0, 1, 17, 3, 3, 5, 12, 0, 0, 2, 1, 1, 1, 1, 12, 0 ],
+    y: [ 0, 1, 2, 0, 1, 0, 1, 16, 3, 3, 5, 12, 0, 0, 2, 1, 2, 1, 1, 12, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 1.5873015873015872, 4.761904761904762, 4.761904761904762, 6.349206349206349, 6.349206349206349, 7.936507936507936, 34.92063492063492, 39.68253968253968, 44.444444444444436, 52.38095238095237, 71.42857142857142, 71.42857142857142, 71.42857142857142, 74.6031746031746, 76.19047619047618, 77.77777777777776, 79.36507936507934, 80.95238095238092, 99.99999999999997, 99.99999999999997 ],
+    y: [ 0.0, 1.5873015873015872, 4.761904761904762, 4.761904761904762, 6.349206349206349, 6.349206349206349, 7.936507936507936, 33.33333333333333, 38.09523809523809, 42.85714285714285, 50.793650793650784, 69.84126984126983, 69.84126984126983, 69.84126984126983, 73.01587301587301, 74.6031746031746, 77.77777777777777, 79.36507936507935, 80.95238095238093, 99.99999999999999, 99.99999999999999 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -305,5 +305,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-05-13 22:46:50 +0000</font>
+<font size="-2">Generated 2021-05-16 19:16:40 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
