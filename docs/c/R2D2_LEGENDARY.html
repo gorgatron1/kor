@@ -70,7 +70,7 @@ td.examples {
 
 <div style="background-color: #f0f0f0; border: solid red; padding: 10px; border-radius: 10px">
 <a href="../alliance/index.html">Alliance</a> |
-<a href="../alliance/players.html">Player</a> | <a href="../alliance/characters.html">Characters</a> | <a href="../alliance/history.html">History</a>
+<a href="../alliance/players.html">Player</a> | <a href="../alliance/characters.html">Characters</a> | <a href="../alliance/history.html">History</a> | <a href="../alliance/transfers.html">Transfers</a>
 </div>
 <br/><h1><img id="picture" src="https://swgoh.gg/game-asset/u/R2D2_LEGENDARY/" />Alliance Character Data: R2-D2</h1><h2>swgoh.gg data</h2><ul><li><a href="https://swgoh.gg/characters/r2-d2/">abilities / character data</a></li><li><a href="https://swgoh.gg/characters/r2-d2/data/">character meta report</a></li><li><a href="https://swgoh.gg/characters/r2-d2/data/mods">mods meta report</a></li><li><a href="https://swgoh.gg/characters/r2-d2/data/stats">stats meta report</a></li></ul><h2>Mod Data</h2><h3>Mod Stat Distributions</h3>Mod stat distributions across 1522 units from the
 alliance and top guilds.  The bonuses are shown as applied to an R5 unit.
@@ -288,14 +288,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 63 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_R2D2_LEGENDARY01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_R2D2_LEGENDARY01/" style="width: 30px" /> Combat Analysis</td><td>While R2-D2 is active, whenever a Light Side ally scores a Critical Hit, dispel all debuffs on them</td><td>49</td><td>78%</td></tr><tr><td data-order="uniqueskill_R2D2_LEGENDARY02"><img src="https://swgoh.gg/game-asset/a/uniqueskill_R2D2_LEGENDARY02/" style="width: 30px" /> Number Crunch</td><td>At the start of battle, and when R2-D2 is revived, other Droid, Galactic Republic, Rebel, and Resistance allies gain 10% of R2-D2's Max Protection, Offense, Max Health, and Potency until R2-D2 is defeated</td><td>51</td><td>81%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 64 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_R2D2_LEGENDARY01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_R2D2_LEGENDARY01/" style="width: 30px" /> Combat Analysis</td><td>While R2-D2 is active, whenever a Light Side ally scores a Critical Hit, dispel all debuffs on them</td><td>50</td><td>78%</td></tr><tr><td data-order="uniqueskill_R2D2_LEGENDARY02"><img src="https://swgoh.gg/game-asset/a/uniqueskill_R2D2_LEGENDARY02/" style="width: 30px" /> Number Crunch</td><td>At the start of battle, and when R2-D2 is revived, other Droid, Galactic Republic, Rebel, and Resistance allies gain 10% of R2-D2's Max Protection, Offense, Max Health, and Potency until R2-D2 is defeated</td><td>52</td><td>81%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 1, 0, 1, 0, 2, 2, 3, 2, 3, 5, 20, 0, 1, 1, 6, 6, 3, 1, 6, 0 ],
+    y: [ 0, 1, 0, 1, 0, 2, 2, 3, 2, 3, 5, 20, 0, 1, 1, 6, 6, 3, 1, 7, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 1.5873015873015872, 1.5873015873015872, 3.1746031746031744, 3.1746031746031744, 6.349206349206349, 9.523809523809524, 14.285714285714285, 17.46031746031746, 22.22222222222222, 30.158730158730158, 61.9047619047619, 61.9047619047619, 63.49206349206349, 65.07936507936508, 74.6031746031746, 84.12698412698411, 88.88888888888887, 90.47619047619045, 99.99999999999997, 99.99999999999997 ],
+    y: [ 0.0, 1.5625, 1.5625, 3.125, 3.125, 6.25, 9.375, 14.0625, 17.1875, 21.875, 29.6875, 60.9375, 60.9375, 62.5, 64.0625, 73.4375, 82.8125, 87.5, 89.0625, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -315,5 +315,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-05-17 17:33:59 +0000</font>
+<font size="-2">Generated 2021-05-18 14:50:03 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
