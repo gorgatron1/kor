@@ -300,12 +300,12 @@ Plotly.newPlot('mc-1', traces, layout)
 }
 </script><h2>Alliance Demographic Data</h2>Based on 66 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_VADER"><img src="https://swgoh.gg/game-asset/a/leaderskill_VADER.png" style="width: 30px" /> Inspiring Through Fear</td><td>+25% Turn Meter Reduction Chance, +10% Turn Meter Reduction, enemies immediately regain Damage Over Time for 2 turns whenever Damage Over Time expires on them while Darth Vader is alive</td><td>47</td><td>71%</td></tr><tr><td data-order="specialskill_VADER03"><img src="https://swgoh.gg/game-asset/a/specialskill_VADER03.png" style="width: 30px" /> Merciless Massacre</td><td /><td>57</td><td>86%</td></tr><tr><td data-order="uniqueskill_VADER01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_VADER01.png" style="width: 30px" /> No Escape</td><td>Darth Vader is immune to Turn Meter Reduction and recovers 5% Health when a Damage Over Time effect on an enemy expires</td><td>56</td><td>85%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 1, 0, 0, 0, 1, 0, 2, 1, 1, 2, 14, 0, 1, 2, 7, 10, 11, 1, 12, 0 ],
+    y: [ 0, 1, 0, 0, 0, 1, 0, 2, 1, 1, 2, 14, 0, 0, 3, 6, 10, 12, 1, 12, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 1.5151515151515151, 1.5151515151515151, 1.5151515151515151, 1.5151515151515151, 3.0303030303030303, 3.0303030303030303, 6.0606060606060606, 7.575757575757576, 9.090909090909092, 12.121212121212121, 33.33333333333333, 33.33333333333333, 34.848484848484844, 37.878787878787875, 48.484848484848484, 63.63636363636364, 80.30303030303031, 81.81818181818183, 100.00000000000001, 100.00000000000001 ],
+    y: [ 0.0, 1.5151515151515151, 1.5151515151515151, 1.5151515151515151, 1.5151515151515151, 3.0303030303030303, 3.0303030303030303, 6.0606060606060606, 7.575757575757576, 9.090909090909092, 12.121212121212121, 33.33333333333333, 33.33333333333333, 33.33333333333333, 37.878787878787875, 46.96969696969697, 62.121212121212125, 80.30303030303031, 81.81818181818183, 100.00000000000001, 100.00000000000001 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -325,5 +325,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-05-23 16:12:12 +0000</font>
+<font size="-2">Generated 2021-05-25 15:36:37 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
