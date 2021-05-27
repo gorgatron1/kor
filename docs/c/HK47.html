@@ -303,14 +303,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 62 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_HK4701"><img src="https://swgoh.gg/game-asset/a/uniqueskill_HK4701.png" style="width: 30px" /> Self-Reconstruction</td><td>When HK-47 uses an ability during his turn, it deals 25% more damage if the target has Deathmark or Fear</td><td>43</td><td>69%</td></tr><tr><td data-order="uniqueskill_HK4702"><img src="https://swgoh.gg/game-asset/a/uniqueskill_HK4702.png" style="width: 30px" /> Loyalty to the Maker</td><td>If HK-47's leader is Darth Revan, enemies with Protection Up can't gain bonus Turn Meter</td><td>42</td><td>68%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 62 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_HK4701"><img src="https://swgoh.gg/game-asset/a/uniqueskill_HK4701.png" style="width: 30px" /> Self-Reconstruction</td><td>When HK-47 uses an ability during his turn, it deals 25% more damage if the target has Deathmark or Fear</td><td>43</td><td>69%</td></tr><tr><td data-order="uniqueskill_HK4702"><img src="https://swgoh.gg/game-asset/a/uniqueskill_HK4702.png" style="width: 30px" /> Loyalty to the Maker</td><td>If HK-47's leader is Darth Revan, enemies with Protection Up can't gain bonus Turn Meter</td><td>43</td><td>69%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 1, 0, 1, 2, 0, 1, 4, 2, 4, 2, 5, 17, 0, 1, 1, 7, 3, 9, 1, 1, 0 ],
+    y: [ 1, 0, 1, 2, 0, 1, 4, 2, 4, 2, 5, 17, 0, 0, 1, 7, 3, 9, 1, 2, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 1.6129032258064515, 1.6129032258064515, 3.225806451612903, 6.451612903225806, 6.451612903225806, 8.064516129032258, 14.516129032258064, 17.741935483870968, 24.193548387096776, 27.41935483870968, 35.483870967741936, 62.903225806451616, 62.903225806451616, 64.51612903225806, 66.12903225806451, 77.41935483870967, 82.25806451612902, 96.77419354838709, 98.38709677419354, 99.99999999999999, 99.99999999999999 ],
+    y: [ 1.6129032258064515, 1.6129032258064515, 3.225806451612903, 6.451612903225806, 6.451612903225806, 8.064516129032258, 14.516129032258064, 17.741935483870968, 24.193548387096776, 27.41935483870968, 35.483870967741936, 62.903225806451616, 62.903225806451616, 62.903225806451616, 64.51612903225806, 75.80645161290323, 80.64516129032259, 95.16129032258065, 96.7741935483871, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -330,5 +330,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-05-25 15:36:36 +0000</font>
+<font size="-2">Generated 2021-05-27 15:02:49 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
