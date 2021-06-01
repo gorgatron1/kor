@@ -239,14 +239,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-0', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 63 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_JANGOFETT"><img src="https://swgoh.gg/game-asset/a/leaderskill_JANGOFETT.png" style="width: 30px" /> Anything to Get Ahead</td><td /><td>27</td><td>43%</td></tr><tr><td data-order="uniqueskill_JANGOFETT01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_JANGOFETT01.png" style="width: 30px" /> Notorious Reputation</td><td>Enemies defeated on his turn cannot be Revived</td><td>31</td><td>49%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 60 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_JANGOFETT"><img src="https://swgoh.gg/game-asset/a/leaderskill_JANGOFETT.png" style="width: 30px" /> Anything to Get Ahead</td><td /><td>27</td><td>45%</td></tr><tr><td data-order="uniqueskill_JANGOFETT01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_JANGOFETT01.png" style="width: 30px" /> Notorious Reputation</td><td>Enemies defeated on his turn cannot be Revived</td><td>31</td><td>52%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 1, 1, 1, 2, 2, 1, 1, 6, 5, 0, 20, 16, 0, 1, 1, 2, 2, 0, 0, 1, 0 ],
+    y: [ 0, 1, 1, 2, 0, 1, 1, 6, 5, 0, 20, 16, 0, 1, 1, 1, 3, 0, 0, 1, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 1.5873015873015872, 3.1746031746031744, 4.761904761904762, 7.936507936507937, 11.11111111111111, 12.698412698412698, 14.285714285714285, 23.80952380952381, 31.746031746031747, 31.746031746031747, 63.492063492063494, 88.88888888888889, 88.88888888888889, 90.47619047619047, 92.06349206349205, 95.23809523809523, 98.4126984126984, 98.4126984126984, 98.4126984126984, 99.99999999999999, 99.99999999999999 ],
+    y: [ 0.0, 1.6666666666666667, 3.3333333333333335, 6.666666666666667, 6.666666666666667, 8.333333333333334, 10.0, 20.0, 28.333333333333332, 28.333333333333332, 61.66666666666666, 88.33333333333333, 88.33333333333333, 90.0, 91.66666666666667, 93.33333333333334, 98.33333333333334, 98.33333333333334, 98.33333333333334, 100.00000000000001, 100.00000000000001 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -266,5 +266,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-05-29 14:42:11 +0000</font>
+<font size="-2">Generated 2021-06-01 04:23:17 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

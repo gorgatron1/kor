@@ -234,14 +234,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-0', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 65 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="specialskill_KANANJARRUSS302"><img src="https://swgoh.gg/game-asset/a/specialskill_KANANJARRUSS302.png" style="width: 30px" /> Total Defense</td><td>Dispel all debuffs on Phoenix allies and grant them Defense Up for 3 turns, grant Kanan and target ally Foresight for 2 turns, and when each of these Foresights expire Kanan gains 100% Turn Meter and other Phoenix allies gain 50% Turn Meter</td><td>17</td><td>26%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 61 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="specialskill_KANANJARRUSS302"><img src="https://swgoh.gg/game-asset/a/specialskill_KANANJARRUSS302.png" style="width: 30px" /> Total Defense</td><td>Dispel all debuffs on Phoenix allies and grant them Defense Up for 3 turns, grant Kanan and target ally Foresight for 2 turns, and when each of these Foresights expire Kanan gains 100% Turn Meter and other Phoenix allies gain 50% Turn Meter</td><td>17</td><td>28%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 0, 1, 1, 1, 1, 0, 29, 4, 9, 8, 10, 0, 0, 0, 0, 0, 0, 1, 0, 0 ],
+    y: [ 0, 0, 1, 0, 1, 1, 0, 26, 4, 9, 8, 10, 0, 0, 0, 0, 0, 0, 1, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 0.0, 1.5384615384615385, 3.076923076923077, 4.615384615384616, 6.153846153846154, 6.153846153846154, 50.769230769230774, 56.92307692307693, 70.76923076923077, 83.07692307692308, 98.46153846153847, 98.46153846153847, 98.46153846153847, 98.46153846153847, 98.46153846153847, 98.46153846153847, 98.46153846153847, 100.0, 100.0, 100.0 ],
+    y: [ 0.0, 0.0, 1.639344262295082, 1.639344262295082, 3.278688524590164, 4.918032786885246, 4.918032786885246, 47.540983606557376, 54.09836065573771, 68.85245901639344, 81.96721311475409, 98.3606557377049, 98.3606557377049, 98.3606557377049, 98.3606557377049, 98.3606557377049, 98.3606557377049, 98.3606557377049, 99.99999999999999, 99.99999999999999, 99.99999999999999 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -261,5 +261,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-05-29 14:42:11 +0000</font>
+<font size="-2">Generated 2021-06-01 04:23:18 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

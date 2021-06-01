@@ -372,14 +372,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-2', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 63 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_MAUL"><img src="https://swgoh.gg/game-asset/a/leaderskill_MAUL.png" style="width: 30px" /> Dancing Shadows</td><td>Sith allies gain Stealth for 1 turn on Evade, can't be Critically Hit while Stealthed, gain Advantage for 2 turns whenever Stealth expires, and gain all "on Evade" bonuses at the start of each encounter</td><td>14</td><td>22%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 60 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_MAUL"><img src="https://swgoh.gg/game-asset/a/leaderskill_MAUL.png" style="width: 30px" /> Dancing Shadows</td><td>Sith allies gain Stealth for 1 turn on Evade, can't be Critically Hit while Stealthed, gain Advantage for 2 turns whenever Stealth expires, and gain all "on Evade" bonuses at the start of each encounter</td><td>14</td><td>23%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 2, 0, 0, 1, 1, 5, 4, 14, 2, 8, 14, 7, 0, 0, 0, 0, 5, 0, 0, 0, 0 ],
+    y: [ 2, 0, 0, 0, 1, 4, 4, 13, 2, 8, 14, 7, 0, 0, 0, 0, 5, 0, 0, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 3.1746031746031744, 3.1746031746031744, 3.1746031746031744, 4.761904761904762, 6.349206349206349, 14.285714285714285, 20.634920634920633, 42.857142857142854, 46.03174603174603, 58.73015873015873, 80.95238095238095, 92.06349206349206, 92.06349206349206, 92.06349206349206, 92.06349206349206, 92.06349206349206, 100.0, 100.0, 100.0, 100.0, 100.0 ],
+    y: [ 3.3333333333333335, 3.3333333333333335, 3.3333333333333335, 3.3333333333333335, 5.0, 11.666666666666668, 18.333333333333336, 40.0, 43.333333333333336, 56.66666666666667, 80.0, 91.66666666666667, 91.66666666666667, 91.66666666666667, 91.66666666666667, 91.66666666666667, 100.0, 100.0, 100.0, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -399,5 +399,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-05-29 14:42:11 +0000</font>
+<font size="-2">Generated 2021-06-01 04:23:17 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

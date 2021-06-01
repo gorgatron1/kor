@@ -214,14 +214,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-0', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 62 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_GRIEVOUS"><img src="https://swgoh.gg/game-asset/a/leaderskill_GRIEVOUS.png" style="width: 30px" /> Daunting Presence</td><td>When a Target Locked enemy is damaged, each Droid and each Separatist ally gains 2% Turn Meter, doubled for Grievous</td><td>46</td><td>74%</td></tr><tr><td data-order="uniqueskill_GRIEVOUS01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_GRIEVOUS01.png" style="width: 30px" /> Metalloid Monstrosity</td><td>Whenever a Droid or Separatist ally is defeated, Grievous dispels all debuffs on himself, resets all ability cooldowns and gains 1 bonus turn</td><td>47</td><td>76%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 60 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_GRIEVOUS"><img src="https://swgoh.gg/game-asset/a/leaderskill_GRIEVOUS.png" style="width: 30px" /> Daunting Presence</td><td>When a Target Locked enemy is damaged, each Droid and each Separatist ally gains 2% Turn Meter, doubled for Grievous</td><td>46</td><td>77%</td></tr><tr><td data-order="uniqueskill_GRIEVOUS01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_GRIEVOUS01.png" style="width: 30px" /> Metalloid Monstrosity</td><td>Whenever a Droid or Separatist ally is defeated, Grievous dispels all debuffs on himself, resets all ability cooldowns and gains 1 bonus turn</td><td>47</td><td>78%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 1, 0, 1, 1, 1, 0, 1, 8, 1, 1, 8, 17, 0, 1, 0, 2, 5, 8, 0, 6, 0 ],
+    y: [ 1, 0, 0, 0, 1, 0, 1, 8, 1, 1, 8, 17, 0, 1, 0, 1, 6, 8, 0, 6, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 1.6129032258064515, 1.6129032258064515, 3.225806451612903, 4.838709677419354, 6.451612903225806, 6.451612903225806, 8.064516129032258, 20.967741935483872, 22.580645161290324, 24.193548387096776, 37.096774193548384, 64.51612903225806, 64.51612903225806, 66.12903225806451, 66.12903225806451, 69.35483870967741, 77.41935483870967, 90.32258064516128, 90.32258064516128, 99.99999999999999, 99.99999999999999 ],
+    y: [ 1.6666666666666667, 1.6666666666666667, 1.6666666666666667, 1.6666666666666667, 3.3333333333333335, 3.3333333333333335, 5.0, 18.333333333333336, 20.000000000000004, 21.66666666666667, 35.00000000000001, 63.33333333333334, 63.33333333333334, 65.00000000000001, 65.00000000000001, 66.66666666666669, 76.66666666666669, 90.00000000000001, 90.00000000000001, 100.00000000000001, 100.00000000000001 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -241,5 +241,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-05-29 14:42:12 +0000</font>
+<font size="-2">Generated 2021-06-01 04:23:17 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
