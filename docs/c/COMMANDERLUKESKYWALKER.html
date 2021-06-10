@@ -369,12 +369,12 @@ Plotly.newPlot('mc-2', traces, layout)
 }
 </script><h2>Alliance Demographic Data</h2>Based on 59 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_COMMANDERLUKESKYWALKER"><img src="https://swgoh.gg/game-asset/a/leaderskill_COMMANDERLUKESKYWALKER.png" style="width: 30px" /> Rebel Maneuvers</td><td>Whenever an enemy Resists a detrimental effect, Rebel allies gain 5% Turn Meter</td><td>52</td><td>88%</td></tr><tr><td data-order="uniqueskill_COMMANDERLUKESKYWALKER01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_COMMANDERLUKESKYWALKER01.png" style="width: 30px" /> Learn Control</td><td>While Luke doesn't have Call to Action he has +50% Critical Avoidance and +100% Tenacity</td><td>51</td><td>86%</td></tr><tr><td data-order="uniqueskill_COMMANDERLUKESKYWALKER02"><img src="https://swgoh.gg/game-asset/a/uniqueskill_COMMANDERLUKESKYWALKER02.png" style="width: 30px" /> It Binds All Things</td><td>Whenever Luke Resists a detrimental effect he recovers 5% Protection and whenever Luke inflicts a debuff he gains 10% Turn Meter and other allies gain half that amount</td><td>57</td><td>97%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 14, 1, 0, 1, 11, 10, 8, 1, 8, 0 ],
+    y: [ 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 14, 0, 1, 1, 11, 10, 8, 1, 8, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 8.47457627118644, 8.47457627118644, 8.47457627118644, 8.47457627118644, 32.20338983050847, 33.89830508474576, 33.89830508474576, 35.593220338983045, 54.23728813559322, 71.18644067796609, 84.74576271186439, 86.44067796610167, 99.99999999999997, 99.99999999999997 ],
+    y: [ 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 8.47457627118644, 8.47457627118644, 8.47457627118644, 8.47457627118644, 32.20338983050847, 32.20338983050847, 33.89830508474576, 35.593220338983045, 54.23728813559322, 71.18644067796609, 84.74576271186439, 86.44067796610167, 99.99999999999997, 99.99999999999997 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -394,5 +394,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-06-07 15:14:06 +0000</font>
+<font size="-2">Generated 2021-06-10 03:21:02 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

@@ -216,12 +216,12 @@ Plotly.newPlot('mc-0', traces, layout)
 }
 </script><h2>Alliance Demographic Data</h2>Based on 60 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_GRIEVOUS"><img src="https://swgoh.gg/game-asset/a/leaderskill_GRIEVOUS.png" style="width: 30px" /> Daunting Presence</td><td>When a Target Locked enemy is damaged, each Droid and each Separatist ally gains 2% Turn Meter, doubled for Grievous</td><td>47</td><td>78%</td></tr><tr><td data-order="uniqueskill_GRIEVOUS01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_GRIEVOUS01.png" style="width: 30px" /> Metalloid Monstrosity</td><td>Whenever a Droid or Separatist ally is defeated, Grievous dispels all debuffs on himself, resets all ability cooldowns and gains 1 bonus turn</td><td>48</td><td>80%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 1, 0, 0, 0, 1, 0, 1, 8, 1, 1, 7, 18, 0, 1, 0, 1, 6, 8, 0, 6, 0 ],
+    y: [ 1, 0, 0, 0, 1, 0, 1, 8, 1, 1, 7, 17, 0, 2, 0, 1, 6, 8, 0, 6, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 1.6666666666666667, 1.6666666666666667, 1.6666666666666667, 1.6666666666666667, 3.3333333333333335, 3.3333333333333335, 5.0, 18.333333333333336, 20.000000000000004, 21.66666666666667, 33.333333333333336, 63.333333333333336, 63.333333333333336, 65.0, 65.0, 66.66666666666667, 76.66666666666667, 90.0, 90.0, 100.0, 100.0 ],
+    y: [ 1.6666666666666667, 1.6666666666666667, 1.6666666666666667, 1.6666666666666667, 3.3333333333333335, 3.3333333333333335, 5.0, 18.333333333333336, 20.000000000000004, 21.66666666666667, 33.333333333333336, 61.66666666666667, 61.66666666666667, 65.0, 65.0, 66.66666666666667, 76.66666666666667, 90.0, 90.0, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -241,5 +241,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-06-07 15:14:06 +0000</font>
+<font size="-2">Generated 2021-06-10 03:21:02 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
