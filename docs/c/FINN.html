@@ -389,12 +389,12 @@ Plotly.newPlot('mc-2', traces, layout)
 }
 </script><h2>Alliance Demographic Data</h2>Based on 60 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_FINN"><img src="https://swgoh.gg/game-asset/a/leaderskill_FINN.png" style="width: 30px" /> Balanced Tactics</td><td>Whenever a Resistance ally loses Foresight, they gain Advantage for 2 turns and whenever an enemy takes damage from Expose, reduce the cooldowns of all Resistance allies by 1 and grant them 35% Turn Meter</td><td>25</td><td>42%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 0, 2, 0, 0, 1, 0, 10, 5, 3, 9, 20, 0, 1, 1, 0, 1, 7, 0, 0, 0 ],
+    y: [ 0, 0, 2, 0, 0, 0, 1, 10, 5, 3, 9, 20, 0, 1, 1, 0, 1, 7, 0, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 0.0, 3.3333333333333335, 3.3333333333333335, 3.3333333333333335, 5.0, 5.0, 21.666666666666664, 29.999999999999996, 35.0, 50.0, 83.33333333333333, 83.33333333333333, 85.0, 86.66666666666667, 86.66666666666667, 88.33333333333334, 100.00000000000001, 100.00000000000001, 100.00000000000001, 100.00000000000001 ],
+    y: [ 0.0, 0.0, 3.3333333333333335, 3.3333333333333335, 3.3333333333333335, 3.3333333333333335, 5.0, 21.666666666666664, 29.999999999999996, 35.0, 50.0, 83.33333333333333, 83.33333333333333, 85.0, 86.66666666666667, 86.66666666666667, 88.33333333333334, 100.00000000000001, 100.00000000000001, 100.00000000000001, 100.00000000000001 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -414,5 +414,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-06-17 15:07:42 +0000</font>
+<font size="-2">Generated 2021-06-19 03:57:41 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
