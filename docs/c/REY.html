@@ -372,14 +372,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-2', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 61 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_REY01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_REY01.png" style="width: 30px" /> Focused Strikes</td><td>Whenever Rey uses a Special ability, if she has no debuffs, she inflicts Daze for 2 turns which can't be Resisted</td><td>17</td><td>28%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 60 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_REY01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_REY01.png" style="width: 30px" /> Focused Strikes</td><td>Whenever Rey uses a Special ability, if she has no debuffs, she inflicts Daze for 2 turns which can't be Resisted</td><td>17</td><td>28%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 0, 0, 0, 2, 1, 0, 4, 2, 5, 29, 13, 0, 1, 0, 1, 0, 1, 0, 2, 0 ],
+    y: [ 0, 0, 0, 0, 2, 1, 0, 3, 2, 5, 29, 13, 0, 0, 1, 1, 0, 1, 0, 2, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 0.0, 0.0, 0.0, 3.278688524590164, 4.918032786885246, 4.918032786885246, 11.475409836065573, 14.754098360655737, 22.950819672131146, 70.49180327868852, 91.80327868852459, 91.80327868852459, 93.44262295081967, 93.44262295081967, 95.08196721311475, 95.08196721311475, 96.72131147540983, 96.72131147540983, 100.0, 100.0 ],
+    y: [ 0.0, 0.0, 0.0, 0.0, 3.3333333333333335, 5.0, 5.0, 10.0, 13.333333333333334, 21.666666666666664, 70.0, 91.66666666666667, 91.66666666666667, 91.66666666666667, 93.33333333333334, 95.00000000000001, 95.00000000000001, 96.66666666666669, 96.66666666666669, 100.00000000000001, 100.00000000000001 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -399,5 +399,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-06-29 18:33:12 +0000</font>
+<font size="-2">Generated 2021-07-01 21:55:47 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

@@ -308,14 +308,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 61 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_PHASMA"><img src="https://swgoh.gg/game-asset/a/leaderskill_PHASMA.png" style="width: 30px" /> Fire at Will</td><td>-15% Damage Penalty, triple Assist chance for First Order, and First Order allies gain Advantage for 2 turns at the start of each encounter, can't be Critically Hit while they have Advantage, and gain 20% Potency</td><td>17</td><td>28%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 60 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_PHASMA"><img src="https://swgoh.gg/game-asset/a/leaderskill_PHASMA.png" style="width: 30px" /> Fire at Will</td><td>-15% Damage Penalty, triple Assist chance for First Order, and First Order allies gain Advantage for 2 turns at the start of each encounter, can't be Critically Hit while they have Advantage, and gain 20% Potency</td><td>17</td><td>28%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 0, 0, 2, 0, 1, 6, 17, 9, 2, 5, 8, 1, 0, 0, 0, 0, 10, 0, 0, 0 ],
+    y: [ 0, 0, 0, 2, 0, 1, 6, 16, 9, 2, 5, 8, 1, 0, 0, 0, 0, 10, 0, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 0.0, 0.0, 3.278688524590164, 3.278688524590164, 4.918032786885246, 14.754098360655739, 42.62295081967213, 57.377049180327866, 60.65573770491803, 68.85245901639344, 81.96721311475409, 83.60655737704917, 83.60655737704917, 83.60655737704917, 83.60655737704917, 83.60655737704917, 99.99999999999999, 99.99999999999999, 99.99999999999999, 99.99999999999999 ],
+    y: [ 0.0, 0.0, 0.0, 3.3333333333333335, 3.3333333333333335, 5.0, 15.0, 41.66666666666667, 56.66666666666667, 60.00000000000001, 68.33333333333334, 81.66666666666667, 83.33333333333334, 83.33333333333334, 83.33333333333334, 83.33333333333334, 83.33333333333334, 100.0, 100.0, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -335,5 +335,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-06-29 18:33:12 +0000</font>
+<font size="-2">Generated 2021-07-01 21:55:47 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
