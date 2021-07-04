@@ -224,14 +224,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-0', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 57 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_GRANDADMIRALTHRAWN"><img src="https://swgoh.gg/game-asset/a/leaderskill_GRANDADMIRALTHRAWN.png" style="width: 30px" /> Legendary Strategist</td><td>Whenever an Empire ally gains or loses a status effect, they recover 2% Protection</td><td>24</td><td>42%</td></tr><tr><td data-order="uniqueskill_GRANDADMIRALTHRAWN01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_GRANDADMIRALTHRAWN01.png" style="width: 30px" /> Ebb and Flow</td><td>+50% Counter Chance and +50% Tenacity while any enemies are Fractured, and whenever another Empire ally uses a Special ability while Thrawn is active, if any enemies are Fractured, Fractured enemies lose 15% Turn Meter</td><td>47</td><td>82%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 57 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_GRANDADMIRALTHRAWN"><img src="https://swgoh.gg/game-asset/a/leaderskill_GRANDADMIRALTHRAWN.png" style="width: 30px" /> Legendary Strategist</td><td>Whenever an Empire ally gains or loses a status effect, they recover 2% Protection</td><td>25</td><td>44%</td></tr><tr><td data-order="uniqueskill_GRANDADMIRALTHRAWN01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_GRANDADMIRALTHRAWN01.png" style="width: 30px" /> Ebb and Flow</td><td>+50% Counter Chance and +50% Tenacity while any enemies are Fractured, and whenever another Empire ally uses a Special ability while Thrawn is active, if any enemies are Fractured, Fractured enemies lose 15% Turn Meter</td><td>47</td><td>82%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 0, 1, 0, 0, 0, 1, 7, 3, 0, 2, 22, 0, 3, 2, 3, 2, 5, 6, 0, 0 ],
+    y: [ 0, 0, 1, 0, 0, 0, 1, 7, 3, 0, 1, 23, 0, 3, 2, 3, 2, 5, 6, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 0.0, 1.7543859649122806, 1.7543859649122806, 1.7543859649122806, 1.7543859649122806, 3.508771929824561, 15.789473684210526, 21.052631578947366, 21.052631578947366, 24.561403508771928, 63.157894736842096, 63.157894736842096, 68.42105263157893, 71.92982456140349, 77.19298245614033, 80.70175438596489, 89.47368421052629, 99.99999999999997, 99.99999999999997, 99.99999999999997 ],
+    y: [ 0.0, 0.0, 1.7543859649122806, 1.7543859649122806, 1.7543859649122806, 1.7543859649122806, 3.508771929824561, 15.789473684210526, 21.052631578947366, 21.052631578947366, 22.807017543859647, 63.157894736842096, 63.157894736842096, 68.42105263157893, 71.92982456140349, 77.19298245614033, 80.70175438596489, 89.47368421052629, 99.99999999999997, 99.99999999999997, 99.99999999999997 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -251,5 +251,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-07-01 21:55:47 +0000</font>
+<font size="-2">Generated 2021-07-04 03:08:39 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
