@@ -226,12 +226,12 @@ Plotly.newPlot('mc-0', traces, layout)
 }
 </script><h2>Alliance Demographic Data</h2>Based on 60 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_t3_m4_01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_t3_m4_01.png" style="width: 30px" /> Combat Logic Upgrade</td><td>Add Droid allies also gain 8% Potency and Critical Hit Chance when T3-M4 uses an ability. Also Droid allies have +8% Critical Damage for each debuff on the enemy team.</td><td>12</td><td>20%</td></tr><tr><td data-order="uniqueskill_t3_m4_02"><img src="https://swgoh.gg/game-asset/a/uniqueskill_t3_m4_02.png" style="width: 30px" /> Master Gearhead</td><td>Droid allies gain 100% of T3-M4's Defense Penetration.</td><td>11</td><td>18%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 7, 0, 0, 0, 1, 1, 6, 9, 11, 3, 17, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    y: [ 7, 0, 0, 0, 1, 1, 6, 8, 12, 3, 17, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 11.666666666666666, 11.666666666666666, 11.666666666666666, 11.666666666666666, 13.333333333333332, 14.999999999999998, 25.0, 40.0, 58.33333333333333, 63.33333333333333, 91.66666666666666, 99.99999999999999, 99.99999999999999, 99.99999999999999, 99.99999999999999, 99.99999999999999, 99.99999999999999, 99.99999999999999, 99.99999999999999, 99.99999999999999, 99.99999999999999 ],
+    y: [ 11.666666666666666, 11.666666666666666, 11.666666666666666, 11.666666666666666, 13.333333333333332, 14.999999999999998, 25.0, 38.333333333333336, 58.333333333333336, 63.333333333333336, 91.66666666666667, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -251,5 +251,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-07-08 16:21:54 +0000</font>
+<font size="-2">Generated 2021-07-10 16:29:20 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
