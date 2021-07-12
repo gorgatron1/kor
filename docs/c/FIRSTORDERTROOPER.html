@@ -295,12 +295,12 @@ Plotly.newPlot('mc-1', traces, layout)
 }
 </script><h2>Alliance Demographic Data</h2>Based on 60 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_FIRSTORDERTROOPER01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_FIRSTORDERTROOPER01.png" style="width: 30px" /> Return Fire</td><td>Whenever First Order Stormtrooper uses any Ability he has a 50% chance to call a random ally to Assist, dealing 50% damage unless they are First Order, then grants them Advantage for 2 turns if they were First Order</td><td>16</td><td>27%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 6, 2, 0, 1, 0, 4, 0, 16, 13, 1, 2, 2, 1, 0, 0, 0, 0, 12, 0, 0, 0 ],
+    y: [ 6, 2, 0, 1, 0, 4, 0, 16, 13, 1, 2, 2, 0, 0, 1, 0, 0, 12, 0, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 10.0, 13.333333333333334, 13.333333333333334, 15.0, 15.0, 21.666666666666668, 21.666666666666668, 48.333333333333336, 70.0, 71.66666666666667, 75.0, 78.33333333333333, 80.0, 80.0, 80.0, 80.0, 80.0, 100.0, 100.0, 100.0, 100.0 ],
+    y: [ 10.0, 13.333333333333334, 13.333333333333334, 15.0, 15.0, 21.666666666666668, 21.666666666666668, 48.333333333333336, 70.0, 71.66666666666667, 75.0, 78.33333333333333, 78.33333333333333, 78.33333333333333, 80.0, 80.0, 80.0, 100.0, 100.0, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -320,5 +320,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-07-10 16:29:20 +0000</font>
+<font size="-2">Generated 2021-07-12 15:28:26 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
