@@ -1,5 +1,5 @@
 Name,Count,G10+,G13+,R5,leader zeta,other zeta
-"ARC Trooper",44,28,18,12,0,32
+"ARC Trooper",44,28,18,13,0,32
 "Aayla Secura",52,7,1,0,0,0
 "Admiral Ackbar",60,37,2,0,0,0
 "Admiral Piett",53,11,7,6,0,27
@@ -23,12 +23,12 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Bossk",60,53,25,7,53,43
 "C-3PO",50,49,41,24,0,93
 "CC-2224 "Cody"",59,23,3,2,11,0
-"CT-21-0408 "Echo"",59,42,21,13,0,39
+"CT-21-0408 "Echo"",59,43,21,13,0,39
 "CT-5555 "Fives"",60,38,21,16,0,80
-"CT-7567 "Rex"",59,46,22,14,0,45
-"Cad Bane",60,49,1,0,0,0
+"CT-7567 "Rex"",59,47,22,14,0,45
+"Cad Bane",60,49,2,0,0,0
 "Canderous Ordo",56,37,0,0,0,22
-"Captain Han Solo",46,19,18,1,0,10
+"Captain Han Solo",47,19,18,1,0,10
 "Captain Phasma",60,27,12,11,17,0
 "Cara Dune",54,4,0,0,0,8
 "Carth Onasi",58,46,0,0,43,0
@@ -40,17 +40,17 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Chopper",60,30,1,1,0,0
 "Clone Sergeant - Phase I",60,32,0,0,0,0
 "Clone Wars Chewbacca",60,3,0,0,0,2
-"Colonel Starck",52,23,8,1,0,19
-"Commander Luke Skywalker",58,55,42,19,53,109
+"Colonel Starck",52,23,9,1,0,20
+"Commander Luke Skywalker",58,55,42,20,53,109
 "Coruscant Underworld Police",56,1,0,0,0,0
-"Count Dooku",59,50,15,9,0,44
+"Count Dooku",59,50,15,9,0,45
 "Dark Trooper",58,0,0,0,0,2
 "Darth Malak",39,39,25,17,0,78
-"Darth Maul",59,34,7,0,15,0
+"Darth Maul",59,34,7,0,16,0
 "Darth Nihilus",59,33,6,4,21,31
 "Darth Revan",46,45,36,24,46,90
-"Darth Sidious",58,27,7,5,0,15
-"Darth Sion",58,31,5,1,0,32
+"Darth Sidious",58,27,8,6,0,15
+"Darth Sion",58,31,5,1,0,33
 "Darth Traya",51,32,5,1,37,33
 "Darth Vader",60,58,45,29,47,109
 "Dathcha",59,15,0,0,0,0
@@ -61,24 +61,24 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Echo",46,0,0,0,0,2
 "Eeth Koth",57,3,0,0,0,0
 "Embo",53,7,0,0,4,5
-"Emperor Palpatine",60,56,42,23,52,52
+"Emperor Palpatine",60,56,42,24,52,52
 "Enfys Nest",58,30,1,0,0,29
 "Ewok Elder",60,50,0,0,0,0
 "Ewok Scout",60,23,0,0,0,0
 "Ezra Bridger",60,46,0,0,0,24
-"Finn",59,43,10,7,27,0
-"First Order Executioner",58,33,12,11,0,0
-"First Order Officer",59,39,13,11,0,0
+"Finn",59,43,11,7,27,0
+"First Order Executioner",58,34,12,11,0,0
+"First Order Officer",59,39,14,12,0,0
 "First Order SF TIE Pilot",57,16,12,0,0,0
-"First Order Stormtrooper",60,18,13,12,0,16
+"First Order Stormtrooper",60,19,13,12,0,16
 "First Order TIE Pilot",60,39,14,1,0,17
 "Gamorrean Guard",36,2,0,0,0,0
 "Gar Saxon",59,3,0,0,2,0
 "Garazeb "Zeb" Orrelios",60,17,1,1,0,15
-"General Grievous",59,49,23,15,47,48
+"General Grievous",59,49,24,15,47,48
 "General Hux",57,20,13,13,0,24
 "General Kenobi",55,53,48,35,0,53
-"General Skywalker",30,27,20,17,29,85
+"General Skywalker",30,28,20,17,29,86
 "General Veers",60,32,12,1,0,25
 "Geonosian Brood Alpha",52,44,21,11,45,47
 "Geonosian Soldier",60,51,6,3,0,0
@@ -89,20 +89,20 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Greedo",60,40,1,0,0,20
 "Greef Karga",56,13,3,2,0,24
 "HK-47",59,47,24,12,0,86
-"Han Solo",60,52,25,18,0,52
+"Han Solo",60,52,26,18,0,52
 "Hera Syndulla",60,32,2,1,0,18
 "Hermit Yoda",45,37,18,14,0,56
 "Hoth Rebel Scout",59,4,0,0,0,0
 "Hoth Rebel Soldier",60,3,0,0,0,0
 "Hunter",49,0,0,0,2,0
 "IG-100 MagnaGuard",60,41,19,9,0,28
-"IG-11",51,7,0,0,0,12
+"IG-11",52,8,0,0,0,12
 "IG-86 Sentinel Droid",60,5,0,0,0,0
 "IG-88",59,50,0,0,0,22
 "Ima-Gun Di",52,2,0,0,0,0
 "Imperial Probe Droid",49,3,0,0,0,3
 "Imperial Super Commando",59,1,0,0,0,0
-"Jango Fett",59,45,10,3,29,36
+"Jango Fett",59,45,11,3,29,36
 "Jawa",60,3,0,0,0,0
 "Jawa Engineer",44,6,0,0,0,0
 "Jawa Scavenger",60,5,1,1,0,0
@@ -110,15 +110,15 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Jedi Knight Anakin",58,52,33,22,0,50
 "Jedi Knight Guardian",60,1,0,0,0,0
 "Jedi Knight Luke Skywalker",14,14,13,13,14,14
-"Jedi Knight Revan",51,50,39,23,51,102
-"Jedi Master Luke Skywalker",6,6,6,5,6,30
+"Jedi Knight Revan",51,50,40,23,51,102
+"Jedi Master Luke Skywalker",6,6,6,6,6,30
 "Jolee Bindo",60,52,17,9,0,52
 "Juhani",58,37,0,0,0,23
-"Jyn Erso",56,12,0,0,10,6
+"Jyn Erso",56,12,0,0,10,7
 "K-2SO",59,5,0,0,0,4
 "Kanan Jarrus",60,27,1,1,0,16
 "Kit Fisto",53,1,0,0,0,0
-"Kuiil",52,3,0,0,0,12
+"Kuiil",52,4,0,0,0,12
 "Kylo Ren",60,44,16,13,0,38
 "Kylo Ren (Unmasked)",60,40,21,17,45,40
 "L3-37",58,5,0,0,0,3
@@ -131,7 +131,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Magmatrooper",60,2,1,0,0,0
 "Mission Vao",57,45,1,0,0,42
 "Mob Enforcer",58,0,0,0,0,0
-"Moff Gideon",58,7,1,1,6,9
+"Moff Gideon",58,8,1,1,6,9
 "Mon Mothma",52,11,7,6,16,17
 "Mother Talzin",60,36,9,4,39,34
 "Nightsister Acolyte",51,11,0,0,0,0
@@ -141,7 +141,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Nute Gunray",58,42,4,2,0,30
 "Obi-Wan Kenobi (Old Ben)",60,41,13,9,0,45
 "Old Daka",59,39,8,3,0,34
-"Omega",29,0,0,0,0,2
+"Omega",35,0,0,0,0,2
 "Padmé Amidala",55,47,39,19,50,49
 "Pao",57,4,0,0,0,3
 "Paploo",59,46,1,0,0,29
@@ -170,7 +170,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Shoretrooper",55,14,0,0,0,0
 "Sith Assassin",57,2,0,0,0,0
 "Sith Empire Trooper",56,27,12,5,0,0
-"Sith Eternal Emperor",5,5,4,3,4,22
+"Sith Eternal Emperor",5,5,4,3,4,23
 "Sith Marauder",56,14,8,6,0,0
 "Sith Trooper",56,15,12,12,0,17
 "Snowtrooper",60,12,2,1,0,0
@@ -178,15 +178,15 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Stormtrooper Han",60,26,1,0,0,8
 "Sun Fac",60,44,5,3,0,0
 "Supreme Leader Kylo Ren",8,8,8,8,8,40
-"T3-M4",60,25,0,0,0,23
+"T3-M4",60,25,0,0,0,24
 "TIE Fighter Pilot",60,20,0,0,0,0
 "Talia",60,25,2,1,0,0
 "Tech",47,0,0,0,0,1
 "Teebo",60,18,0,0,0,0
 "The Armorer",47,0,0,0,0,4
 "The Mandalorian",59,22,3,2,16,23
-"The Mandalorian (Beskar Armor)",14,3,0,0,4,5
-"Threepio & Chewie",52,16,8,8,0,13
+"The Mandalorian (Beskar Armor)",15,3,0,0,5,6
+"Threepio & Chewie",52,16,9,8,0,13
 "Tusken Raider",59,1,0,0,0,0
 "Tusken Shaman",57,4,0,0,0,0
 "URoRRuR'R'R",42,3,0,0,0,0
@@ -196,11 +196,11 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Veteran Smuggler Han Solo",60,19,11,0,0,9
 "Visas Marr",55,2,2,1,0,4
 "Wampa",49,33,28,13,0,64
-"Wat Tambor",49,22,0,0,0,36
+"Wat Tambor",49,23,0,0,0,36
 "Wedge Antilles",60,33,10,0,0,0
 "Wicket",59,49,1,0,0,34
 "Wrecker",48,0,0,0,0,2
-"Young Han Solo",58,3,0,0,0,2
+"Young Han Solo",58,4,0,0,0,2
 "Young Lando Calrissian",58,7,0,0,0,3
 "Zaalbar",59,46,0,0,0,39
 "Zam Wesell",59,17,0,0,0,10
