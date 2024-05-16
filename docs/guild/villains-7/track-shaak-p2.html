@@ -1,0 +1,73 @@
+<meta charset="UTF-8">
+<meta name="robots" content="noindex"><style type="text/css">
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background: #dddddd}
+tr:nth-child(odd) {background: #ffffff}
+
+.toggleable {
+    display: none;
+}
+</style><link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+<link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.1.5/css/fixedHeader.dataTables.min.css" />
+<link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.6/css/fixedColumns.dataTables.min.css" />
+<script type="text/javascript" language="javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/fixedheader/3.1.5/js/dataTables.fixedHeader.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/fixedcolumns/3.2.6/js/dataTables.fixedColumns.min.js"></script><title>Guild Reports: Shaak Ti Progress Tracker</title>
+<div style="display: flex; align-items:baseline"><h1>Guild Reports: Shaak Ti Progress Tracker</h1></div>
+
+<div style="background-color: #f0f0f0; border: solid red; padding: 10px; border-radius: 10px">
+<a href="../../alliance/index.html">Alliance</a> |
+<a href="index.html">Villains VII</a>
+</div>
+<br/><h2>Shaak Ti Progress Tracker Villains VII</h2>
+
+<p>
+Progress on Shaak Ti farming.  Useful in for KAM mission, among many others.
+
+<p>
+<button onclick="$('.complete').hide(); $('.working').show()">hide completed</button>
+<button onclick="$('.complete').show(); $('.working').hide()">hide incomplete</button>
+<button onclick="$('.complete').show(); $('.working').show()">show all</button>
+
+<br/>
+    
+<link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.0.0/css/buttons.dataTables.min.css" />
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/2.0.0/js/dataTables.buttons.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/2.0.0/js/buttons.html5.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script><script>
+$(document).ready(function() {
+    var urlParams = new URLSearchParams(window.location.search)
+    var show = urlParams.get('show')
+    if (show == "working") {
+        $('.complete').hide()
+    } else if (show == "complete") {
+        $('.working').hide()
+    }
+});
+</script><table class="stripe" id="stats"><thead><th>Player</th><th>Ally Code</th><th>Starting Gear Needed</th><th>Progress</th><th>Current Gear Needed</th><th>GP</th><th>Team</th></thead><tr class="complete" style="background-color: #ceebfd;"><td>Wicked</td><td>862655434</td><td>0</td><td>0</td><td>0</td><td data-order="147270">147k</td><td>Shaak Ti, Fives, Rex, Echo (501st), ARC Trooper</td></tr><tr class="working" style=""><td>Delmon Ciiid'r</td><td>186754833</td><td>90</td><td>0</td><td>90</td><td data-order="0">0</td><td><b>Shaak Ti G0 0&#9733;</b>, <b>Fives G0 0&#9733;</b>, <b>Rex G0 0&#9733;</b>, <b>Echo (501st) G0 0&#9733;</b>, <b>ARC Trooper G0 0&#9733;</b></td></tr><tr class="working" style=""><td>TheSenate</td><td>299282752</td><td>90</td><td>0</td><td>90</td><td data-order="0">0</td><td><b>Shaak Ti G0 0&#9733;</b>, <b>Fives G0 0&#9733;</b>, <b>Rex G0 0&#9733;</b>, <b>Echo (501st) G0 0&#9733;</b>, <b>ARC Trooper G0 0&#9733;</b></td></tr><tr class="working" style=""><td>DarthWicked</td><td>754964832</td><td>62</td><td>0</td><td>62</td><td data-order="42994">42k</td><td><b>Shaak Ti G0 0&#9733;</b>, <b>Fives G8</b>, <b>Rex G9</b>, <b>Echo (501st) G11</b>, <b>ARC Trooper G0 0&#9733;</b></td></tr><tr class="working" style=""><td>DarthVillain</td><td>936424248</td><td>90</td><td>0</td><td>90</td><td data-order="0">0</td><td><b>Shaak Ti G0 0&#9733;</b>, <b>Fives G0 0&#9733;</b>, <b>Rex G0 0&#9733;</b>, <b>Echo (501st) G0 0&#9733;</b>, <b>ARC Trooper G0 0&#9733;</b></td></tr><tr class="working" style=""><td>Stormpoke</td><td>174391557</td><td>90</td><td>0</td><td>90</td><td data-order="0">0</td><td><b>Shaak Ti G0 0&#9733;</b>, <b>Fives G0 0&#9733;</b>, <b>Rex G0 0&#9733;</b>, <b>Echo (501st) G0 0&#9733;</b>, <b>ARC Trooper G0 0&#9733;</b></td></tr><tr class="working" style=""><td>Painzer</td><td>665383812</td><td>55</td><td>0</td><td>55</td><td data-order="54564">54k</td><td><b>Shaak Ti G0 0&#9733;</b>, <b>Fives G12</b>, <b>Rex G12</b>, <b>Echo (501st) G11</b>, <b>ARC Trooper G0 0&#9733;</b></td></tr><tr class="working" style=""><td>DarthDavoo</td><td>214358132</td><td>90</td><td>0</td><td>90</td><td data-order="0">0</td><td><b>Shaak Ti G0 0&#9733;</b>, <b>Fives G0 0&#9733;</b>, <b>Rex G0 0&#9733;</b>, <b>Echo (501st) G0 0&#9733;</b>, <b>ARC Trooper G0 0&#9733;</b></td></tr><tr class="working" style=""><td>Bates121</td><td>999729325</td><td>9</td><td>0</td><td>9</td><td data-order="126293">126k</td><td>Shaak Ti, <b>Fives R4</b>, <b>Rex R4</b>, <b>Echo (501st) G12</b>, <b>ARC Trooper R4</b></td></tr><tr class="working" style=""><td>scampbll</td><td>479523636</td><td>24</td><td>0</td><td>24</td><td data-order="111366">111k</td><td><b>Shaak Ti G12</b>, <b>Fives R4</b>, <b>Rex R4</b>, <b>Echo (501st) G12</b>, <b>ARC Trooper G8</b></td></tr></table><script>var config = {
+    "paging":   false,
+    "info":     false,
+    bFilter: false,
+    fixedHeader: true,
+    dom: 'Bfrtip',
+    buttons: [
+        'copyHtml5',
+        'excelHtml5',
+        'csvHtml5',
+    ],
+}
+
+table = $('#stats').DataTable(config);</script><br/>
+<font size="-2">Generated 2024-05-12 15:55:52 +0000</font>
+<script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

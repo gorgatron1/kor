@@ -1,0 +1,85 @@
+<meta charset="UTF-8">
+<meta name="robots" content="noindex"><style type="text/css">
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background: #dddddd}
+tr:nth-child(odd) {background: #ffffff}
+
+.toggleable {
+    display: none;
+}
+</style><link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+<link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.1.5/css/fixedHeader.dataTables.min.css" />
+<link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.6/css/fixedColumns.dataTables.min.css" />
+<script type="text/javascript" language="javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/fixedheader/3.1.5/js/dataTables.fixedHeader.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/fixedcolumns/3.2.6/js/dataTables.fixedColumns.min.js"></script><title>Guild Reports: Krayt Raid Progress Tracker</title>
+<div style="display: flex; align-items:baseline"><h1>Guild Reports: Krayt Raid Progress Tracker</h1></div>
+
+<div style="background-color: #f0f0f0; border: solid red; padding: 10px; border-radius: 10px">
+<a href="../../alliance/index.html">Alliance</a> |
+<a href="index.html">Villains VII</a>
+</div>
+<br/><h2>Krayt Raid Progress Tracker Villains VII</h2>
+
+<p>
+Potential Krayt Raid teams.
+
+<p>
+More info and play advice:
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=HVc34jdr6kg&list=PLV3ihsc-3CokFoeQ0n20Wwo9PlTqqXWSo">Skelturix</a>
+<li><a href="https://www.youtube.com/watch?v=h0KUg8eMtV4&list=PLDskqmL-F0lbUFC86srmPlNYD0rQfVbPE">Xaereth</a>
+</ul>
+
+<h3>Inventory</h3>
+
+Note: this list shows the next level to work toward, thus an L2 team can play at Difficulty 1.<table><thead><tr><th>Difficulty Level</th><th>Gear Required</th><th>Maximum Score</th><th>Number of Teams</th><th>Potential Score</th></tr></thead><tr><td>0</td><td>G8</td><td>300k</td><td>5</td><td>1.5m</td></tr><tr><td>1</td><td>G12</td><td>450k</td><td>2</td><td>900k</td></tr><tfoot><tr><td><b>Total</b></td><td>&nbsp;</td><td>&nbsp;</td><td><b>7</b></td><td><b>2.4m</b></td></tr></tfoot></table>
+
+<p>
+<button onclick="$('.complete').hide(); $('.working').show()">hide completed</button>
+<button onclick="$('.complete').show(); $('.working').hide()">hide incomplete</button>
+<button onclick="$('.complete').show(); $('.working').show()">show all</button>
+
+<br/>
+    
+<link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.0.0/css/buttons.dataTables.min.css" />
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/2.0.0/js/dataTables.buttons.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/2.0.0/js/buttons.html5.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script><script>
+$(document).ready(function() {
+    var urlParams = new URLSearchParams(window.location.search)
+    var show = urlParams.get('show')
+    if (show == "working") {
+        $('.complete').hide()
+    } else if (show == "complete") {
+        $('.working').hide()
+    }
+});
+</script><table class="stripe" id="stats"><thead><th>Player</th><th>Ally Code</th><th>Current Gear Needed</th><th>Team</th></thead><tr class="working" style=""><td>Bates121</td><td>999729325</td><td>1</td><td><b>L1 Old Republic</b>: JKR, BS, Jolee, Mission, <b>Zaalbar G11</b></td></tr><tr class="working" style=""><td>Bates121</td><td>999729325</td><td>8</td><td><b>L1 BH</b>: Boba, <b>Jango G11</b>, <b>Cad G11</b>, <b>The Mandalorian G9</b>, <b>Greedo G9</b></td></tr><tr class="working" style=""><td>Bates121</td><td>999729325</td><td>16</td><td><b>L1 Jawas</b>: <b>Nebit G8</b>, <b>Jawa Engineer G9</b>, <b>Jawa Scavenger G9</b>, <b>Dathcha G9</b>, <b>Jawa G9</b></td></tr><tr class="working" style=""><td>scampbll</td><td>479523636</td><td>8</td><td><b>L2 Old Republic</b>: JKR, <b>BS G12</b>, <b>Jolee G12</b>, <b>Mission G12</b>, <b>Zaalbar G12</b></td></tr><tr class="working" style=""><td>scampbll</td><td>479523636</td><td>16</td><td><b>L1 Jawas</b>: <b>Nebit G8</b>, <b>Jawa Engineer G9 6&#9733;</b>, <b>Jawa Scavenger G9</b>, <b>Dathcha G9</b>, <b>Jawa G9 6&#9733;</b></td></tr><tr class="working" style=""><td>scampbll</td><td>479523636</td><td>1</td><td><b>L0 BH</b>: Boba, Jango, Cad, <b>The Mandalorian G7 3&#9733;</b>, Greedo</td></tr><tr class="working" style=""><td>Wicked</td><td>862655434</td><td>8</td><td><b>L2 Old Republic</b>: JKR, <b>BS G12</b>, <b>Jolee G12</b>, <b>Mission G12</b>, <b>Zaalbar G12</b></td></tr><tr class="working" style=""><td>Wicked</td><td>862655434</td><td>11</td><td><b>L1 Jawas</b>: <b>Nebit G11</b>, <b>Jawa Engineer G10</b>, <b>Jawa Scavenger G9</b>, <b>Dathcha G10</b>, <b>Jawa G9</b></td></tr><tr class="working" style=""><td>Wicked</td><td>862655434</td><td>1</td><td><b>L0 BH</b>: Boba, Jango, Cad, <b>The Mandalorian G7</b>, Greedo</td></tr></table><script>var config = {
+    "paging":   false,
+    "info":     false,
+    bFilter: false,
+    fixedHeader: true,
+    dom: 'Bfrtip',
+    buttons: [
+        'copyHtml5',
+        'excelHtml5',
+        'csvHtml5',
+    ],
+}
+
+table = $('#stats').DataTable(config);</script><br/>
+<font size="-2">Generated 2024-05-12 15:55:52 +0000</font>
+<script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
