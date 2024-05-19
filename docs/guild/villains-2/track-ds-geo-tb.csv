@@ -1,160 +1,86 @@
 Player,Ally Code,Starting Gear Needed,Progress,Current Gear Needed,Team
-Oozy,768273468,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
-Oozy,768273468,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Oozy,768273468,0,0,0,Dooku+Asajj: Dooku AV
-Oozy,768273468,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Espo One,794385323,3,3,0,Troopers: Veers Piett Starck Dark Trooper Range Trooper
-Espo One,794385323,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
-Espo One,794385323,0,0,0,Dooku+Asajj: Dooku AV
-Espo One,794385323,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Darco Ren,277118468,0,0,0,Troopers: Veers Piett Starck Dark Trooper Range Trooper
-Darco Ren,277118468,2,2,0,Grievous: GG B2 B1 Droideka MagnaGuard
-Darco Ren,277118468,0,0,0,Dooku+Asajj: Dooku AV
-Darco Ren,277118468,1,1,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-NergalAbsu,418887294,3,2,1,Troopers: Veers Piett Starck Dark Trooper G11 Range Trooper
-NergalAbsu,418887294,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-NergalAbsu,418887294,0,0,0,Dooku+Asajj: Dooku AV
-NergalAbsu,418887294,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-ShadowNiel,611321767,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
-ShadowNiel,611321767,0,0,0,Dooku+Asajj: Dooku AV
-ShadowNiel,611321767,9,1,8,Troopers: Veers Piett Starck Dark Trooper G7 Range Trooper G9 5*
-ShadowNiel,611321767,9,3,6,Geos: GBA Poggle G10 Geo Soldier Sun Fac G9 Geo Spy G11
-Galatea Phebos,932767188,1,1,0,Troopers: Veers Piett Starck Dark Trooper Range Trooper
-Galatea Phebos,932767188,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Galatea Phebos,932767188,0,0,0,Dooku+Asajj: Dooku AV
-Galatea Phebos,932767188,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Vaexqua Grupen,736141127,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Vaexqua Grupen,736141127,0,0,0,Dooku+Asajj: Dooku AV
-Vaexqua Grupen,736141127,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-constante,364761588,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
-constante,364761588,0,0,0,Dooku+Asajj: Dooku AV
-constante,364761588,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-constante,364761588,11,0,11,Troopers: Veers Piett Gideon Dark Trooper Range Trooper G1
-money making mitch,279848565,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-money making mitch,279848565,0,0,0,Dooku+Asajj: Dooku AV
-money making mitch,279848565,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-TalonZek,864636643,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-TalonZek,864636643,0,0,0,Dooku+Asajj: Dooku AV
-TalonZek,864636643,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-TalonZek,864636643,11,8,3,Troopers: Veers Piett Starck Dark Trooper G9 Range Trooper
-Jakav6,731665414,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Jakav6,731665414,0,0,0,Dooku+Asajj: Dooku AV
-Jakav6,731665414,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Jakav6,731665414,14,0,14,Troopers: Veers Piett Starck Dark Trooper G3 Range Trooper G7 6*
-Mos Eisley Marauder,848989831,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
-Mos Eisley Marauder,848989831,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
-Mos Eisley Marauder,848989831,0,0,0,Dooku+Asajj: Dooku AV
-Mos Eisley Marauder,848989831,2,0,2,Geos: GBA Poggle G11 Geo Soldier Sun Fac G11 Geo Spy
-IG 88,959674685,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
-IG 88,959674685,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-IG 88,959674685,4,4,0,Dooku+Asajj: Dooku AV
-Fishetti,261211535,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Fishetti,261211535,0,0,0,Dooku+Asajj: Dooku AV
-Fishetti,261211535,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Fishetti,261211535,6,3,3,Troopers: Veers Piett Starck Dark Trooper G9 Range Trooper
-Jumbelina,496186941,0,0,0,Troopers: Veers Piett Starck Dark Trooper Range Trooper
-Jumbelina,496186941,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Jumbelina,496186941,0,0,0,Dooku+Asajj: Dooku AV
-Jumbelina,496186941,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Masta K,211691162,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
-Masta K,211691162,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Masta K,211691162,0,0,0,Dooku+Asajj: Dooku AV
-Masta K,211691162,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-MINIG3n3ra1K3n0biTW,972443237,1,0,1,Troopers: Veers Piett Starck Dark Trooper G11 Range Trooper
-MINIG3n3ra1K3n0biTW,972443237,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
-MINIG3n3ra1K3n0biTW,972443237,0,0,0,Dooku+Asajj: Dooku AV
-MINIG3n3ra1K3n0biTW,972443237,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Riika Redfox,867487842,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
-Riika Redfox,867487842,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Riika Redfox,867487842,0,0,0,Dooku+Asajj: Dooku AV
-Riika Redfox,867487842,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Buzzkill,171123476,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
-Buzzkill,171123476,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Buzzkill,171123476,0,0,0,Dooku+Asajj: Dooku AV
-Buzzkill,171123476,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Jairasha Arezno,493668729,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
-Jairasha Arezno,493668729,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Jairasha Arezno,493668729,17,5,12,Troopers: Veers Piett G8 5* Starck G9 Dark Trooper G9 Range Trooper G10
-Jairasha Arezno,493668729,0,0,0,Dooku+Asajj: Dooku AV
-HM75,779678751,0,0,0,Troopers: Veers Piett Starck Dark Trooper Range Trooper
-HM75,779678751,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
-HM75,779678751,0,0,0,Dooku+Asajj: Dooku AV
-HM75,779678751,5,0,5,Geos: GBA G10 5* Poggle Geo Soldier Sun Fac G9 Geo Spy
-Sphy,893376834,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Sphy,893376834,0,0,0,Dooku+Asajj: Dooku AV
-Sphy,893376834,20,0,20,Troopers: Veers Piett Starck Dark Trooper G1 Range Trooper G3
-Sphy,893376834,1,0,1,Geos: GBA Poggle Geo Soldier Sun Fac G11 Geo Spy
-DarkHamburger,196298817,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-DarkHamburger,196298817,0,0,0,Dooku+Asajj: Dooku AV
-DarkHamburger,196298817,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-DarkHamburger,196298817,10,5,5,Troopers: Veers Piett Starck Dark Trooper G9 5* Range Trooper G10 5*
-BingoTheGringo,793972541,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
-BingoTheGringo,793972541,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-BingoTheGringo,793972541,0,0,0,Dooku+Asajj: Dooku AV
-BingoTheGringo,793972541,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-BigSwede19,468774639,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
-BigSwede19,468774639,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-BigSwede19,468774639,0,0,0,Dooku+Asajj: Dooku AV
-BigSwede19,468774639,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-BigTLow,198244928,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
-BigTLow,198244928,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-BigTLow,198244928,0,0,0,Dooku+Asajj: Dooku AV
-BigTLow,198244928,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-B3ATNGU,133712933,15,0,15,Dooku+Asajj: Dooku G1 5* AV G8
-B3ATNGU,133712933,5,1,4,Geos: GBA Poggle G11 Geo Soldier G11 Sun Fac G11 Geo Spy G11
-HIT,186774711,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-HIT,186774711,0,0,0,Dooku+Asajj: Dooku AV
-HIT,186774711,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-HIT,186774711,1,0,1,Troopers: Veers Piett Starck Dark Trooper Range Trooper G11 6*
-Beka12,629165259,0,0,0,Dooku+Asajj: Dooku AV
-Beka12,629165259,6,2,4,Grievous: GG B2 G9 B1 G11 6* Nute MagnaGuard
-Beka12,629165259,12,0,12,Troopers: Veers G10 Piett G10 5* Gideon Dark Trooper G9 6* Range Trooper G7 6*
-Beka12,629165259,5,1,4,Geos: GBA G11 5* Poggle G9 Geo Soldier Sun Fac Geo Spy
-PeePeeLaFritz,326683311,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-PeePeeLaFritz,326683311,0,0,0,Dooku+Asajj: Dooku AV
-PeePeeLaFritz,326683311,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-PeePeeLaFritz,326683311,8,0,8,Troopers: Veers Piett Starck Dark Trooper G9 Range Trooper G7 6*
-RenegadeSith,447995451,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-RenegadeSith,447995451,0,0,0,Dooku+Asajj: Dooku AV
-RenegadeSith,447995451,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Sol Riel,667729758,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Sol Riel,667729758,0,0,0,Dooku+Asajj: Dooku AV
-Sol Riel,667729758,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-MightyAnchor,281619283,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
-MightyAnchor,281619283,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
-MightyAnchor,281619283,0,0,0,Dooku+Asajj: Dooku AV
-MightyAnchor,281619283,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-j who,597367851,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
-j who,597367851,0,0,0,Dooku+Asajj: Dooku AV
-j who,597367851,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-j who,597367851,10,0,10,Troopers: Veers Piett Gideon Dark Trooper G7 6* Range Trooper G7 6*
 KyloFinch,939517722,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
 KyloFinch,939517722,0,0,0,Dooku+Asajj: Dooku AV
 KyloFinch,939517722,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
 KyloFinch,939517722,7,0,7,Troopers: Veers G11 Piett G9 Gideon Dark Trooper G9 Range Trooper
-Romano Fafard,624477215,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
-Romano Fafard,624477215,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
-Romano Fafard,624477215,0,0,0,Dooku+Asajj: Dooku AV
-Romano Fafard,624477215,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+constante,364761588,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+constante,364761588,0,0,0,Dooku+Asajj: Dooku AV
+constante,364761588,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+constante,364761588,11,0,11,Troopers: Veers Piett Gideon Dark Trooper Range Trooper G1
+DarkHamburger,196298817,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+DarkHamburger,196298817,0,0,0,Dooku+Asajj: Dooku AV
+DarkHamburger,196298817,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+DarkHamburger,196298817,10,5,5,Troopers: Veers Piett Starck Dark Trooper G9 5* Range Trooper G10 5*
+BigSwede19,468774639,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
+BigSwede19,468774639,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+BigSwede19,468774639,0,0,0,Dooku+Asajj: Dooku AV
+BigSwede19,468774639,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
 J84Raven,274336351,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
 J84Raven,274336351,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
 J84Raven,274336351,0,0,0,Dooku+Asajj: Dooku AV
 J84Raven,274336351,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-DarkPickle,746347689,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
-DarkPickle,746347689,3,3,0,Grievous: GG B2 B1 Droideka MagnaGuard
-DarkPickle,746347689,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-DarkPickle,746347689,3,2,1,Dooku+Asajj: Dooku G11 6* AV
-decimer,311687341,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-decimer,311687341,2,0,2,Troopers: Veers Piett G10 Starck Dark Trooper Range Trooper
-decimer,311687341,0,0,0,Dooku+Asajj: Dooku AV
-decimer,311687341,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Oozy,768273468,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
+Oozy,768273468,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Oozy,768273468,0,0,0,Dooku+Asajj: Dooku AV
+Oozy,768273468,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+HIT,186774711,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+HIT,186774711,0,0,0,Dooku+Asajj: Dooku AV
+HIT,186774711,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+HIT,186774711,1,0,1,Troopers: Veers Piett Starck Dark Trooper Range Trooper G11 6*
+Jumbelina,496186941,0,0,0,Troopers: Veers Piett Starck Dark Trooper Range Trooper
+Jumbelina,496186941,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Jumbelina,496186941,0,0,0,Dooku+Asajj: Dooku AV
+Jumbelina,496186941,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Galatea Phebos,932767188,1,1,0,Troopers: Veers Piett Starck Dark Trooper Range Trooper
+Galatea Phebos,932767188,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Galatea Phebos,932767188,0,0,0,Dooku+Asajj: Dooku AV
+Galatea Phebos,932767188,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+NergalAbsu,418887294,3,2,1,Troopers: Veers Piett Starck Dark Trooper G11 Range Trooper
+NergalAbsu,418887294,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+NergalAbsu,418887294,0,0,0,Dooku+Asajj: Dooku AV
+NergalAbsu,418887294,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
 Lurk skywalter,493145999,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
 Lurk skywalter,493145999,0,0,0,Dooku+Asajj: Dooku AV
 Lurk skywalter,493145999,6,0,6,Troopers: Veers Piett Starck Dark Trooper G9 Range Trooper G9
 Lurk skywalter,493145999,2,0,2,Geos: GBA Poggle Geo Soldier Sun Fac G10 Geo Spy
-Guami54,191235537,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Guami54,191235537,0,0,0,Dooku+Asajj: Dooku AV
-Guami54,191235537,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Riika Redfox,867487842,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
+Riika Redfox,867487842,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Riika Redfox,867487842,0,0,0,Dooku+Asajj: Dooku AV
+Riika Redfox,867487842,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Sphy,893376834,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Sphy,893376834,0,0,0,Dooku+Asajj: Dooku AV
+Sphy,893376834,20,0,20,Troopers: Veers Piett Starck Dark Trooper G1 Range Trooper G3
+Sphy,893376834,1,0,1,Geos: GBA Poggle Geo Soldier Sun Fac G11 Geo Spy
+Espo One,794385323,3,3,0,Troopers: Veers Piett Starck Dark Trooper Range Trooper
+Espo One,794385323,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
+Espo One,794385323,0,0,0,Dooku+Asajj: Dooku AV
+Espo One,794385323,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+BingoTheGringo,793972541,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
+BingoTheGringo,793972541,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+BingoTheGringo,793972541,0,0,0,Dooku+Asajj: Dooku AV
+BingoTheGringo,793972541,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+RenegadeSith,447995451,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+RenegadeSith,447995451,0,0,0,Dooku+Asajj: Dooku AV
+RenegadeSith,447995451,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Blindsurgeon,518773864,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Blindsurgeon,518773864,0,0,0,Dooku+Asajj: Dooku AV
+Blindsurgeon,518773864,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Beka12,629165259,0,0,0,Dooku+Asajj: Dooku AV
+Beka12,629165259,6,2,4,Grievous: GG B2 G9 B1 G11 6* Nute MagnaGuard
+Beka12,629165259,12,0,12,Troopers: Veers G10 Piett G10 5* Gideon Dark Trooper G9 6* Range Trooper G7 6*
+Beka12,629165259,5,1,4,Geos: GBA G11 5* Poggle G9 Geo Soldier Sun Fac Geo Spy
+Romano Fafard,624477215,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
+Romano Fafard,624477215,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
+Romano Fafard,624477215,0,0,0,Dooku+Asajj: Dooku AV
+Romano Fafard,624477215,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Jakav6,731665414,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Jakav6,731665414,0,0,0,Dooku+Asajj: Dooku AV
+Jakav6,731665414,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Jakav6,731665414,14,0,14,Troopers: Veers Piett Starck Dark Trooper G3 Range Trooper G7 6*
+MightyAnchor,281619283,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
+MightyAnchor,281619283,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
+MightyAnchor,281619283,0,0,0,Dooku+Asajj: Dooku AV
+MightyAnchor,281619283,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
 Congol,257649642,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
 Congol,257649642,0,0,0,Dooku+Asajj: Dooku AV
 Congol,257649642,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
@@ -163,28 +89,95 @@ Pattyoneel,338159234,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Troop
 Pattyoneel,338159234,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
 Pattyoneel,338159234,0,0,0,Dooku+Asajj: Dooku AV
 Pattyoneel,338159234,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-thetitmaster,747132696,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-thetitmaster,747132696,1,1,0,Dooku+Asajj: Dooku AV
-thetitmaster,747132696,8,8,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-thetitmaster,747132696,4,0,4,Troopers: Veers Piett Starck Dark Trooper G10 6* Range Trooper G10
-Sketch Kal'dor,652876626,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Sketch Kal'dor,652876626,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
-Sketch Kal'dor,652876626,0,0,0,Dooku+Asajj: Dooku AV
-Sketch Kal'dor,652876626,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Wolfwink,638528697,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Wolfwink,638528697,0,0,0,Dooku+Asajj: Dooku AV
-Wolfwink,638528697,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Blindsurgeon,518773864,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Blindsurgeon,518773864,0,0,0,Dooku+Asajj: Dooku AV
-Blindsurgeon,518773864,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Frateo,657179331,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Frateo,657179331,0,0,0,Dooku+Asajj: Dooku AV
-Frateo,657179331,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
-Puddin,656144574,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
-Puddin,656144574,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
-Puddin,656144574,0,0,0,Dooku+Asajj: Dooku AV
-Puddin,656144574,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Sol Riel,667729758,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Sol Riel,667729758,0,0,0,Dooku+Asajj: Dooku AV
+Sol Riel,667729758,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Vaexqua Grupen,736141127,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Vaexqua Grupen,736141127,0,0,0,Dooku+Asajj: Dooku AV
+Vaexqua Grupen,736141127,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
 Pepa Pig,271322622,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
 Pepa Pig,271322622,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
 Pepa Pig,271322622,0,0,0,Dooku+Asajj: Dooku AV
 Pepa Pig,271322622,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+IG 88,959674685,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
+IG 88,959674685,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+IG 88,959674685,4,4,0,Dooku+Asajj: Dooku AV
+PeePeeLaFritz,326683311,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+PeePeeLaFritz,326683311,0,0,0,Dooku+Asajj: Dooku AV
+PeePeeLaFritz,326683311,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+PeePeeLaFritz,326683311,8,0,8,Troopers: Veers Piett Starck Dark Trooper G9 Range Trooper G7 6*
+Frateo,657179331,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Frateo,657179331,0,0,0,Dooku+Asajj: Dooku AV
+Frateo,657179331,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+ShadowNiel,611321767,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
+ShadowNiel,611321767,0,0,0,Dooku+Asajj: Dooku AV
+ShadowNiel,611321767,9,1,8,Troopers: Veers Piett Starck Dark Trooper G7 Range Trooper G9 5*
+ShadowNiel,611321767,9,3,6,Geos: GBA Poggle G10 Geo Soldier Sun Fac G9 Geo Spy G11
+Buzzkill,171123476,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
+Buzzkill,171123476,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Buzzkill,171123476,0,0,0,Dooku+Asajj: Dooku AV
+Buzzkill,171123476,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Wolfwink,638528697,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Wolfwink,638528697,0,0,0,Dooku+Asajj: Dooku AV
+Wolfwink,638528697,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+decimer,311687341,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+decimer,311687341,2,0,2,Troopers: Veers Piett G10 Starck Dark Trooper Range Trooper
+decimer,311687341,0,0,0,Dooku+Asajj: Dooku AV
+decimer,311687341,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+TalonZek,864636643,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+TalonZek,864636643,0,0,0,Dooku+Asajj: Dooku AV
+TalonZek,864636643,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+TalonZek,864636643,11,8,3,Troopers: Veers Piett Starck Dark Trooper G9 Range Trooper
+Jairasha Arezno,493668729,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
+Jairasha Arezno,493668729,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Jairasha Arezno,493668729,17,5,12,Troopers: Veers Piett G8 5* Starck G9 Dark Trooper G9 Range Trooper G10
+Jairasha Arezno,493668729,0,0,0,Dooku+Asajj: Dooku AV
+HM75,779678751,0,0,0,Troopers: Veers Piett Starck Dark Trooper Range Trooper
+HM75,779678751,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
+HM75,779678751,0,0,0,Dooku+Asajj: Dooku AV
+HM75,779678751,5,0,5,Geos: GBA G10 5* Poggle Geo Soldier Sun Fac G9 Geo Spy
+Fishetti,261211535,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Fishetti,261211535,0,0,0,Dooku+Asajj: Dooku AV
+Fishetti,261211535,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Fishetti,261211535,6,3,3,Troopers: Veers Piett Starck Dark Trooper G9 Range Trooper
+Mos Eisley Marauder,848989831,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
+Mos Eisley Marauder,848989831,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
+Mos Eisley Marauder,848989831,0,0,0,Dooku+Asajj: Dooku AV
+Mos Eisley Marauder,848989831,2,0,2,Geos: GBA Poggle G11 Geo Soldier Sun Fac G11 Geo Spy
+Darco Ren,277118468,0,0,0,Troopers: Veers Piett Starck Dark Trooper Range Trooper
+Darco Ren,277118468,2,2,0,Grievous: GG B2 B1 Droideka MagnaGuard
+Darco Ren,277118468,0,0,0,Dooku+Asajj: Dooku AV
+Darco Ren,277118468,1,1,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Puddin,656144574,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
+Puddin,656144574,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Puddin,656144574,0,0,0,Dooku+Asajj: Dooku AV
+Puddin,656144574,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+BigTLow,198244928,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
+BigTLow,198244928,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+BigTLow,198244928,0,0,0,Dooku+Asajj: Dooku AV
+BigTLow,198244928,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+j who,597367851,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
+j who,597367851,0,0,0,Dooku+Asajj: Dooku AV
+j who,597367851,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+j who,597367851,10,0,10,Troopers: Veers Piett Gideon Dark Trooper G7 6* Range Trooper G7 6*
+money making mitch,279848565,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+money making mitch,279848565,0,0,0,Dooku+Asajj: Dooku AV
+money making mitch,279848565,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+Masta K,211691162,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
+Masta K,211691162,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+Masta K,211691162,0,0,0,Dooku+Asajj: Dooku AV
+Masta K,211691162,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+thetitmaster,747132696,0,0,0,Grievous: GG B2 B1 Nute MagnaGuard
+thetitmaster,747132696,1,1,0,Dooku+Asajj: Dooku AV
+thetitmaster,747132696,8,8,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+thetitmaster,747132696,4,0,4,Troopers: Veers Piett Starck Dark Trooper G10 6* Range Trooper G10
+DarkPickle,746347689,0,0,0,Troopers: Veers Piett Gideon Dark Trooper Range Trooper
+DarkPickle,746347689,3,3,0,Grievous: GG B2 B1 Droideka MagnaGuard
+DarkPickle,746347689,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy
+DarkPickle,746347689,3,2,1,Dooku+Asajj: Dooku G11 6* AV
+B3ATNGU,133712933,15,0,15,Dooku+Asajj: Dooku G1 6* AV G8
+B3ATNGU,133712933,5,1,4,Geos: GBA Poggle G11 Geo Soldier G11 Sun Fac G11 Geo Spy G11
+MINIG3n3ra1K3n0biTW,972443237,1,0,1,Troopers: Veers Piett Starck Dark Trooper G11 Range Trooper
+MINIG3n3ra1K3n0biTW,972443237,0,0,0,Grievous: GG B2 B1 Droideka MagnaGuard
+MINIG3n3ra1K3n0biTW,972443237,0,0,0,Dooku+Asajj: Dooku AV
+MINIG3n3ra1K3n0biTW,972443237,0,0,0,Geos: GBA Poggle Geo Soldier Sun Fac Geo Spy

@@ -239,14 +239,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-0', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 289 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_SECONDSISTER01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_attack_buff.png" style="width: 30px" /> Everyone is Expendable</td><td>Second Sister gains +50% Critical Damage. Her Special abilities can't be evaded when attacking an enemy with one or more stacks of Purge. Whenever an enemy or Empire ally is defeated, Second Sister gains bonuses for the rest of the encounter.\n\nFirst enemy or Empire ally: +35 Speed\n\nSecond enemy or Empire ally: +100% Defense Penetration\n\nThird enemy or Empire ally: +50% Critical Damage</td><td>201</td><td>70%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 285 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_SECONDSISTER01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_attack_buff.png" style="width: 30px" /> Everyone is Expendable</td><td>Second Sister gains +50% Critical Damage. Her Special abilities can't be evaded when attacking an enemy with one or more stacks of Purge. Whenever an enemy or Empire ally is defeated, Second Sister gains bonuses for the rest of the encounter.\n\nFirst enemy or Empire ally: +35 Speed\n\nSecond enemy or Empire ally: +100% Defense Penetration\n\nThird enemy or Empire ally: +50% Critical Damage</td><td>200</td><td>70%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 21, 0, 3, 2, 3, 5, 6, 11, 22, 13, 3, 14, 2, 5, 0, 2, 0, 107, 15, 51, 3, 1 ],
+    y: [ 21, 0, 3, 2, 3, 5, 6, 10, 22, 11, 3, 14, 3, 5, 0, 2, 0, 105, 14, 52, 3, 1 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 7.26643598615917, 7.26643598615917, 8.304498269896193, 8.996539792387543, 10.034602076124568, 11.764705882352942, 13.84083044982699, 17.647058823529413, 25.25951557093426, 29.75778546712803, 30.795847750865054, 35.6401384083045, 36.33217993079585, 38.062283737024224, 38.062283737024224, 38.754325259515575, 38.754325259515575, 75.77854671280278, 80.9688581314879, 98.61591695501733, 99.65397923875435, 100.00000000000001 ],
+    y: [ 7.368421052631578, 7.368421052631578, 8.421052631578947, 9.12280701754386, 10.175438596491228, 11.929824561403509, 14.035087719298245, 17.543859649122805, 25.26315789473684, 29.122807017543856, 30.175438596491226, 35.08771929824561, 36.14035087719298, 37.89473684210526, 37.89473684210526, 38.59649122807017, 38.59649122807017, 75.43859649122805, 80.35087719298244, 98.59649122807016, 99.64912280701753, 99.99999999999999 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -266,5 +266,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-05-12 15:56:00 +0000</font>
+<font size="-2">Generated 2024-05-19 22:19:05 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

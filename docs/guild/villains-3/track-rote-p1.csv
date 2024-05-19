@@ -1,67 +1,41 @@
 Player,Ally Code,Starting Gear Needed,Progress,Current Gear Needed,Team
-Nunley,451228862,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-Nunley,451228862,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn RG
-Nunley,451228862,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
-Nunley,451228862,6,0,6,JMLS: JMLS JKL JKR GMY G12 HYoda
-Nunley,451228862,6,0,6,Troopers: Veers Piett Dark Trooper Range Trooper G12 Gideon
-cdaza933,857218838,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-cdaza933,857218838,0,0,0,JMK: JMK CAT GK GAS Ahsoka
-cdaza933,857218838,2,0,2,JMLS: JMLS JKL JKR R3 GMY HYoda
-cdaza933,857218838,1,0,1,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak R4
-cdaza933,857218838,11,0,11,Troopers: Veers R3 Piett Dark Trooper R3 Range Trooper G12 Gideon R4
-cdaza933,857218838,28,1,27,Padme/BB: Padme Hunter G11 6* Echo G11 6* Tech G11 6* Wrecker G12
-Obi Juan,843377265,0,0,0,JMK: JMK CAT GK GAS Ahsoka
-Obi Juan,843377265,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
-Obi Juan,843377265,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-Obi Juan,843377265,8,0,8,EP: EP Mara Jade, The Emperor's Hand Vader R4 Thrawn G12 Malak R4
-My keyz,461238798,6,6,0,JMK: JMK CAT GK GAS Ahsoka
-My keyz,461238798,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
-My keyz,461238798,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-My keyz,461238798,19,1,18,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn G9 Malak G9 6*
-My keyz,461238798,24,1,23,Padme/BB: Padme Hunter Echo G12 Tech G10 Wrecker G9
-My keyz,461238798,28,0,28,Troopers: Veers R3 Piett Dark Trooper G8 5* Range Trooper G8 5* Gideon G12
-Canderus,883117875,3,3,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-Canderus,883117875,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
-Canderus,883117875,1,0,1,JMK: JMK CAT GK GAS Ahsoka R4
-Wffls,198532873,0,0,0,JMK: JMK CAT GK GAS Ahsoka
-Wffls,198532873,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-Wffls,198532873,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
-Wffls,198532873,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
-Wffls,198532873,8,0,8,Troopers: Veers R3 Piett Dark Trooper R3 Range Trooper R3 Starck R3
-Wffls,198532873,33,0,33,Padme/BB: Padme Hunter G10 6* Echo G10 6* Tech G10 6* Wrecker G9 6*
-Sentey,491233948,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
-Sentey,491233948,2,0,2,CLS: CLS R3 C-3PO Han Chewbacca Chewpio
-Sentey,491233948,10,3,7,JMLS: JMLS JKL JKR GMY G11 HYoda
-Sentey,491233948,8,0,8,Troopers: Veers R3 Piett Dark Trooper R3 Range Trooper R3 Starck R3
-Blackstar,361137876,9,9,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
-Blackstar,361137876,12,0,12,CLS: CLS C-3PO Han G12 Chewbacca Chewpio G12
-Blackstar,361137876,27,13,14,Troopers: Veers G12 Piett R4 Dark Trooper R4 Range Trooper G12 Gideon
-Blackstar,361137876,36,5,31,Padme/BB: Padme Hunter G12 Echo G10 Tech G10 Wrecker G9
-Lymbo,961861724,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-Lymbo,961861724,21,21,0,Padme/BB: Padme Hunter Echo Tech Wrecker
-Lymbo,961861724,3,0,3,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn R2 RG
-Lymbo,961861724,2,0,2,JMLS: JMLS JKL JKR GMY R3 HYoda
-Lymbo,961861724,32,0,32,Troopers: Veers G12 Piett Dark Trooper G9 6* Range Trooper G8 5* Gideon G11
+StickSkywalker,869153575,40,20,20,EP: EP Mara Jade, The Emperor's Hand G8 3* Vader Thrawn Shoretrooper G8 5*
+Glove,421286915,0,0,0,JMK: JMK CAT GK GAS Ahsoka
+Glove,421286915,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
+Glove,421286915,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
+Glove,421286915,12,0,12,CLS: CLS R3 C-3PO Han Chewbacca R3 Chewpio G10
+Glove,421286915,15,0,15,Troopers: Veers R3 Piett Dark Trooper G11 Range Trooper R2 Gideon R2
 Eterniter,415557143,0,0,0,JMK: JMK CAT GK GAS Ahsoka
 Eterniter,415557143,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
 Eterniter,415557143,0,0,0,SEE: SEE Malak Darth Malgus BSF DR
 Eterniter,415557143,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
 Eterniter,415557143,2,0,2,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn RG R3
-YaDiDiMeAn,316658618,0,0,0,JMK: JMK CAT GK GAS Ahsoka
-YaDiDiMeAn,316658618,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
-YaDiDiMeAn,316658618,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-YaDiDiMeAn,316658618,5,0,5,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak G13
-YaDiDiMeAn,316658618,14,0,14,Troopers: Veers R3 Piett Dark Trooper G13 Range Trooper G13 Starck R3
-Weiser,558628925,13,13,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
-Weiser,558628925,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
-Weiser,558628925,2,0,2,JMK: JMK CAT GK GAS Ahsoka R3
-Weiser,558628925,14,7,7,CLS: CLS R4 C-3PO R3 Han Chewbacca R4 Chewpio R2
-Weiser,558628925,32,4,28,Troopers: Veers G11 Piett Dark Trooper G12 Range Trooper G9 6* Gideon G12
-Dazaro,342675736,0,0,0,JMK: JMK CAT GK GAS Ahsoka
-Dazaro,342675736,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-Dazaro,342675736,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
-Dazaro,342675736,5,1,4,JMLS: JMLS JKL JKR R1 GMY HYoda
-Dazaro,342675736,17,1,16,EP: EP G12 Mara Jade, The Emperor's Hand Vader R3 Thrawn R1 Malak R1
+Eterniter,415557143,11,0,11,Troopers: Veers R3 Piett Dark Trooper Range Trooper G11 6* Gideon R3
+Legacy,891892929,9,9,0,JMK: JMK CAT GK GAS Ahsoka
+Legacy,891892929,6,6,0,JMLS: JMLS JKL JKR GMY HYoda
+Legacy,891892929,8,7,1,CLS: CLS R4 C-3PO Han Chewbacca Chewpio
+Legacy,891892929,16,7,9,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn G9 Malak
+Legacy,891892929,19,0,19,Troopers: Veers G12 Piett Dark Trooper Range Trooper G12 Gideon G11
+Legacy,891892929,43,25,18,Padme/BB: Padme Hunter G12 Echo G12 Tech G12 Wrecker
+Scottyj8979,979433967,1,1,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+Scottyj8979,979433967,1,0,1,JMLS: JMLS JKL JKR R4 GMY HYoda
+Scottyj8979,979433967,15,13,2,JMK: JMK CAT R3 GK GAS Ahsoka
+Scottyj8979,979433967,2,0,2,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn RG R3
+Scottyj8979,979433967,35,23,12,Padme/BB: Padme Hunter Echo G12 Tech Wrecker G12
+Scottyj8979,979433967,26,3,23,Troopers: Veers R3 Piett Dark Trooper G9 Range Trooper G8 Starck R3
+Scottyj8979,979433967,29,0,29,SEE: SEE Malak G11 Darth Malgus G8 BSF G12 DR G12
+KingCong,823182356,0,0,0,JMK: JMK CAT GK GAS Ahsoka
+KingCong,823182356,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
+KingCong,823182356,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
+KingCong,823182356,41,41,0,Padme/BB: Padme Hunter Echo Tech Wrecker
+KingCong,823182356,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+KingCong,823182356,22,0,22,Troopers: Veers R3 Piett Dark Trooper G9 Range Trooper G9 Starck R3
+R1DD1K,283634632,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
+R1DD1K,283634632,0,0,0,JMK: JMK CAT GK GAS Ahsoka
+R1DD1K,283634632,4,4,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
+R1DD1K,283634632,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+R1DD1K,283634632,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
+R1DD1K,283634632,27,8,19,Troopers: Veers R3 Piett Dark Trooper G12 Range Trooper G12 Gideon G13
 Hiruto,951752684,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
 Hiruto,951752684,0,0,0,JMK: JMK CAT GK GAS Ahsoka
 Hiruto,951752684,0,0,0,SEE: SEE Malak Darth Malgus BSF DR
@@ -69,47 +43,76 @@ Hiruto,951752684,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
 Hiruto,951752684,2,0,2,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn RG R3
 Hiruto,951752684,22,0,22,Troopers: Veers R3 Piett Dark Trooper G9 Range Trooper G9 Starck R3
 Hiruto,951752684,38,0,38,Padme/BB: Padme Hunter G9 Echo G8 Tech G9 Wrecker G8
-Myriddan,511315191,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-Myriddan,511315191,0,0,0,JMK: JMK CAT GK GAS Ahsoka
-Myriddan,511315191,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
-Myriddan,511315191,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
-Myriddan,511315191,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
-Myriddan,511315191,9,3,6,Troopers: Veers Piett Dark Trooper Range Trooper G12 Gideon
-LordNolak,625916659,11,11,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-LordNolak,625916659,16,16,0,JMLS: JMLS JKL JKR GMY HYoda
-LordNolak,625916659,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
-LordNolak,625916659,29,1,28,Troopers: Veers R3 Piett Dark Trooper G5 Range Trooper G7 6* Starck R3
-LordNolak,625916659,50,0,50,Padme/BB: Padme Hunter G7 5* Echo G5 5* Tech G5 5* Wrecker G5 5*
-Legacy,891892929,9,9,0,JMK: JMK CAT GK GAS Ahsoka
-Legacy,891892929,6,6,0,JMLS: JMLS JKL JKR GMY HYoda
-Legacy,891892929,8,7,1,CLS: CLS R4 C-3PO Han Chewbacca Chewpio
-Legacy,891892929,16,7,9,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn G9 Malak
-Legacy,891892929,19,0,19,Troopers: Veers G12 Piett Dark Trooper Range Trooper G12 Gideon G11
-Legacy,891892929,43,25,18,Padme/BB: Padme Hunter G12 Echo G12 Tech G12 Wrecker
-KingCong,823182356,0,0,0,JMK: JMK CAT GK GAS Ahsoka
-KingCong,823182356,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
-KingCong,823182356,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
-KingCong,823182356,41,41,0,Padme/BB: Padme Hunter Echo Tech Wrecker
-KingCong,823182356,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-KingCong,823182356,22,0,22,Troopers: Veers R3 Piett Dark Trooper G9 Range Trooper G9 Starck R3
-Scottyj8979,979433967,1,1,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-Scottyj8979,979433967,1,0,1,JMLS: JMLS JKL JKR R4 GMY HYoda
-Scottyj8979,979433967,15,13,2,JMK: JMK CAT R3 GK GAS Ahsoka
-Scottyj8979,979433967,2,0,2,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn RG R3
-Scottyj8979,979433967,35,16,19,Padme/BB: Padme Hunter Echo G12 Tech G12 Wrecker G11
-Scottyj8979,979433967,26,3,23,Troopers: Veers R3 Piett Dark Trooper G9 Range Trooper G8 Starck R3
-Scottyj8979,979433967,29,0,29,SEE: SEE Malak G11 Darth Malgus G8 BSF G12 DR G12
-Rich Rider,682774593,0,0,0,JMK: JMK CAT GK GAS Ahsoka
-Rich Rider,682774593,18,10,8,EP: EP Mara Jade, The Emperor's Hand Vader R3 Thrawn G12 Malak
-Rich Rider,682774593,12,2,10,CLS: CLS R3 C-3PO Han Chewbacca R3 Chewpio G12
-Rich Rider,682774593,43,0,43,Padme/BB: Padme R4 Hunter G7 Echo G7 Tech G7 Wrecker G9
-Rich Rider,682774593,39,0,39,Troopers: Veers G12 Piett G9 Dark Trooper G9 Range Trooper G12 Gideon G9
+Megem,178238853,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
+Megem,178238853,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+Megem,178238853,21,6,15,EP: EP R2 Mara Jade, The Emperor's Hand G9 6* Vader Thrawn R2 Malak
+Megem,178238853,50,0,50,Troopers: Veers G11 Piett G5 4* Dark Trooper G7 5* Range Trooper G9 5* Starck G8
+Lerxst,488881189,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+Lerxst,488881189,0,0,0,JMK: JMK CAT GK GAS Ahsoka
+Lerxst,488881189,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
+Lerxst,488881189,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
+Lerxst,488881189,0,0,0,Troopers: Veers Piett Dark Trooper Range Trooper Gideon
+Obi Juan,843377265,0,0,0,JMK: JMK CAT GK GAS Ahsoka
+Obi Juan,843377265,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
+Obi Juan,843377265,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+Obi Juan,843377265,8,0,8,EP: EP Mara Jade, The Emperor's Hand Vader R4 Thrawn G12 Malak R4
+Shimazu Hanzo,822252926,0,0,0,JMK: JMK CAT GK GAS Ahsoka
+Shimazu Hanzo,822252926,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+Shimazu Hanzo,822252926,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
+Shimazu Hanzo,822252926,6,6,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
+Shimazu Hanzo,822252926,26,26,0,Padme/BB: Padme Hunter Echo Tech Wrecker
+Shimazu Hanzo,822252926,0,0,0,Troopers: Veers Piett Dark Trooper Range Trooper Starck
+CoolCatLoveBird,297157199,34,34,0,Padme/BB: Padme Hunter Echo Tech Wrecker
+CoolCatLoveBird,297157199,10,8,2,JMK: JMK CAT R3 GK GAS Ahsoka
+CoolCatLoveBird,297157199,2,0,2,JMLS: JMLS JKL JKR R3 GMY HYoda
+CoolCatLoveBird,297157199,11,0,11,EP: EP Mara Jade, The Emperor's Hand G7 Vader Thrawn Malak
+CoolCatLoveBird,297157199,2,0,2,CLS: CLS R3 C-3PO Han Chewbacca Chewpio
+CoolCatLoveBird,297157199,19,0,19,Troopers: Veers R3 Piett Dark Trooper G9 Range Trooper G12 Starck R3
 Eliza Jaho,341755377,3,3,0,JMK: JMK CAT GK GAS Ahsoka
 Eliza Jaho,341755377,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
 Eliza Jaho,341755377,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
 Eliza Jaho,341755377,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
 Eliza Jaho,341755377,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
 Eliza Jaho,341755377,5,0,5,Troopers: Veers R3 Piett Dark Trooper Range Trooper R2 Gideon
+DarthOni,814894322,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+DarthOni,814894322,0,0,0,JMK: JMK CAT GK GAS Ahsoka
+DarthOni,814894322,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
+DarthOni,814894322,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
+DarthOni,814894322,26,4,22,Troopers: Veers R3 Piett Dark Trooper G11 Range Trooper G9 Gideon R1
+DarthOni,814894322,48,9,39,Padme/BB: Padme Hunter G7 Echo G10 Tech G7 Wrecker G9
+Weiser,558628925,13,13,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
+Weiser,558628925,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
+Weiser,558628925,2,0,2,JMK: JMK CAT GK GAS Ahsoka R3
+Weiser,558628925,14,7,7,CLS: CLS R4 C-3PO R3 Han Chewbacca R4 Chewpio R2
+Weiser,558628925,32,4,28,Troopers: Veers G11 Piett Dark Trooper G12 Range Trooper G9 6* Gideon G12
+Zellnerz,699216629,13,13,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
+Zellnerz,699216629,11,11,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+Zellnerz,699216629,0,0,0,Troopers: Veers Piett Dark Trooper Range Trooper Gideon
+Zellnerz,699216629,11,0,11,JMLS: JMLS G7 JKL JKR GMY HYoda
+Zellnerz,699216629,18,4,14,JMK: JMK G11 CAT G11 GK GAS Ahsoka
+Zellnerz,699216629,30,3,27,Padme/BB: Padme Hunter G12 Echo G9 Tech G12 Wrecker G12
+Trogdor,164111865,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+Trogdor,164111865,13,13,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
+Trogdor,164111865,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
+Trogdor,164111865,3,0,3,JMLS: JMLS JKL JKR R2 GMY HYoda
+Trogdor,164111865,5,0,5,JMK: JMK CAT R1 GK GAS Ahsoka R4
+Trogdor,164111865,20,0,20,Troopers: Veers R3 Piett Dark Trooper G9 Range Trooper G11 Starck R3
+Wffls,198532873,0,0,0,JMK: JMK CAT GK GAS Ahsoka
+Wffls,198532873,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+Wffls,198532873,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
+Wffls,198532873,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
+Wffls,198532873,8,0,8,Troopers: Veers R3 Piett Dark Trooper R3 Range Trooper R3 Starck R3
+Wffls,198532873,33,0,33,Padme/BB: Padme Hunter G10 6* Echo G10 6* Tech G10 6* Wrecker G9 6*
+Lymbo,961861724,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+Lymbo,961861724,21,21,0,Padme/BB: Padme Hunter Echo Tech Wrecker
+Lymbo,961861724,3,0,3,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn R2 RG
+Lymbo,961861724,2,0,2,JMLS: JMLS JKL JKR GMY R3 HYoda
+Lymbo,961861724,32,0,32,Troopers: Veers G12 Piett Dark Trooper G9 6* Range Trooper G8 5* Gideon G11
+Rich Rider,682774593,0,0,0,JMK: JMK CAT GK GAS Ahsoka
+Rich Rider,682774593,18,10,8,EP: EP Mara Jade, The Emperor's Hand Vader R3 Thrawn G12 Malak
+Rich Rider,682774593,12,2,10,CLS: CLS R3 C-3PO Han Chewbacca R3 Chewpio G12
+Rich Rider,682774593,43,0,43,Padme/BB: Padme R4 Hunter G7 Echo G7 Tech G7 Wrecker G9
+Rich Rider,682774593,39,0,39,Troopers: Veers G12 Piett G9 Dark Trooper G9 Range Trooper G12 Gideon G9
 Squints,143176759,1,1,0,JMK: JMK CAT GK GAS Ahsoka
 Squints,143176759,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
 Squints,143176759,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
@@ -119,33 +122,47 @@ Squints,143176759,31,2,29,Padme/BB: Padme Hunter G12 Echo G12 Tech G10 Wrecker G
 Ondori,296816962,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
 Ondori,296816962,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
 Ondori,296816962,8,2,6,CLS: CLS C-3PO Han Chewbacca Chewpio G12
-Ondori,296816962,33,2,31,Troopers: Veers G12 Piett Dark Trooper G9 Range Trooper G8 Gideon G12
+Ondori,296816962,23,0,23,Troopers: Veers R3 Piett Dark Trooper G9 Range Trooper G8 Starck R3
+Ro'hale,966784273,6,6,0,JMK: JMK CAT GK GAS Ahsoka
+Ro'hale,966784273,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+Ro'hale,966784273,12,10,2,JMLS: JMLS JKL JKR R3 GMY HYoda
+Ro'hale,966784273,8,4,4,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn R1 Malak
+Ro'hale,966784273,22,9,13,Troopers: Veers Piett G13 Dark Trooper Range Trooper R1 Starck R1
+LordNolak,625916659,11,11,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+LordNolak,625916659,16,16,0,JMLS: JMLS JKL JKR GMY HYoda
+LordNolak,625916659,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
+LordNolak,625916659,29,1,28,Troopers: Veers R3 Piett Dark Trooper G5 Range Trooper G7 6* Starck R3
+LordNolak,625916659,50,0,50,Padme/BB: Padme Hunter G7 5* Echo G5 5* Tech G5 5* Wrecker G5 5*
+Dazaro,342675736,0,0,0,JMK: JMK CAT GK GAS Ahsoka
+Dazaro,342675736,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+Dazaro,342675736,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
+Dazaro,342675736,5,1,4,JMLS: JMLS JKL JKR R1 GMY HYoda
+Dazaro,342675736,17,1,16,EP: EP G12 Mara Jade, The Emperor's Hand Vader R3 Thrawn R1 Malak R1
 Cane Cavito,571494434,0,0,0,JMK: JMK CAT GK GAS Ahsoka
 Cane Cavito,571494434,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
 Cane Cavito,571494434,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
 Cane Cavito,571494434,13,7,6,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn G12 Malak
-Cane Cavito,571494434,24,0,24,Padme/BB: Padme Hunter G12 Echo G12 Tech G12 Wrecker G12
-Shimazu Hanzo,822252926,0,0,0,JMK: JMK CAT GK GAS Ahsoka
-Shimazu Hanzo,822252926,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-Shimazu Hanzo,822252926,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
-Shimazu Hanzo,822252926,6,6,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
-Shimazu Hanzo,822252926,26,26,0,Padme/BB: Padme Hunter Echo Tech Wrecker
-Shimazu Hanzo,822252926,0,0,0,Troopers: Veers Piett Dark Trooper Range Trooper Starck
-Megem,178238853,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
-Megem,178238853,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-Megem,178238853,21,6,15,EP: EP R2 Mara Jade, The Emperor's Hand G9 6* Vader Thrawn R2 Malak
-Megem,178238853,50,0,50,Troopers: Veers G11 Piett G5 4* Dark Trooper G7 5* Range Trooper G9 5* Starck G8
-Glove,421286915,0,0,0,JMK: JMK CAT GK GAS Ahsoka
-Glove,421286915,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
-Glove,421286915,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
-Glove,421286915,12,0,12,CLS: CLS R3 C-3PO Han Chewbacca R3 Chewpio G10
-Glove,421286915,15,0,15,Troopers: Veers R3 Piett Dark Trooper G11 Range Trooper R2 Gideon R2
+Cane Cavito,571494434,24,1,23,Padme/BB: Padme Hunter G13 Echo G12 Tech G12 Wrecker G12
+CommanderTK421,822891745,6,6,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+CommanderTK421,822891745,13,9,4,JMLS: JMLS JKL JKR R3 GMY R3 HYoda
+CommanderTK421,822891745,19,0,19,EP: EP Mara Jade, The Emperor's Hand G11 Vader Thrawn G12 RG G12
 ReDeyeJEDI,699157716,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
 ReDeyeJEDI,699157716,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
 ReDeyeJEDI,699157716,7,0,7,EP: EP Mara Jade, The Emperor's Hand G11 Vader Thrawn Malak
 ReDeyeJEDI,699157716,8,0,8,JMK: JMK CAT G12 GK GAS Ahsoka R3
 ReDeyeJEDI,699157716,15,0,15,Troopers: Veers Piett Dark Trooper G9 Range Trooper G12 Starck
 ReDeyeJEDI,699157716,32,0,32,Padme/BB: Padme Hunter G11 Echo G10 Tech G11 Wrecker G8
+YaDiDiMeAn,316658618,0,0,0,JMK: JMK CAT GK GAS Ahsoka
+YaDiDiMeAn,316658618,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
+YaDiDiMeAn,316658618,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+YaDiDiMeAn,316658618,5,0,5,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak G13
+YaDiDiMeAn,316658618,14,0,14,Troopers: Veers R3 Piett Dark Trooper G13 Range Trooper G13 Starck R3
+My keyz,461238798,6,6,0,JMK: JMK CAT GK GAS Ahsoka
+My keyz,461238798,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
+My keyz,461238798,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+My keyz,461238798,19,1,18,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn G9 Malak G9 6*
+My keyz,461238798,24,1,23,Padme/BB: Padme Hunter Echo G12 Tech G10 Wrecker G9
+My keyz,461238798,28,0,28,Troopers: Veers R3 Piett Dark Trooper G8 5* Range Trooper G8 5* Gideon G12
 Rice,389451147,0,0,0,SEE: SEE Malak Darth Malgus BSF DR
 Rice,389451147,0,0,0,JMK: JMK CAT GK GAS Ahsoka
 Rice,389451147,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
@@ -153,58 +170,42 @@ Rice,389451147,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
 Rice,389451147,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn RG
 Rice,389451147,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
 Rice,389451147,0,0,0,Troopers: Veers Piett Dark Trooper Range Trooper Gideon
-Lerxst,488881189,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-Lerxst,488881189,0,0,0,JMK: JMK CAT GK GAS Ahsoka
-Lerxst,488881189,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
-Lerxst,488881189,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
-Lerxst,488881189,0,0,0,Troopers: Veers Piett Dark Trooper Range Trooper Gideon
-DarthOni,814894322,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-DarthOni,814894322,0,0,0,JMK: JMK CAT GK GAS Ahsoka
-DarthOni,814894322,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
-DarthOni,814894322,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
-DarthOni,814894322,26,4,22,Troopers: Veers R3 Piett Dark Trooper G11 Range Trooper G9 Gideon R1
-DarthOni,814894322,48,9,39,Padme/BB: Padme Hunter G7 Echo G10 Tech G7 Wrecker G9
-Zellnerz,699216629,13,13,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
-Zellnerz,699216629,11,11,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-Zellnerz,699216629,0,0,0,Troopers: Veers Piett Dark Trooper Range Trooper Gideon
-Zellnerz,699216629,11,0,11,JMLS: JMLS G7 JKL JKR GMY HYoda
-Zellnerz,699216629,18,4,14,JMK: JMK G11 CAT G11 GK GAS Ahsoka
-Zellnerz,699216629,30,3,27,Padme/BB: Padme Hunter G12 Echo G9 Tech G12 Wrecker G12
+cdaza933,857218838,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+cdaza933,857218838,0,0,0,JMK: JMK CAT GK GAS Ahsoka
+cdaza933,857218838,2,0,2,JMLS: JMLS JKL JKR R3 GMY HYoda
+cdaza933,857218838,1,0,1,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak R4
+cdaza933,857218838,11,0,11,Troopers: Veers R3 Piett Dark Trooper R3 Range Trooper G12 Gideon R4
+cdaza933,857218838,28,1,27,Padme/BB: Padme Hunter G11 6* Echo G11 6* Tech G11 6* Wrecker G12
 Faroer Laike,912165226,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
 Faroer Laike,912165226,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
 Faroer Laike,912165226,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
 Faroer Laike,912165226,0,0,0,JMK: JMK CAT GK GAS Ahsoka
 Faroer Laike,912165226,17,1,16,Troopers: Veers R3 Piett Dark Trooper G12 Range Trooper G12 Starck R3
 Faroer Laike,912165226,24,0,24,Padme/BB: Padme Hunter G12 Echo G12 Tech G12 Wrecker G12
+Myriddan,511315191,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+Myriddan,511315191,0,0,0,JMK: JMK CAT GK GAS Ahsoka
+Myriddan,511315191,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
+Myriddan,511315191,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
+Myriddan,511315191,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
+Myriddan,511315191,9,3,6,Troopers: Veers Piett Dark Trooper Range Trooper G12 Gideon
+Canderus,883117875,3,3,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+Canderus,883117875,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
+Canderus,883117875,1,0,1,JMK: JMK CAT GK GAS Ahsoka R4
+Nunley,451228862,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
+Nunley,451228862,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn RG
+Nunley,451228862,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
+Nunley,451228862,6,0,6,JMLS: JMLS JKL JKR GMY G12 HYoda
+Nunley,451228862,6,0,6,Troopers: Veers Piett Dark Trooper Range Trooper G12 Gideon
 Kurisu,555853763,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
 Kurisu,555853763,1,0,1,JMLS: JMLS JKL JKR R4 GMY HYoda
 Kurisu,555853763,5,4,1,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak R4
 Kurisu,555853763,19,2,17,Troopers: Veers R3 Piett Dark Trooper G11 Range Trooper G12 Starck R3
 Kurisu,555853763,35,0,35,Padme/BB: Padme Hunter G9 Echo G9 Tech G10 Wrecker G9
-StickSkywalker,869153575,40,20,20,EP: EP Mara Jade, The Emperor's Hand G8 3* Vader Thrawn Shoretrooper G8 5*
-CoolCatLoveBird,297157199,34,34,0,Padme/BB: Padme Hunter Echo Tech Wrecker
-CoolCatLoveBird,297157199,10,8,2,JMK: JMK CAT R3 GK GAS Ahsoka
-CoolCatLoveBird,297157199,2,0,2,JMLS: JMLS JKL JKR R3 GMY HYoda
-CoolCatLoveBird,297157199,11,0,11,EP: EP Mara Jade, The Emperor's Hand G7 Vader Thrawn Malak
-CoolCatLoveBird,297157199,2,0,2,CLS: CLS R3 C-3PO Han Chewbacca Chewpio
-CoolCatLoveBird,297157199,19,0,19,Troopers: Veers R3 Piett Dark Trooper G9 Range Trooper G12 Starck R3
-CommanderTK421,822891745,6,6,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-CommanderTK421,822891745,13,9,4,JMLS: JMLS JKL JKR R3 GMY R3 HYoda
-CommanderTK421,822891745,19,0,19,EP: EP Mara Jade, The Emperor's Hand G11 Vader Thrawn G12 RG G12
-Ro'hale,966784273,6,6,0,JMK: JMK CAT GK GAS Ahsoka
-Ro'hale,966784273,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-Ro'hale,966784273,12,10,2,JMLS: JMLS JKL JKR R3 GMY HYoda
-Ro'hale,966784273,8,4,4,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn R1 Malak
-Ro'hale,966784273,22,9,13,Troopers: Veers Piett G13 Dark Trooper Range Trooper R1 Starck R1
-R1DD1K,283634632,0,0,0,JMLS: JMLS JKL JKR GMY HYoda
-R1DD1K,283634632,0,0,0,JMK: JMK CAT GK GAS Ahsoka
-R1DD1K,283634632,4,4,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
-R1DD1K,283634632,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-R1DD1K,283634632,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
-R1DD1K,283634632,27,8,19,Troopers: Veers R3 Piett Dark Trooper G12 Range Trooper G12 Gideon G13
-Trogdor,164111865,0,0,0,CLS: CLS C-3PO Han Chewbacca Chewpio
-Trogdor,164111865,13,13,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
-Trogdor,164111865,0,0,0,Padme/BB: Padme Hunter Echo Tech Wrecker
-Trogdor,164111865,3,0,3,JMLS: JMLS JKL JKR R2 GMY HYoda
-Trogdor,164111865,5,0,5,JMK: JMK CAT R1 GK GAS Ahsoka R4
-Trogdor,164111865,20,0,20,Troopers: Veers R3 Piett Dark Trooper G9 Range Trooper G11 Starck R3
+Blackstar,361137876,9,9,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
+Blackstar,361137876,12,0,12,CLS: CLS C-3PO Han G12 Chewbacca Chewpio G12
+Blackstar,361137876,27,13,14,Troopers: Veers G12 Piett R4 Dark Trooper R4 Range Trooper G12 Gideon
+Blackstar,361137876,36,5,31,Padme/BB: Padme Hunter G12 Echo G10 Tech G10 Wrecker G9
+Sentey,491233948,0,0,0,EP: EP Mara Jade, The Emperor's Hand Vader Thrawn Malak
+Sentey,491233948,2,0,2,CLS: CLS R3 C-3PO Han Chewbacca Chewpio
+Sentey,491233948,10,3,7,JMLS: JMLS JKL JKR GMY G11 HYoda
+Sentey,491233948,8,0,8,Troopers: Veers R3 Piett Dark Trooper R3 Range Trooper R3 Starck R3

@@ -293,14 +293,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 288 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_KRRSANTAN01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_hardware.png" style="width: 30px" /> Champion of the Fighting Pits</td><td>At the start of battle, Krrsantan gains 30% Defense and Max Health. Whenever Krrsantan loses Taunt, he recovers 10% Health and Protection.\n\nIf all allies were Hutt Cartel at the start of battle: At the start of each encounter, Krrsantan Taunts and gains Speed Up for 2 turns. Whenever he loses Taunt, he gains it for 1 turn if the ally in the Leader slot has more than 50% Protection. The first time he is defeated, he revives with 60% Health and recovers 60% Protection at the end of the ally in the Leader slot's turn. Dismember no longer starts on cooldown, and its cooldown is reset at the start of each encounter.\n\nWhile in Grand Arenas: At the start of battle, Krrsantan gains 40% Max Protection. While he is active, all enemies have -30% Potency.\n\nIf all allies were Hutt Cartel at the start of battle: Krrsantan is immune to Ability Block and cooldown increase and the first time the ally in the Leader slot (excluding himself) falls below 50% Health, Krrsantan Taunts for 2 turns and the ally in the Leader slot recovers 50% Protection.</td><td>114</td><td>40%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 284 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_KRRSANTAN01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_hardware.png" style="width: 30px" /> Champion of the Fighting Pits</td><td>At the start of battle, Krrsantan gains 30% Defense and Max Health. Whenever Krrsantan loses Taunt, he recovers 10% Health and Protection.\n\nIf all allies were Hutt Cartel at the start of battle: At the start of each encounter, Krrsantan Taunts and gains Speed Up for 2 turns. Whenever he loses Taunt, he gains it for 1 turn if the ally in the Leader slot has more than 50% Protection. The first time he is defeated, he revives with 60% Health and recovers 60% Protection at the end of the ally in the Leader slot's turn. Dismember no longer starts on cooldown, and its cooldown is reset at the start of each encounter.\n\nWhile in Grand Arenas: At the start of battle, Krrsantan gains 40% Max Protection. While he is active, all enemies have -30% Potency.\n\nIf all allies were Hutt Cartel at the start of battle: Krrsantan is immune to Ability Block and cooldown increase and the first time the ally in the Leader slot (excluding himself) falls below 50% Health, Krrsantan Taunts for 2 turns and the ally in the Leader slot recovers 50% Protection.</td><td>112</td><td>39%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 33, 6, 1, 1, 1, 6, 7, 27, 10, 2, 2, 7, 1, 1, 0, 0, 2, 89, 15, 50, 21, 6 ],
+    y: [ 33, 6, 1, 1, 1, 6, 6, 27, 10, 2, 2, 6, 1, 1, 0, 0, 1, 90, 15, 48, 21, 6 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 11.458333333333332, 13.541666666666664, 13.888888888888886, 14.236111111111107, 14.583333333333329, 16.66666666666666, 19.097222222222218, 28.472222222222218, 31.94444444444444, 32.638888888888886, 33.33333333333333, 35.763888888888886, 36.11111111111111, 36.45833333333333, 36.45833333333333, 36.45833333333333, 37.15277777777777, 68.05555555555554, 73.26388888888887, 90.62499999999999, 97.91666666666666, 99.99999999999999 ],
+    y: [ 11.619718309859154, 13.732394366197182, 14.08450704225352, 14.436619718309858, 14.788732394366196, 16.901408450704224, 19.014084507042252, 28.521126760563376, 32.04225352112676, 32.74647887323944, 33.45070422535212, 35.563380281690144, 35.91549295774648, 36.267605633802816, 36.267605633802816, 36.267605633802816, 36.61971830985915, 68.30985915492957, 73.59154929577464, 90.49295774647887, 97.88732394366197, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -320,5 +320,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-05-12 15:56:00 +0000</font>
+<font size="-2">Generated 2024-05-19 22:19:05 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

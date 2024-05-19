@@ -308,14 +308,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 315 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_PHASMA"><img src="https://game-assets.swgoh.gg/tex.abilityui_leader_default.png" style="width: 30px" /> Fire at Will</td><td>First Order allies have +20% Potency, gain Advantage for 2 turns at the start of each encounter, and can't be critically hit while they have Advantage. Whenever an ally attacks, they have a 20% chance to call a random ally to assist. This chance is tripled if the attacking ally is First Order. If that ally had Advantage, they regain it for 2 turns.\n\nWhile in Territory Wars: Additional +10% chance to call a random ally to assist. Captain Phasma has +100 Speed. Whenever a First Order ally attacks out of turn, First Order allies recover 5% Health and Protection. Whenever a First Order ally gains Advantage, they also gain 10% Offense (stacking) for the rest of battle and all First Order allies gain 7.5% Turn Meter.</td><td>237</td><td>75%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 310 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_PHASMA"><img src="https://game-assets.swgoh.gg/tex.abilityui_leader_default.png" style="width: 30px" /> Fire at Will</td><td>First Order allies have +20% Potency, gain Advantage for 2 turns at the start of each encounter, and can't be critically hit while they have Advantage. Whenever an ally attacks, they have a 20% chance to call a random ally to assist. This chance is tripled if the attacking ally is First Order. If that ally had Advantage, they regain it for 2 turns.\n\nWhile in Territory Wars: Additional +10% chance to call a random ally to assist. Captain Phasma has +100 Speed. Whenever a First Order ally attacks out of turn, First Order allies recover 5% Health and Protection. Whenever a First Order ally gains Advantage, they also gain 10% Offense (stacking) for the rest of battle and all First Order allies gain 7.5% Turn Meter.</td><td>234</td><td>75%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 1, 0, 0, 1, 0, 1, 6, 11, 5, 4, 9, 16, 1, 6, 0, 2, 0, 242, 2, 8, 0, 0 ],
+    y: [ 1, 0, 0, 1, 0, 1, 6, 10, 4, 4, 8, 16, 1, 5, 1, 2, 0, 239, 3, 8, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.31746031746031744, 0.31746031746031744, 0.31746031746031744, 0.6349206349206349, 0.6349206349206349, 0.9523809523809523, 2.857142857142857, 6.34920634920635, 7.936507936507937, 9.206349206349206, 12.063492063492063, 17.142857142857142, 17.46031746031746, 19.365079365079364, 19.365079365079364, 20.0, 20.0, 96.82539682539684, 97.46031746031747, 100.00000000000001, 100.00000000000001, 100.00000000000001 ],
+    y: [ 0.3225806451612903, 0.3225806451612903, 0.3225806451612903, 0.6451612903225806, 0.6451612903225806, 0.967741935483871, 2.903225806451613, 6.129032258064516, 7.419354838709677, 8.709677419354838, 11.29032258064516, 16.451612903225804, 16.774193548387096, 18.387096774193548, 18.70967741935484, 19.35483870967742, 19.35483870967742, 96.45161290322581, 97.41935483870968, 100.0, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -335,5 +335,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-05-12 15:56:00 +0000</font>
+<font size="-2">Generated 2024-05-19 22:19:05 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

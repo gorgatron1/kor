@@ -229,14 +229,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-0', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 306 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_juhani01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_heal.png" style="width: 30px" /> Cathar Resilience</td><td>Juhani recovers 20% of her Health at the beginning of each of her turns. While Taunting, Juhani has +35% counter chance.\n\nWhen Juhani falls below 100% Health, she recovers 5% Protection for each active Jedi or Old Republic ally, then gains Health Steal Up, Offense Up, and Stealth for 2 turns. If Juhani had Taunt when this condition was met, dispel Taunt.\n\nWhile in Territory Wars: At the start of battle, Juhani Taunts for 2 turns. Then Juhani, a random Dark Side Unaligned Force User ally (excluding Empire, First Order, and Galactic Legends), and a random Light Side Unaligned Force User ally (excluding Galactic Legends) gain Redeemed until Juhani is defeated, which can't be copied, dispelled, or prevented.\n\nRedeemed: +35 Speed; whenever an ally with Redeemed uses an ability during their turn, all other allies with Redeemed assist; whenever an ally with Redeemed gains a buff, dispel all debuffs on allies with Redeemed; whenever an ally with Redeemed is damaged by an enemy, all allies with Redeemed gain 15% Turn Meter; whenever an ally with Redeemed is inflicted with a debuff, all allies with Redeemed recover 15% Protection</td><td>192</td><td>63%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 302 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_juhani01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_heal.png" style="width: 30px" /> Cathar Resilience</td><td>Juhani recovers 20% of her Health at the beginning of each of her turns. While Taunting, Juhani has +35% counter chance.\n\nWhen Juhani falls below 100% Health, she recovers 5% Protection for each active Jedi or Old Republic ally, then gains Health Steal Up, Offense Up, and Stealth for 2 turns. If Juhani had Taunt when this condition was met, dispel Taunt.\n\nWhile in Territory Wars: At the start of battle, Juhani Taunts for 2 turns. Then Juhani, a random Dark Side Unaligned Force User ally (excluding Empire, First Order, and Galactic Legends), and a random Light Side Unaligned Force User ally (excluding Galactic Legends) gain Redeemed until Juhani is defeated, which can't be copied, dispelled, or prevented.\n\nRedeemed: +35 Speed; whenever an ally with Redeemed uses an ability during their turn, all other allies with Redeemed assist; whenever an ally with Redeemed gains a buff, dispel all debuffs on allies with Redeemed; whenever an ally with Redeemed is damaged by an enemy, all allies with Redeemed gain 15% Turn Meter; whenever an ally with Redeemed is inflicted with a debuff, all allies with Redeemed recover 15% Protection</td><td>189</td><td>63%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 6, 2, 2, 1, 0, 1, 7, 14, 8, 12, 17, 139, 3, 8, 8, 22, 3, 40, 6, 5, 2, 0 ],
+    y: [ 6, 2, 2, 1, 0, 1, 7, 13, 9, 11, 18, 137, 3, 8, 8, 22, 2, 39, 6, 5, 2, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 1.9607843137254901, 2.6143790849673203, 3.2679738562091503, 3.5947712418300655, 3.5947712418300655, 3.9215686274509807, 6.209150326797386, 10.784313725490197, 13.398692810457517, 17.320261437908496, 22.87581699346405, 68.30065359477123, 69.28104575163398, 71.89542483660131, 74.50980392156863, 81.69934640522877, 82.67973856209152, 95.75163398692811, 97.7124183006536, 99.34640522875817, 100.0, 100.0 ],
+    y: [ 1.9867549668874174, 2.6490066225165565, 3.3112582781456954, 3.642384105960265, 3.642384105960265, 3.9735099337748343, 6.291390728476821, 10.596026490066226, 13.576158940397352, 17.218543046357617, 23.17880794701987, 68.54304635761589, 69.5364238410596, 72.18543046357615, 74.8344370860927, 82.11920529801324, 82.78145695364238, 95.69536423841059, 97.68211920529801, 99.33774834437085, 99.99999999999999, 99.99999999999999 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -256,5 +256,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-05-12 15:56:00 +0000</font>
+<font size="-2">Generated 2024-05-19 22:19:05 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

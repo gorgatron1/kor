@@ -224,14 +224,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-0', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 294 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_HOTHHAN01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_crit_buff.png" style="width: 30px" /> Nick of Time</td><td>Captain Han Solo has +15% Critical Chance and +30% Critical Damage. In addition, at the end of his turn, Han recovers Health equal to 10% of his Max Health. If Han already has full Health, the least healthy ally is healed instead. Whenever Han uses his Basic attack he gains +10% Max Health (stacking) for 3 turns.</td><td>193</td><td>66%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 290 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_HOTHHAN01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_crit_buff.png" style="width: 30px" /> Nick of Time</td><td>Captain Han Solo has +15% Critical Chance and +30% Critical Damage. In addition, at the end of his turn, Han recovers Health equal to 10% of his Max Health. If Han already has full Health, the least healthy ally is healed instead. Whenever Han uses his Basic attack he gains +10% Max Health (stacking) for 3 turns.</td><td>192</td><td>66%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 7, 1, 1, 0, 0, 7, 0, 4, 4, 0, 1, 2, 0, 0, 0, 80, 12, 143, 15, 15, 2, 0 ],
+    y: [ 7, 1, 1, 0, 0, 7, 0, 4, 3, 1, 1, 2, 0, 0, 0, 77, 10, 143, 15, 16, 2, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 2.380952380952381, 2.7210884353741496, 3.061224489795918, 3.061224489795918, 3.061224489795918, 5.442176870748299, 5.442176870748299, 6.802721088435374, 8.16326530612245, 8.16326530612245, 8.503401360544219, 9.183673469387756, 9.183673469387756, 9.183673469387756, 9.183673469387756, 36.394557823129254, 40.47619047619048, 89.1156462585034, 94.21768707482994, 99.31972789115648, 100.00000000000001, 100.00000000000001 ],
+    y: [ 2.413793103448276, 2.7586206896551726, 3.1034482758620694, 3.1034482758620694, 3.1034482758620694, 5.517241379310345, 5.517241379310345, 6.8965517241379315, 7.931034482758621, 8.275862068965518, 8.620689655172415, 9.310344827586208, 9.310344827586208, 9.310344827586208, 9.310344827586208, 35.86206896551724, 39.310344827586206, 88.62068965517241, 93.79310344827586, 99.3103448275862, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -251,5 +251,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-05-12 15:56:00 +0000</font>
+<font size="-2">Generated 2024-05-19 22:19:05 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
