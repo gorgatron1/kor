@@ -288,14 +288,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 300 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_GEONOSIANBROODALPHA"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_firstaid.png" style="width: 30px" /> Geonosian Swarm</td><td>Geonosian allies have +15,000 Max Health and Max Protection, and +50% Health Steal. Geonosian allies recover 3% Protection when they use their Basic ability. Basic abilities of Geonosian allies deal 10% more damage for each buffed enemy.</td><td>273</td><td>91%</td></tr><tr><td data-order="uniqueskill_GEONOSIANBROODALPHA01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_hivemind.png" style="width: 30px" /> Queen's Will</td><td>Geonosian Brood Alpha has +60% Tenacity. All Geonosian allies have the Hive Mind buff while Geonosian Brood Alpha is active, which can't be dispelled or prevented. When another Geonosian ally is defeated, reduce the cooldown of Conscription by 1. At the start of the encounter, summon a Geonosian Brute who Taunts for 1 turn.\n\nHive Mind: Assist whenever another Geonosian ally uses an ability during his turn, dealing 50% less damage; equalize Health and Protection with Hive Mind allies whenever an enemy uses an ability</td><td>284</td><td>95%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 305 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_GEONOSIANBROODALPHA"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_firstaid.png" style="width: 30px" /> Geonosian Swarm</td><td>Geonosian allies have +15,000 Max Health and Max Protection, and +50% Health Steal. Geonosian allies recover 3% Protection when they use their Basic ability. Basic abilities of Geonosian allies deal 10% more damage for each buffed enemy.</td><td>279</td><td>91%</td></tr><tr><td data-order="uniqueskill_GEONOSIANBROODALPHA01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_hivemind.png" style="width: 30px" /> Queen's Will</td><td>Geonosian Brood Alpha has +60% Tenacity. All Geonosian allies have the Hive Mind buff while Geonosian Brood Alpha is active, which can't be dispelled or prevented. When another Geonosian ally is defeated, reduce the cooldown of Conscription by 1. At the start of the encounter, summon a Geonosian Brute who Taunts for 1 turn.\n\nHive Mind: Assist whenever another Geonosian ally uses an ability during his turn, dealing 50% less damage; equalize Health and Protection with Hive Mind allies whenever an enemy uses an ability</td><td>291</td><td>95%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 1, 0, 0, 0, 0, 4, 2, 3, 4, 4, 54, 1, 8, 21, 71, 40, 62, 11, 14, 0, 0 ],
+    y: [ 0, 1, 0, 0, 0, 0, 4, 2, 3, 4, 4, 55, 1, 10, 17, 75, 41, 64, 10, 14, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 0.33333333333333337, 0.33333333333333337, 0.33333333333333337, 0.33333333333333337, 0.33333333333333337, 1.666666666666667, 2.333333333333334, 3.333333333333334, 4.666666666666668, 6.000000000000002, 24.0, 24.333333333333332, 27.0, 34.0, 57.66666666666667, 71.0, 91.66666666666667, 95.33333333333334, 100.00000000000001, 100.00000000000001, 100.00000000000001 ],
+    y: [ 0.0, 0.32786885245901637, 0.32786885245901637, 0.32786885245901637, 0.32786885245901637, 0.32786885245901637, 1.6393442622950818, 2.2950819672131146, 3.278688524590164, 4.590163934426229, 5.9016393442622945, 23.934426229508198, 24.262295081967213, 27.540983606557376, 33.114754098360656, 57.704918032786885, 71.14754098360656, 92.1311475409836, 95.40983606557377, 100.0, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -315,5 +315,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-05-19 22:19:05 +0000</font>
+<font size="-2">Generated 2024-06-03 00:08:50 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

@@ -214,14 +214,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-0', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 200 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="basicskill_DARTHMALGUS"><img src="https://game-assets.swgoh.gg/tex.ability_darthmalgus_basic.png" style="width: 30px" /> Unfettered Rage</td><td>Deal Physical damage to target enemy with a 50% chance to attack again, doubled if the target is a Jedi. On the second attack, Darth Malgus gains 20% Max Health (stacking, max 100%) until the end of the encounter. These attacks can't be countered or evaded. Sith Empire allies gain Critical Damage Up for 2 turns.</td><td>189</td><td>94%</td></tr><tr><td data-order="specialskill_DARTHMALGUS02"><img src="https://game-assets.swgoh.gg/tex.ability_darthmalgus_special02.png" style="width: 30px" /> Dark Deception</td><td>Deal true damage to target enemy equal to 40% of Darth Malgus' Max Health and inflict Doubt on them for 2 turns. If Darth Malgus is in the Leader slot and not the ally slot, this Doubt can't be resisted. Increase target enemy's cooldowns by 1, which can't be resisted. Darth Malgus gains Protection Up (20%) and additional Protection Up (5%, stacking) for each debuff on each ally for 2 turns.\n\nDoubt: Can't gain bonus Turn Meter or buffs or recover Protection</td><td>190</td><td>95%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 207 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="basicskill_DARTHMALGUS"><img src="https://game-assets.swgoh.gg/tex.ability_darthmalgus_basic.png" style="width: 30px" /> Unfettered Rage</td><td>Deal Physical damage to target enemy with a 50% chance to attack again, doubled if the target is a Jedi. On the second attack, Darth Malgus gains 20% Max Health (stacking, max 100%) until the end of the encounter. These attacks can't be countered or evaded. Sith Empire allies gain Critical Damage Up for 2 turns.</td><td>193</td><td>93%</td></tr><tr><td data-order="specialskill_DARTHMALGUS02"><img src="https://game-assets.swgoh.gg/tex.ability_darthmalgus_special02.png" style="width: 30px" /> Dark Deception</td><td>Deal true damage to target enemy equal to 40% of Darth Malgus' Max Health and inflict Doubt on them for 2 turns. If Darth Malgus is in the Leader slot and not the ally slot, this Doubt can't be resisted. Increase target enemy's cooldowns by 1, which can't be resisted. Darth Malgus gains Protection Up (20%) and additional Protection Up (5%, stacking) for each debuff on each ally for 2 turns.\n\nDoubt: Can't gain bonus Turn Meter or buffs or recover Protection</td><td>195</td><td>94%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 2, 1, 0, 0, 0, 0, 0, 6, 4, 1, 0, 4, 1, 7, 3, 11, 3, 41, 11, 63, 18, 24 ],
+    y: [ 2, 1, 0, 0, 0, 0, 0, 7, 5, 0, 0, 3, 2, 6, 6, 10, 3, 42, 11, 66, 19, 24 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 1.0, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 4.5, 6.5, 7.0, 7.0, 9.0, 9.5, 13.0, 14.5, 20.0, 21.5, 42.0, 47.5, 79.0, 88.0, 100.0 ],
+    y: [ 0.966183574879227, 1.4492753623188406, 1.4492753623188406, 1.4492753623188406, 1.4492753623188406, 1.4492753623188406, 1.4492753623188406, 4.830917874396135, 7.246376811594203, 7.246376811594203, 7.246376811594203, 8.695652173913043, 9.66183574879227, 12.560386473429952, 15.458937198067634, 20.28985507246377, 21.73913043478261, 42.028985507246375, 47.34299516908212, 79.22705314009661, 88.40579710144927, 99.99999999999999 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -241,5 +241,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-05-19 22:19:05 +0000</font>
+<font size="-2">Generated 2024-06-03 00:08:50 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

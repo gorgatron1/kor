@@ -283,14 +283,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 306 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_DARTHNIHILUS"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_sith.png" style="width: 30px" /> Strength of the Void</td><td>Sith allies gain 60% Offense and 150% Health Steal. Sith allies lose all Protection and gain that much Max Health. Sith allies are immune to Healing effects that aren't Health Steal and can't score Critical Hits.</td><td>118</td><td>39%</td></tr><tr><td data-order="uniqueskill_DARTHNIHILUS01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_kill.png" style="width: 30px" /> Lord of Hunger</td><td>At the start of each of his turns, Nihilus inflicts Damage Over Time for 2 turns on a random enemy that doesn't have any debuffs. If all enemies are debuffed, inflict Damage Over Time on a random enemy. At the start of each enemy turn, Nihilus inflicts Health Down on them for 2 turns. When allied Darth Sion or Darth Traya are inflicted with a debuff, Nihilus gains 10% Turn Meter and +30% Max Health (stacking) until the end of the encounter.</td><td>236</td><td>77%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 313 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_DARTHNIHILUS"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_sith.png" style="width: 30px" /> Strength of the Void</td><td>Sith allies gain 60% Offense and 150% Health Steal. Sith allies lose all Protection and gain that much Max Health. Sith allies are immune to Healing effects that aren't Health Steal and can't score Critical Hits.</td><td>118</td><td>38%</td></tr><tr><td data-order="uniqueskill_DARTHNIHILUS01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_kill.png" style="width: 30px" /> Lord of Hunger</td><td>At the start of each of his turns, Nihilus inflicts Damage Over Time for 2 turns on a random enemy that doesn't have any debuffs. If all enemies are debuffed, inflict Damage Over Time on a random enemy. At the start of each enemy turn, Nihilus inflicts Health Down on them for 2 turns. When allied Darth Sion or Darth Traya are inflicted with a debuff, Nihilus gains 10% Turn Meter and +30% Max Health (stacking) until the end of the encounter.</td><td>240</td><td>77%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 6, 0, 0, 0, 1, 2, 3, 16, 10, 3, 6, 68, 6, 9, 10, 62, 15, 70, 7, 11, 1, 0 ],
+    y: [ 6, 0, 0, 0, 1, 2, 3, 17, 7, 4, 5, 73, 7, 9, 9, 63, 17, 71, 7, 11, 1, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 1.9607843137254901, 1.9607843137254901, 1.9607843137254901, 1.9607843137254901, 2.287581699346405, 2.941176470588235, 3.9215686274509802, 9.15032679738562, 12.418300653594772, 13.398692810457517, 15.359477124183007, 37.58169934640523, 39.54248366013072, 42.48366013071895, 45.751633986928105, 66.01307189542484, 70.91503267973857, 93.79084967320263, 96.07843137254903, 99.6732026143791, 100.00000000000001, 100.00000000000001 ],
+    y: [ 1.9169329073482428, 1.9169329073482428, 1.9169329073482428, 1.9169329073482428, 2.236421725239617, 2.8753993610223643, 3.8338658146964857, 9.26517571884984, 11.501597444089455, 12.779552715654951, 14.376996805111819, 37.69968051118211, 39.936102236421725, 42.81150159744409, 45.68690095846646, 65.81469648562302, 71.24600638977637, 93.92971246006391, 96.16613418530353, 99.68051118210865, 100.00000000000001, 100.00000000000001 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -310,5 +310,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-05-19 22:19:05 +0000</font>
+<font size="-2">Generated 2024-06-03 00:08:50 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

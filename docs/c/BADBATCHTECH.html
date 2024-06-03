@@ -229,14 +229,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-0', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 303 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_BADBATCHTECH01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_translation.png" style="width: 30px" /> Clone Interpreter</td><td>At the start of battle, Tech gains +1 Speed for each Clone Trooper ally, doubled for Bad Batch allies. If all allies are Clone Troopers, Tech gains Stealth for 1 turn. Tech has +25% Potency for each of his own stacks of Translation.\n\nWhile Tech is active, Clone Trooper allies gain Translation for 3 turns (max 3 stacks) each time they use a Special ability. Translation cannot be copied. If the character already has Translation, the duration for all current stacks on that character resets to 3 turns. If all allies that can apply Translation are defeated, all stacks of Translation expire.\n\nTranslation - Beneficial effects build based on the cumulative number of stacks:\n1: Gain +30% Max Health\n2: Gain +15% Critical Chance\n3: If only one ally who grants Translation is present, decrease this character's cooldowns by 1 when that ally uses their Basic ability (limit once per turn)</td><td>191</td><td>63%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 309 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_BADBATCHTECH01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_translation.png" style="width: 30px" /> Clone Interpreter</td><td>At the start of battle, Tech gains +1 Speed for each Clone Trooper ally, doubled for Bad Batch allies. If all allies are Clone Troopers, Tech gains Stealth for 1 turn. Tech has +25% Potency for each of his own stacks of Translation.\n\nWhile Tech is active, Clone Trooper allies gain Translation for 3 turns (max 3 stacks) each time they use a Special ability. Translation cannot be copied. If the character already has Translation, the duration for all current stacks on that character resets to 3 turns. If all allies that can apply Translation are defeated, all stacks of Translation expire.\n\nTranslation - Beneficial effects build based on the cumulative number of stacks:\n1: Gain +30% Max Health\n2: Gain +15% Critical Chance\n3: If only one ally who grants Translation is present, decrease this character's cooldowns by 1 when that ally uses their Basic ability (limit once per turn)</td><td>194</td><td>63%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 36, 1, 6, 3, 8, 2, 9, 12, 30, 17, 6, 10, 2, 2, 1, 2, 1, 145, 2, 7, 1, 0 ],
+    y: [ 35, 1, 6, 5, 7, 2, 6, 14, 30, 18, 5, 11, 3, 2, 1, 3, 0, 150, 2, 7, 1, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 11.881188118811881, 12.21122112211221, 14.19141914191419, 15.18151815181518, 17.82178217821782, 18.48184818481848, 21.45214521452145, 25.41254125412541, 35.31353135313531, 40.92409240924092, 42.9042904290429, 46.2046204620462, 46.86468646864686, 47.52475247524752, 47.854785478547846, 48.514851485148505, 48.844884488448834, 96.69966996699668, 97.35973597359734, 99.66996699669964, 99.99999999999997, 99.99999999999997 ],
+    y: [ 11.326860841423949, 11.650485436893204, 13.592233009708737, 15.210355987055015, 17.475728155339805, 18.122977346278315, 20.064724919093848, 24.595469255663428, 34.30420711974109, 40.129449838187696, 41.74757281553397, 45.30744336569578, 46.27831715210355, 46.92556634304206, 47.24919093851131, 48.22006472491908, 48.22006472491908, 96.76375404530742, 97.41100323624593, 99.67637540453072, 99.99999999999997, 99.99999999999997 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -256,5 +256,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-05-19 22:19:05 +0000</font>
+<font size="-2">Generated 2024-06-03 00:08:50 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
