@@ -288,14 +288,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 310 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_l3_37_01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_removeharmful.png" style="width: 30px" /> For the Droids</td><td>At the start of L3-37's turns, if L3-37 didn't take damage from an enemy since her last turn she becomes Prepared. Whenever another Droid or Scoundrel ally takes damage, L3-37 gains 15% Turn Meter. Whenever L3-37 takes damage from an attack, she dispels debuffs from a random debuffed Scoundrel ally. The first time each other Droid ally is reduced to 1% Health, they equalize Health with L3-37.</td><td>91</td><td>29%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 310 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_l3_37_01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_removeharmful.png" style="width: 30px" /> For the Droids</td><td>At the start of L3-37's turns, if L3-37 didn't take damage from an enemy since her last turn she becomes Prepared. Whenever another Droid or Scoundrel ally takes damage, L3-37 gains 15% Turn Meter. Whenever L3-37 takes damage from an attack, she dispels debuffs from a random debuffed Scoundrel ally. The first time each other Droid ally is reduced to 1% Health, they equalize Health with L3-37.</td><td>92</td><td>30%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 18, 4, 4, 7, 3, 6, 12, 41, 6, 5, 15, 52, 2, 5, 4, 11, 4, 98, 5, 6, 2, 0 ],
+    y: [ 17, 4, 4, 6, 3, 6, 11, 42, 6, 6, 15, 52, 2, 6, 5, 11, 4, 97, 5, 6, 2, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 5.806451612903226, 7.096774193548387, 8.387096774193548, 10.64516129032258, 11.612903225806452, 13.548387096774194, 17.41935483870968, 30.645161290322584, 32.58064516129033, 34.193548387096776, 39.03225806451613, 55.80645161290323, 56.451612903225815, 58.06451612903226, 59.35483870967742, 62.903225806451616, 64.19354838709678, 95.80645161290323, 97.41935483870968, 99.35483870967742, 100.0, 100.0 ],
+    y: [ 5.483870967741936, 6.774193548387097, 8.064516129032258, 10.0, 10.967741935483872, 12.903225806451614, 16.451612903225808, 30.000000000000004, 31.935483870967744, 33.87096774193549, 38.70967741935484, 55.483870967741936, 56.12903225806452, 58.06451612903226, 59.67741935483871, 63.225806451612904, 64.51612903225806, 95.80645161290323, 97.41935483870968, 99.35483870967742, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -315,5 +315,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-06-03 00:08:50 +0000</font>
+<font size="-2">Generated 2024-06-10 02:39:53 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
