@@ -229,14 +229,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-0', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 306 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="specialskill_ADMIRALPIETT02"><img src="https://game-assets.swgoh.gg/tex.ability_piett_special02.png" style="width: 30px" /> Suborbital Strike</td><td>Dispel all buffs on Light Side enemies. Deal Physical damage to all enemies and inflict Daze for 2 turns. Allies with Inevitable Failure gain 2 stacks. If this attack defeats an enemy, inflict Fear on all enemies for 1 turn and allies with Inevitable Failure gain 5 stacks. This Fear can't be copied, dispelled, or resisted.</td><td>264</td><td>86%</td></tr><tr><td data-order="uniqueskill_ADMIRALPIETT01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_assist.png" style="width: 30px" /> The Emperor's Trap</td><td>Admiral Piett has +60% counter chance. Piett gains 5% Turn Meter whenever another Empire ally takes damage.\n\nWhenever an Empire ally begins a turn or attacks out of turn, all Empire allies gain a stack of The Emperor's Trap until the start of the next enemy turn, non-Empire ally's turn, or the end of battle. The Emperor's Trap can't be copied, dispelled, or prevented.\n\nIf Darth Vader is an ally: Darth Vader and Admiral Piett have +20% Accuracy, Potency, and Tenacity.\n\nThe Emperor's Trap: +6% Offense and Potency per stack</td><td>265</td><td>87%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 308 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="specialskill_ADMIRALPIETT02"><img src="https://game-assets.swgoh.gg/tex.ability_piett_special02.png" style="width: 30px" /> Suborbital Strike</td><td>Dispel all buffs on Light Side enemies. Deal Physical damage to all enemies and inflict Daze for 2 turns. Allies with Inevitable Failure gain 2 stacks. If this attack defeats an enemy, inflict Fear on all enemies for 1 turn and allies with Inevitable Failure gain 5 stacks. This Fear can't be copied, dispelled, or resisted.</td><td>264</td><td>86%</td></tr><tr><td data-order="uniqueskill_ADMIRALPIETT01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_assist.png" style="width: 30px" /> The Emperor's Trap</td><td>Admiral Piett has +60% counter chance. Piett gains 5% Turn Meter whenever another Empire ally takes damage.\n\nWhenever an Empire ally begins a turn or attacks out of turn, all Empire allies gain a stack of The Emperor's Trap until the start of the next enemy turn, non-Empire ally's turn, or the end of battle. The Emperor's Trap can't be copied, dispelled, or prevented.\n\nIf Darth Vader is an ally: Darth Vader and Admiral Piett have +20% Accuracy, Potency, and Tenacity.\n\nThe Emperor's Trap: +6% Offense and Potency per stack</td><td>265</td><td>86%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 12, 1, 2, 1, 7, 0, 7, 5, 3, 7, 0, 2, 2, 0, 0, 3, 1, 21, 4, 4, 185, 39 ],
+    y: [ 12, 1, 1, 0, 7, 2, 7, 6, 3, 8, 0, 2, 2, 0, 0, 2, 1, 21, 4, 3, 187, 39 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 3.9215686274509802, 4.248366013071895, 4.901960784313726, 5.228758169934641, 7.516339869281046, 7.516339869281046, 9.803921568627452, 11.437908496732026, 12.418300653594772, 14.705882352941178, 14.705882352941178, 15.359477124183007, 16.013071895424837, 16.013071895424837, 16.013071895424837, 16.99346405228758, 17.320261437908496, 24.18300653594771, 25.49019607843137, 26.79738562091503, 87.25490196078431, 100.0 ],
+    y: [ 3.896103896103896, 4.220779220779221, 4.545454545454546, 4.545454545454546, 6.818181818181818, 7.467532467532468, 9.740259740259742, 11.688311688311689, 12.662337662337663, 15.25974025974026, 15.25974025974026, 15.90909090909091, 16.558441558441558, 16.558441558441558, 16.558441558441558, 17.207792207792206, 17.532467532467532, 24.35064935064935, 25.649350649350648, 26.623376623376622, 87.33766233766232, 99.99999999999999 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -256,5 +256,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-06-10 02:39:53 +0000</font>
+<font size="-2">Generated 2024-06-17 15:09:40 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

@@ -389,12 +389,12 @@ Plotly.newPlot('mc-2', traces, layout)
 }
 </script><h2>Alliance Demographic Data</h2>Based on 323 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_BOBAFETT01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_mandalorian.png" style="width: 30px" /> Bounty Hunter's Resolve</td><td>At the start of encounter, and whenever he defeats an enemy, Boba Fett recovers 100% Protection and gains Bounty Hunter's Resolve until he is defeated.\n\nBounty Hunter's Resolve: This unit ignores Taunt effects during his turn. When defeated, revive at 100% Health. Can't be Dispelled, prevented, or stacked.</td><td>267</td><td>83%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 1, 1, 0, 2, 1, 1, 0, 5, 4, 2, 1, 27, 0, 2, 5, 4, 3, 11, 4, 19, 229, 1 ],
+    y: [ 1, 1, 1, 1, 0, 2, 0, 4, 4, 2, 1, 28, 0, 2, 5, 3, 3, 11, 5, 17, 231, 1 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.30959752321981426, 0.6191950464396285, 0.6191950464396285, 1.238390092879257, 1.5479876160990713, 1.8575851393188856, 1.8575851393188856, 3.405572755417957, 4.643962848297214, 5.2631578947368425, 5.572755417956657, 13.93188854489164, 13.93188854489164, 14.551083591331269, 16.09907120743034, 17.3374613003096, 18.26625386996904, 21.671826625387, 22.910216718266255, 28.792569659442727, 99.69040247678018, 100.0 ],
+    y: [ 0.30959752321981426, 0.6191950464396285, 0.9287925696594428, 1.238390092879257, 1.238390092879257, 1.8575851393188856, 1.8575851393188856, 3.0959752321981426, 4.3343653250774, 4.953560371517028, 5.2631578947368425, 13.931888544891642, 13.931888544891642, 14.55108359133127, 16.09907120743034, 17.027863777089784, 17.956656346749227, 21.362229102167184, 22.910216718266255, 28.173374613003098, 99.69040247678018, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -414,5 +414,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-06-10 02:39:53 +0000</font>
+<font size="-2">Generated 2024-06-17 15:09:40 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

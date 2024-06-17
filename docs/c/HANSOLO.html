@@ -318,14 +318,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 311 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_HANSOLO01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_speed.png" style="width: 30px" /> Shoots First</td><td>Han has +35% counter chance and +20% Critical Chance. The first time each turn that Han uses his Basic ability he attacks again, dealing 50% less damage.\n\nAt the start of encounter Han takes a bonus turn. During this turn he can only use his Basic ability, can ignore Taunt effects, and Stuns the target enemy for 1 turn, which can't be resisted.</td><td>290</td><td>93%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 312 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_HANSOLO01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_speed.png" style="width: 30px" /> Shoots First</td><td>Han has +35% counter chance and +20% Critical Chance. The first time each turn that Han uses his Basic ability he attacks again, dealing 50% less damage.\n\nAt the start of encounter Han takes a bonus turn. During this turn he can only use his Basic ability, can ignore Taunt effects, and Stuns the target enemy for 1 turn, which can't be resisted.</td><td>290</td><td>93%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 1, 0, 0, 0, 1, 1, 3, 4, 2, 2, 3, 16, 1, 0, 1, 3, 5, 10, 52, 11, 193, 2 ],
+    y: [ 1, 0, 0, 0, 1, 1, 3, 4, 2, 3, 3, 15, 1, 0, 1, 4, 3, 11, 52, 9, 196, 2 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.3215434083601286, 0.3215434083601286, 0.3215434083601286, 0.3215434083601286, 0.6430868167202572, 0.9646302250803859, 1.929260450160772, 3.2154340836012865, 3.858520900321544, 4.501607717041801, 5.466237942122187, 10.610932475884244, 10.932475884244372, 10.932475884244372, 11.2540192926045, 12.218649517684886, 13.826366559485528, 17.041800643086816, 33.762057877813504, 37.29903536977492, 99.35691318327974, 100.0 ],
+    y: [ 0.3205128205128205, 0.3205128205128205, 0.3205128205128205, 0.3205128205128205, 0.641025641025641, 0.9615384615384615, 1.923076923076923, 3.205128205128205, 3.846153846153846, 4.8076923076923075, 5.769230769230769, 10.576923076923077, 10.897435897435898, 10.897435897435898, 11.217948717948719, 12.5, 13.461538461538462, 16.98717948717949, 33.65384615384615, 36.53846153846154, 99.35897435897436, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -345,5 +345,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-06-10 02:39:53 +0000</font>
+<font size="-2">Generated 2024-06-17 15:09:40 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

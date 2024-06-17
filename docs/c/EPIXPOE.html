@@ -293,14 +293,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 302 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_EPIXPOE01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_rebel.png" style="width: 30px" /> Spark of Resistance</td><td>If all of Resistance Hero Poe's allies are Light Side, enemies lose 5% Protection whenever they lose a debuff. When Inspired allies deal damage to an enemy with an ability, they also deal bonus damage equal to 10% of the target's Max Health, which can't be evaded. If an enemy critically hits an Inspired ally, all buffs are dispelled from that enemy at the end of the turn.\n\nIf Resistance Hero Poe is Inspired when he uses a Special ability during his turn, he can Inspire another target Resistance ally.</td><td>198</td><td>66%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 303 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_EPIXPOE01"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_rebel.png" style="width: 30px" /> Spark of Resistance</td><td>If all of Resistance Hero Poe's allies are Light Side, enemies lose 5% Protection whenever they lose a debuff. When Inspired allies deal damage to an enemy with an ability, they also deal bonus damage equal to 10% of the target's Max Health, which can't be evaded. If an enemy critically hits an Inspired ally, all buffs are dispelled from that enemy at the end of the turn.\n\nIf Resistance Hero Poe is Inspired when he uses a Special ability during his turn, he can Inspire another target Resistance ally.</td><td>200</td><td>66%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 17, 6, 5, 0, 2, 3, 4, 6, 13, 2, 3, 5, 1, 0, 0, 0, 1, 210, 7, 17, 0, 0 ],
+    y: [ 16, 6, 5, 0, 2, 3, 4, 6, 13, 2, 4, 4, 1, 1, 0, 0, 1, 210, 8, 17, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 5.629139072847682, 7.6158940397351, 9.271523178807946, 9.271523178807946, 9.933774834437086, 10.927152317880795, 12.251655629139073, 14.23841059602649, 18.543046357615893, 19.20529801324503, 20.19867549668874, 21.854304635761586, 22.185430463576157, 22.185430463576157, 22.185430463576157, 22.185430463576157, 22.516556291390728, 92.05298013245033, 94.37086092715232, 100.0, 100.0, 100.0 ],
+    y: [ 5.2805280528052805, 7.260726072607261, 8.91089108910891, 8.91089108910891, 9.57095709570957, 10.561056105610561, 11.881188118811881, 13.861386138613861, 18.151815181518153, 18.81188118811881, 20.13201320132013, 21.45214521452145, 21.78217821782178, 22.11221122112211, 22.11221122112211, 22.11221122112211, 22.44224422442244, 91.74917491749174, 94.38943894389439, 100.0, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -320,5 +320,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-06-10 02:39:53 +0000</font>
+<font size="-2">Generated 2024-06-17 15:09:40 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

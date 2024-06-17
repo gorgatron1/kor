@@ -303,14 +303,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 299 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_QIRA01"><img src="https://game-assets.swgoh.gg/tex.ability_passive_healthsteal.png" style="width: 30px" /> Insult to Injury</td><td>While attacking, Qi'ra has +40% Potency if her target isn't debuffed and +30% Critical Damage if it is. Other Scoundrel allies gain half these benefits while attacking. In addition, at the end of each turn, if any single enemy suffered more than one Critical Hit this turn, Qi'ra becomes Prepared and gains 15% Turn Meter and Health Steal Up for 1 turn. Each other ally that used an ability this turn also gains Health Steal Up for 1 turn.</td><td>92</td><td>31%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 304 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_QIRA01"><img src="https://game-assets.swgoh.gg/tex.ability_passive_healthsteal.png" style="width: 30px" /> Insult to Injury</td><td>While attacking, Qi'ra has +40% Potency if her target isn't debuffed and +30% Critical Damage if it is. Other Scoundrel allies gain half these benefits while attacking. In addition, at the end of each turn, if any single enemy suffered more than one Critical Hit this turn, Qi'ra becomes Prepared and gains 15% Turn Meter and Health Steal Up for 1 turn. Each other ally that used an ability this turn also gains Health Steal Up for 1 turn.</td><td>92</td><td>30%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 35, 5, 4, 3, 8, 15, 13, 13, 15, 60, 13, 68, 2, 6, 3, 6, 1, 23, 0, 3, 3, 0 ],
+    y: [ 38, 5, 4, 4, 8, 15, 13, 13, 15, 60, 12, 67, 2, 7, 5, 6, 1, 22, 1, 3, 3, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 11.705685618729097, 13.377926421404682, 14.715719063545151, 15.719063545150503, 18.39464882943144, 23.411371237458194, 27.759197324414714, 32.10702341137124, 37.123745819397996, 57.19063545150502, 61.53846153846154, 84.2809364548495, 84.94983277591973, 86.95652173913044, 87.95986622073579, 89.9665551839465, 90.30100334448161, 97.99331103678931, 97.99331103678931, 98.99665551839466, 100.00000000000001, 100.00000000000001 ],
+    y: [ 12.5, 14.144736842105264, 15.460526315789474, 16.776315789473685, 19.407894736842106, 24.342105263157897, 28.618421052631582, 32.89473684210527, 37.828947368421055, 57.56578947368421, 61.51315789473684, 83.55263157894737, 84.21052631578948, 86.51315789473685, 88.15789473684211, 90.13157894736842, 90.46052631578948, 97.69736842105264, 98.0263157894737, 99.01315789473686, 100.00000000000003, 100.00000000000003 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -330,5 +330,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-06-10 02:39:53 +0000</font>
+<font size="-2">Generated 2024-06-17 15:09:40 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
