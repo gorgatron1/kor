@@ -72,7 +72,7 @@ td.examples {
 <a href="../alliance/index.html">Alliance</a> |
 <a href="../alliance/players.html">Player</a> | <a href="../alliance/characters.html">Characters</a> | <a href="../alliance/history.html">History</a> | <a href="../alliance/transfers.html">Transfers</a>
 </div>
-<br/><h1><img id="picture" src="https://game-assets.swgoh.gg/tex.charui_chewbacca_vandor.png" />Alliance Character Data: Vandor Chewbacca</h1><h2>swgoh.gg data</h2><ul><li><a href="https://swgoh.gg/characters/vandor-chewbacca/">abilities / character data</a></li><li><a href="https://swgoh.gg/characters/vandor-chewbacca/data/">character meta report</a></li><li><a href="https://swgoh.gg/characters/vandor-chewbacca/data/mods">mods meta report</a></li><li><a href="https://swgoh.gg/characters/vandor-chewbacca/data/stats">stats meta report</a></li></ul><h2>Mod Data</h2><h3>Mod Stat Distributions</h3>Mod stat distributions across 1614 units from the
+<br/><h1><img id="picture" src="https://game-assets.swgoh.gg/textures/tex.charui_chewbacca_vandor.png" />Alliance Character Data: Vandor Chewbacca</h1><h2>swgoh.gg data</h2><ul><li><a href="https://swgoh.gg/characters/vandor-chewbacca/">abilities / character data</a></li><li><a href="https://swgoh.gg/characters/vandor-chewbacca/data/">character meta report</a></li><li><a href="https://swgoh.gg/characters/vandor-chewbacca/data/mods">mods meta report</a></li><li><a href="https://swgoh.gg/characters/vandor-chewbacca/data/stats">stats meta report</a></li></ul><h2>Mod Data</h2><h3>Mod Stat Distributions</h3>Mod stat distributions across 1614 units from the
 alliance and top guilds.  The bonuses are shown as applied to an R5 unit.
 Specific distributions are shown below by common mod configurations.<div id="mc-all" style="height:500px" /><script>
 {
@@ -214,14 +214,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-0', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 294 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_YOUNGCHEWBACCA02"><img src="https://game-assets.swgoh.gg/tex.abilityui_passive_def.png" style="width: 30px" /> Ferocious Protector</td><td>While Chewbacca is buffed, he has 100% Counter Chance. At the end of each turn while Chewbacca is buffed, if any ally took damage from an attack and Chewbacca did not, he recovers Protection equal to 10% of his Max Health and other Scoundrel allies recover half of that amount. When Chewbacca recovers to Max Protection this way, he becomes Prepared. When another light side Scoundrel ally is defeated, Revive that ally at 60% Health, if Chewbacca is Prepared. Then, Chewbacca is no longer Prepared.</td><td>110</td><td>37%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 295 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_YOUNGCHEWBACCA02"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_def.png" style="width: 30px" /> Ferocious Protector</td><td>While Chewbacca is buffed, he has 100% Counter Chance. At the end of each turn while Chewbacca is buffed, if any ally took damage from an attack and Chewbacca did not, he recovers Protection equal to 10% of his Max Health and other Scoundrel allies recover half of that amount. When Chewbacca recovers to Max Protection this way, he becomes Prepared. When another light side Scoundrel ally is defeated, Revive that ally at 60% Health, if Chewbacca is Prepared. Then, Chewbacca is no longer Prepared.</td><td>111</td><td>38%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 48, 3, 6, 11, 15, 17, 25, 13, 25, 1, 14, 60, 2, 7, 1, 14, 0, 23, 2, 7, 0, 0 ],
+    y: [ 52, 3, 7, 8, 13, 21, 25, 12, 22, 2, 12, 60, 3, 6, 1, 15, 1, 22, 2, 8, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 16.3265306122449, 17.346938775510203, 19.387755102040817, 23.12925170068027, 28.2312925170068, 34.01360544217687, 42.517006802721085, 46.93877551020408, 55.4421768707483, 55.78231292517007, 60.54421768707483, 80.95238095238095, 81.63265306122449, 84.01360544217687, 84.35374149659863, 89.11564625850339, 89.11564625850339, 96.93877551020407, 97.6190476190476, 99.99999999999999, 99.99999999999999, 99.99999999999999 ],
+    y: [ 17.627118644067796, 18.64406779661017, 21.016949152542374, 23.728813559322035, 28.135593220338983, 35.25423728813559, 43.728813559322035, 47.79661016949153, 55.2542372881356, 55.93220338983051, 60.0, 80.33898305084746, 81.35593220338983, 83.38983050847457, 83.72881355932203, 88.8135593220339, 89.15254237288136, 96.61016949152543, 97.28813559322035, 100.0, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -241,5 +241,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-06-17 15:09:40 +0000</font>
+<font size="-2">Generated 2024-07-13 17:30:49 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
