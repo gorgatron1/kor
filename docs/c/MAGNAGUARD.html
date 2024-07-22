@@ -303,14 +303,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 332 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="specialskill_MAGNAGUARD02"><img src="https://game-assets.swgoh.gg/textures/tex.ability_magnaguard_special02.png" style="width: 30px" /> Stunning Strike</td><td>Deal Physical damage to target enemy and dispel all buffs on them. Then, Stun them for 1 turn. If no buffs were dispelled, reset the cooldown of this ability.</td><td>214</td><td>64%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 328 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="specialskill_MAGNAGUARD02"><img src="https://game-assets.swgoh.gg/textures/tex.ability_magnaguard_special02.png" style="width: 30px" /> Stunning Strike</td><td>Deal Physical damage to target enemy and dispel all buffs on them. Then, Stun them for 1 turn. If no buffs were dispelled, reset the cooldown of this ability.</td><td>213</td><td>65%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 18, 1, 5, 1, 1, 2, 7, 4, 4, 2, 1, 13, 1, 1, 0, 7, 4, 243, 8, 8, 0, 1 ],
+    y: [ 18, 1, 4, 0, 1, 0, 7, 3, 6, 2, 1, 13, 1, 1, 0, 7, 3, 245, 7, 8, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 5.421686746987952, 5.72289156626506, 7.228915662650603, 7.530120481927711, 7.83132530120482, 8.433734939759036, 10.542168674698795, 11.74698795180723, 12.951807228915664, 13.554216867469881, 13.85542168674699, 17.7710843373494, 18.072289156626507, 18.373493975903614, 18.373493975903614, 20.481927710843372, 21.686746987951807, 94.87951807228916, 97.28915662650603, 99.6987951807229, 99.6987951807229, 100.0 ],
+    y: [ 5.487804878048781, 5.7926829268292686, 7.01219512195122, 7.01219512195122, 7.317073170731708, 7.317073170731708, 9.451219512195122, 10.365853658536585, 12.195121951219512, 12.804878048780488, 13.109756097560975, 17.073170731707318, 17.378048780487806, 17.682926829268293, 17.682926829268293, 19.817073170731707, 20.73170731707317, 95.42682926829268, 97.5609756097561, 100.0, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -330,5 +330,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-07-13 17:30:49 +0000</font>
+<font size="-2">Generated 2024-07-22 15:00:09 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

@@ -219,14 +219,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-0', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 310 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_SHAAKTI"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_faction_galacticrepublic.png" style="width: 30px" /> Unity Wins War</td><td>Clone Trooper allies have +35 Speed. Clone Trooper allies recover 5% Health and Protection when they attack out of turn.\n\nFor each Clone Trooper ally at the start of battle (excluding summoned allies), Galactic Republic allies have +15% Max Health, +5% Max Protection, and +15% Offense.</td><td>273</td><td>88%</td></tr><tr><td data-order="uniqueskill_SHAAKTI01"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_extraturn.png" style="width: 30px" /> Heightened Reflexes</td><td>Whenever Shaak Ti or a Clone Trooper ally takes damage from an attack, Shaak Ti gains 20% Turn Meter.\n\nWhenever Shaak Ti or a Clone Trooper ally takes damage from an attack, they gain Retribution for 2 turns at the end of that turn.</td><td>283</td><td>91%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 308 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_SHAAKTI"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_faction_galacticrepublic.png" style="width: 30px" /> Unity Wins War</td><td>Clone Trooper allies have +35 Speed. Clone Trooper allies recover 5% Health and Protection when they attack out of turn.\n\nFor each Clone Trooper ally at the start of battle (excluding summoned allies), Galactic Republic allies have +15% Max Health, +5% Max Protection, and +15% Offense.</td><td>273</td><td>89%</td></tr><tr><td data-order="uniqueskill_SHAAKTI01"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_extraturn.png" style="width: 30px" /> Heightened Reflexes</td><td>Whenever Shaak Ti or a Clone Trooper ally takes damage from an attack, Shaak Ti gains 20% Turn Meter.\n\nWhenever Shaak Ti or a Clone Trooper ally takes damage from an attack, they gain Retribution for 2 turns at the end of that turn.</td><td>283</td><td>92%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 9, 0, 0, 0, 0, 1, 4, 7, 1, 0, 1, 14, 1, 2, 2, 16, 1, 14, 3, 231, 3, 0 ],
+    y: [ 9, 0, 0, 0, 0, 1, 2, 7, 1, 0, 2, 14, 1, 2, 2, 13, 1, 14, 4, 232, 3, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 2.903225806451613, 2.903225806451613, 2.903225806451613, 2.903225806451613, 2.903225806451613, 3.2258064516129035, 4.516129032258065, 6.774193548387097, 7.096774193548387, 7.096774193548387, 7.419354838709677, 11.93548387096774, 12.25806451612903, 12.90322580645161, 13.54838709677419, 18.709677419354836, 19.032258064516128, 23.548387096774192, 24.516129032258064, 99.03225806451613, 100.0, 100.0 ],
+    y: [ 2.922077922077922, 2.922077922077922, 2.922077922077922, 2.922077922077922, 2.922077922077922, 3.2467532467532463, 3.8961038961038956, 6.1688311688311686, 6.4935064935064934, 6.4935064935064934, 7.142857142857142, 11.688311688311689, 12.012987012987013, 12.662337662337663, 13.311688311688313, 17.532467532467535, 17.85714285714286, 22.402597402597408, 23.701298701298708, 99.02597402597404, 100.00000000000001, 100.00000000000001 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -246,5 +246,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-07-13 17:30:49 +0000</font>
+<font size="-2">Generated 2024-07-22 15:00:09 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

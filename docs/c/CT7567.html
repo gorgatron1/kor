@@ -229,14 +229,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-0', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 319 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_REX01"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_501.png" style="width: 30px" /> Captain of the 501st</td><td>All 501st allies have +4% Speed for each 501st ally present at the start of battle. Other 501st Clone Trooper allies reduce their own ability cooldowns by 1 at the start of each of their turns.\n\nIf Ahsoka Tano is an ally, she gains Critical Hit Immunity for 2 turns whenever she falls below 100% Health.</td><td>276</td><td>87%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 317 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_REX01"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_501.png" style="width: 30px" /> Captain of the 501st</td><td>All 501st allies have +4% Speed for each 501st ally present at the start of battle. Other 501st Clone Trooper allies reduce their own ability cooldowns by 1 at the start of each of their turns.\n\nIf Ahsoka Tano is an ally, she gains Critical Hit Immunity for 2 turns whenever she falls below 100% Health.</td><td>276</td><td>87%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 6, 0, 1, 1, 0, 1, 4, 13, 1, 2, 5, 34, 5, 12, 4, 19, 21, 87, 22, 80, 1, 0 ],
+    y: [ 6, 0, 1, 1, 0, 0, 5, 11, 1, 2, 6, 34, 5, 11, 4, 19, 21, 87, 22, 80, 1, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 1.8808777429467085, 1.8808777429467085, 2.19435736677116, 2.507836990595611, 2.507836990595611, 2.8213166144200623, 4.075235109717868, 8.150470219435736, 8.463949843260187, 9.09090909090909, 10.658307210031346, 21.31661442006269, 22.884012539184948, 26.645768025078365, 27.89968652037617, 33.855799373040746, 40.438871473354226, 67.71159874608149, 74.60815047021943, 99.68652037617554, 99.99999999999999, 99.99999999999999 ],
+    y: [ 1.8927444794952681, 1.8927444794952681, 2.2082018927444795, 2.5236593059936907, 2.5236593059936907, 2.5236593059936907, 4.100946372239747, 7.570977917981072, 7.886435331230283, 8.517350157728705, 10.410094637223974, 21.13564668769716, 22.71293375394322, 26.182965299684543, 27.444794952681388, 33.4384858044164, 40.06309148264984, 67.50788643533123, 74.44794952681389, 99.6845425867508, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -256,5 +256,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-07-13 17:30:49 +0000</font>
+<font size="-2">Generated 2024-07-22 15:00:09 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

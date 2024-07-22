@@ -382,14 +382,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-2', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 310 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_MISSIONVAO02"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_mission_zaalbar.png" style="width: 30px" /> Me and Big Z Forever</td><td>Mission has +50% Offense. If Zaalbar is present, he also gains this bonus. Once per turn, Mission Assists when Zaalbar uses an ability. When Zaalbar takes damage from an attack, Mission gains 10% Offense (stacking) for 2 turns. When Mission deals damage to an enemy, Zaalbar recovers 10% Health.</td><td>253</td><td>82%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 310 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_MISSIONVAO02"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_mission_zaalbar.png" style="width: 30px" /> Me and Big Z Forever</td><td>Mission has +50% Offense. If Zaalbar is present, he also gains this bonus. Once per turn, Mission Assists when Zaalbar uses an ability. When Zaalbar takes damage from an attack, Mission gains 10% Offense (stacking) for 2 turns. When Mission deals damage to an enemy, Zaalbar recovers 10% Health.</td><td>254</td><td>82%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 6, 0, 0, 2, 3, 3, 4, 5, 4, 7, 30, 205, 3, 8, 4, 4, 4, 7, 4, 7, 0, 0 ],
+    y: [ 6, 0, 0, 1, 4, 3, 4, 5, 5, 7, 28, 206, 3, 8, 4, 4, 4, 7, 4, 7, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 1.935483870967742, 1.935483870967742, 1.935483870967742, 2.5806451612903225, 3.5483870967741935, 4.516129032258064, 5.806451612903225, 7.419354838709676, 8.709677419354838, 10.96774193548387, 20.64516129032258, 86.77419354838709, 87.74193548387096, 90.32258064516128, 91.61290322580645, 92.90322580645162, 94.19354838709678, 96.45161290322582, 97.74193548387099, 100.00000000000003, 100.00000000000003, 100.00000000000003 ],
+    y: [ 1.935483870967742, 1.935483870967742, 1.935483870967742, 2.2580645161290325, 3.548387096774194, 4.516129032258065, 5.806451612903226, 7.419354838709678, 9.03225806451613, 11.290322580645162, 20.32258064516129, 86.7741935483871, 87.74193548387098, 90.3225806451613, 91.61290322580646, 92.90322580645163, 94.1935483870968, 96.45161290322582, 97.74193548387099, 100.00000000000003, 100.00000000000003, 100.00000000000003 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -409,5 +409,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-07-13 17:30:49 +0000</font>
+<font size="-2">Generated 2024-07-22 15:00:09 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

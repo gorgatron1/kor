@@ -278,14 +278,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 319 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_b1battledroidv2_02"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_mechanicalmenace.png" style="width: 30px" /> Droid Battalion</td><td>B1 can't score critical hits or be revived. B1 has no Protection, 1 Health, and 100 stacks of Droid Battalion, and can't be defeated or destroyed while they have Droid Battalion. When all stacks of Droid Battalion expire, B1 is immediately destroyed. B1 is immune to Damage Over Time, and their Max Health and Max Protection can't be increased.\n\nWhen B1 takes damage, they dispel all debuffs on themselves and lose 8 stacks of Droid Battalion. At the start of B1's turn, they gain 3 stacks of Droid Battalion.\n\nB1 is immune to damage from Lord of Betrayal in the Sith Triumvirate Raid.\n\nDroid Battalion: Each stack grants B1 +2% Offense and all Separatist allies +0.5% Tenacity and Critical Avoidance</td><td>286</td><td>90%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 319 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_b1battledroidv2_02"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_mechanicalmenace.png" style="width: 30px" /> Droid Battalion</td><td>B1 can't score critical hits or be revived. B1 has no Protection, 1 Health, and 100 stacks of Droid Battalion, and can't be defeated or destroyed while they have Droid Battalion. When all stacks of Droid Battalion expire, B1 is immediately destroyed. B1 is immune to Damage Over Time, and their Max Health and Max Protection can't be increased.\n\nWhen B1 takes damage, they dispel all debuffs on themselves and lose 8 stacks of Droid Battalion. At the start of B1's turn, they gain 3 stacks of Droid Battalion.\n\nB1 is immune to damage from Lord of Betrayal in the Sith Triumvirate Raid.\n\nDroid Battalion: Each stack grants B1 +2% Offense and all Separatist allies +0.5% Tenacity and Critical Avoidance</td><td>285</td><td>89%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 15, 1, 2, 4, 0, 2, 3, 1, 2, 1, 2, 11, 1, 2, 10, 29, 67, 130, 15, 21, 0, 0 ],
+    y: [ 14, 1, 2, 4, 0, 2, 3, 2, 3, 1, 2, 10, 1, 2, 11, 29, 67, 131, 13, 21, 0, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 4.702194357366771, 5.015673981191223, 5.6426332288401255, 6.896551724137931, 6.896551724137931, 7.523510971786833, 8.463949843260188, 8.77742946708464, 9.404388714733543, 9.717868338557993, 10.344827586206897, 13.793103448275861, 14.106583072100312, 14.733542319749215, 17.86833855799373, 26.959247648902824, 47.962382445141074, 88.71473354231975, 93.41692789968653, 100.0, 100.0, 100.0 ],
+    y: [ 4.38871473354232, 4.702194357366771, 5.329153605015674, 6.58307210031348, 6.58307210031348, 7.210031347962382, 8.150470219435736, 8.77742946708464, 9.717868338557993, 10.031347962382444, 10.658307210031348, 13.793103448275861, 14.106583072100312, 14.733542319749215, 18.18181818181818, 27.272727272727273, 48.27586206896552, 89.34169278996865, 93.41692789968651, 99.99999999999999, 99.99999999999999, 99.99999999999999 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -305,5 +305,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-07-13 17:30:49 +0000</font>
+<font size="-2">Generated 2024-07-22 15:00:09 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

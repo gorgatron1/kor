@@ -229,14 +229,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-0', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 325 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_CT555501"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_501.png" style="width: 30px" /> Domino Squad</td><td>Fives has +85% counter chance. Fives gains 15% Turn Meter whenever another Clone Trooper or 501st ally takes damage and half that amount for other allies.\n\nIf CT-21-0408 "Echo" is present, Fives has +100% Defense when Taunting, or deals 100% more damage when not Taunting.</td><td>275</td><td>85%</td></tr><tr><td data-order="uniqueskill_CT555502"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_heal.png" style="width: 30px" /> Tactical Awareness</td><td>Fives can't be revived. When another 501st Clone Trooper ally would be defeated while Fives is active, they recover 100% Health and Fives is defeated at the end of that turn.\n\nIf Fives is defeated this way, 501st Clone Trooper allies gain his Max Health, Max Protection, Speed, and Offense stats in addition to their own until the end of battle.</td><td>278</td><td>86%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 321 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_CT555501"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_501.png" style="width: 30px" /> Domino Squad</td><td>Fives has +85% counter chance. Fives gains 15% Turn Meter whenever another Clone Trooper or 501st ally takes damage and half that amount for other allies.\n\nIf CT-21-0408 "Echo" is present, Fives has +100% Defense when Taunting, or deals 100% more damage when not Taunting.</td><td>274</td><td>85%</td></tr><tr><td data-order="uniqueskill_CT555502"><img src="https://game-assets.swgoh.gg/textures/tex.abilityui_passive_heal.png" style="width: 30px" /> Tactical Awareness</td><td>Fives can't be revived. When another 501st Clone Trooper ally would be defeated while Fives is active, they recover 100% Health and Fives is defeated at the end of that turn.\n\nIf Fives is defeated this way, 501st Clone Trooper allies gain his Max Health, Max Protection, Speed, and Offense stats in addition to their own until the end of battle.</td><td>278</td><td>87%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 6, 2, 4, 3, 0, 2, 1, 7, 6, 9, 1, 30, 1, 7, 8, 23, 20, 58, 13, 111, 12, 1 ],
+    y: [ 7, 2, 3, 3, 0, 0, 0, 7, 7, 8, 1, 30, 1, 6, 8, 23, 20, 59, 12, 111, 12, 1 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 1.8461538461538463, 2.4615384615384617, 3.6923076923076925, 4.615384615384616, 4.615384615384616, 5.230769230769232, 5.538461538461539, 7.692307692307693, 9.53846153846154, 12.30769230769231, 12.615384615384619, 21.84615384615385, 22.153846153846157, 24.30769230769231, 26.769230769230774, 33.846153846153854, 40.00000000000001, 57.846153846153854, 61.846153846153854, 96.0, 99.6923076923077, 100.0 ],
+    y: [ 2.1806853582554515, 2.803738317757009, 3.7383177570093453, 4.672897196261681, 4.672897196261681, 4.672897196261681, 4.672897196261681, 6.853582554517133, 9.034267912772584, 11.526479750778815, 11.838006230529594, 21.18380062305296, 21.49532710280374, 23.364485981308412, 25.856697819314643, 33.021806853582554, 39.25233644859813, 57.63239875389408, 61.37071651090343, 95.95015576323988, 99.68847352024922, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -256,5 +256,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2024-07-13 17:30:49 +0000</font>
+<font size="-2">Generated 2024-07-22 15:00:09 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
